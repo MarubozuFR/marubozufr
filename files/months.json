@@ -1,0 +1,132 @@
+[
+ {
+  "ID": "a34c17ad-5038-4b40-a1df-1f41ffed9e69",
+  "Month": "2023, 01-JAN",
+  "Month WN": "2023, Jan",
+  "Month N": "January",
+  "Strategy P&L": 25.7735,
+  "Test P&L": 25.7735,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "4673bdcc-607c-483c-b5d0-0e6a971f95aa",
+  "Month": "2023, 02-FEB",
+  "Month WN": "2023, Feb",
+  "Month N": "February",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "ec809abd-d3c7-40d0-b1e5-8ec447a00588",
+  "Month": "2023, 03-MAR",
+  "Month WN": "2023, Mar",
+  "Month N": "March",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "38fcefa5-0fba-4c67-92c4-6fe04feafbc6",
+  "Month": "2023, 04-APR",
+  "Month WN": "2023, Apr",
+  "Month N": "April",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "33503766-7354-409f-9711-73a333d68a7c",
+  "Month": "2023, 05-MAY",
+  "Month WN": "2023, May",
+  "Month N": "May",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "0292c2f0-3628-4bde-ab6f-a0a9ee5876af",
+  "Month": "2023, 06-JUN",
+  "Month WN": "2023, Jun",
+  "Month N": "June",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "e460d192-d5fb-43c7-8495-bb005d52ad4a",
+  "Month": "2023, 07-JUL",
+  "Month WN": "2023, Jul",
+  "Month N": "July",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "ab65a34d-21ab-408b-983d-1dda31c8b8a2",
+  "Month": "2023, 08-AUG",
+  "Month WN": "2023, Aug",
+  "Month N": "August",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "af7755a1-4287-4a30-8a5e-599f03b546d4",
+  "Month": "2023, 09-SEP",
+  "Month WN": "2023, Sep",
+  "Month N": "September",
+  "Strategy P&L": 5.056821236559,
+  "Test P&L": 0.0,
+  "Demo P&L": 1.4675889680210004,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "b5563c7d-b5e5-4022-9623-5cfcdc05c59c",
+  "Month": "2023, 10-OCT",
+  "Month WN": "2023, Oct",
+  "Month N": "October",
+  "Strategy P&L": 37.61164868693599,
+  "Test P&L": 31.468791544078996,
+  "Demo P&L": 2.9184228571429998,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "4382816e-ae31-42fa-a16e-f2f504df8ed2",
+  "Month": "2023, 11-NOV",
+  "Month WN": "2023, Nov",
+  "Month N": "November",
+  "Strategy P&L": 52.71993427244001,
+  "Test P&L": 39.044064707223,
+  "Demo P&L": 6.6610325941949995,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "17a1ebc8-e6b2-43b9-880e-8ad10434de6f",
+  "Month": "2023, 12-DEC",
+  "Month WN": "2023, Dec",
+  "Month N": "December",
+  "Strategy P&L": 3.9775,
+  "Test P&L": 0.0,
+  "Demo P&L": 2.5174437245439996,
+  "Live P&L": 0.0
+ },
+ {
+  "ID": "546a4748-69cb-4ee2-8d95-15aff2cf919a",
+  "Month": "2024, 01-JAN",
+  "Month WN": "2024, Jan",
+  "Month N": "January",
+  "Strategy P&L": 0.0,
+  "Test P&L": 0.0,
+  "Demo P&L": 0.0,
+  "Live P&L": 0.0
+ }
+]

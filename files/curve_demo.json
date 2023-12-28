@@ -1,0 +1,382 @@
+[
+ {
+  "Date": "2023-09-11T11:20:00.000+02:00",
+  "Strategy": -1.0,
+  "Reality": -1.0354,
+  "Reality ($)": -103.54,
+  "Risk Management": 0.5,
+  "Streak": -1,
+  "Losing Streak": 1,
+  "Winning Streak": 0
+ },
+ {
+  "Date": "2023-09-12T08:45:00.000+02:00",
+  "Strategy": -1.0,
+  "Reality": -2.0354,
+  "Reality ($)": -172.29000000000002,
+  "Risk Management": 0.5,
+  "Streak": -2,
+  "Losing Streak": 2,
+  "Winning Streak": 0
+ },
+ {
+  "Date": "2023-09-15T08:45:00.000+02:00",
+  "Strategy": -1.0,
+  "Reality": -1.9104,
+  "Reality ($)": -159.79000000000002,
+  "Risk Management": 0.5,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-18T08:15:00.000+02:00",
+  "Strategy": -2.0,
+  "Reality": -2.9104,
+  "Reality ($)": -209.79000000000002,
+  "Risk Management": 0.5,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-18T08:45:00.000+02:00",
+  "Strategy": -3.0,
+  "Reality": -3.9818285714290003,
+  "Reality ($)": -303.54,
+  "Risk Management": 0.5,
+  "Streak": -2,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-20T12:00:00.000+02:00",
+  "Strategy": 2.051612903226,
+  "Reality": 1.0472036866360002,
+  "Reality ($)": -241.18,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-21T08:15:00.000+02:00",
+  "Strategy": 1.0516129032260002,
+  "Reality": -0.02422488479299978,
+  "Reality ($)": -334.93,
+  "Risk Management": 0.5,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-28T09:32:00.000+02:00",
+  "Strategy": 0.051612903226000206,
+  "Reality": 0.06668420611600022,
+  "Reality ($)": -322.43,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-29T04:00:00.000+02:00",
+  "Strategy": -0.9483870967739998,
+  "Reality": -0.9687157938839999,
+  "Reality ($)": -425.97,
+  "Risk Management": 0.5,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-29T08:00:00.000+02:00",
+  "Strategy": -1.9483870967739998,
+  "Reality": -2.009172936741,
+  "Reality ($)": -517.01,
+  "Risk Management": 0.5,
+  "Streak": -2,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-09-29T08:30:00.000+02:00",
+  "Strategy": 5.056821236559,
+  "Reality": 1.4675889680210004,
+  "Reality ($)": 395.64,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-10-04T08:15:00.000+02:00",
+  "Strategy": 4.056821236559,
+  "Reality": 0.43218896802100026,
+  "Reality ($)": 292.09999999999997,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-10-11T08:45:00.000+02:00",
+  "Strategy": 4.056821236559,
+  "Reality": 0.5571889680210003,
+  "Reality ($)": 304.59999999999997,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-10-23T08:17:00.000+02:00",
+  "Strategy": 3.056821236559,
+  "Reality": -0.47113103197899964,
+  "Reality ($)": 47.51999999999998,
+  "Risk Management": 0.5,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-10-23T09:08:00.000+02:00",
+  "Strategy": 11.199678379416,
+  "Reality": 4.386011825164,
+  "Reality ($)": 897.52,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-06T10:30:00.000+01:00",
+  "Strategy": 11.199678379416,
+  "Reality": 4.338811825164,
+  "Reality ($)": 872.74,
+  "Risk Management": 1,
+  "Streak": 0,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-07T03:00:00.000+01:00",
+  "Strategy": 11.199678379416,
+  "Reality": 4.369705647386,
+  "Reality ($)": 888.3799975000001,
+  "Risk Management": 1,
+  "Streak": 0,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-09T03:49:00.000+01:00",
+  "Strategy": 10.199678379416,
+  "Reality": 3.3292485045289997,
+  "Reality ($)": 342.13999750000005,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-09T08:34:00.000+01:00",
+  "Strategy": 15.299678379416,
+  "Reality": 8.186848504529,
+  "Reality ($)": 2679.8599974999997,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-10T03:54:00.000+01:00",
+  "Strategy": 15.339678379415998,
+  "Reality": 8.201800228666999,
+  "Reality ($)": 2687.9899975,
+  "Risk Management": 1,
+  "Streak": 0,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-17T10:00:00.000+01:00",
+  "Strategy": 17.600547944633,
+  "Reality": 9.210203590011998,
+  "Reality ($)": 3730.7899975,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-27T10:20:00.000+01:00",
+  "Strategy": 20.975547944633,
+  "Reality": 9.236870256678998,
+  "Reality ($)": 3736.0699975,
+  "Risk Management": 1,
+  "Streak": 0,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-28T03:15:00.000+01:00",
+  "Strategy": 25.875547944633,
+  "Reality": 12.162833893042997,
+  "Reality ($)": 10129.7394375,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-11-30T03:00:00.000+01:00",
+  "Strategy": 24.875547944633,
+  "Reality": 11.047044419358997,
+  "Reality ($)": 7826.3594375,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-01T08:15:00.000+01:00",
+  "Strategy": 23.875547944633,
+  "Reality": 9.880377752691997,
+  "Reality ($)": 5672.5994375,
+  "Risk Management": 0.5,
+  "Streak": -2,
+  "Losing Streak": 2,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-04T08:30:00.000+01:00",
+  "Strategy": 22.875547944633,
+  "Reality": 8.668256540570997,
+  "Reality ($)": 4438.1994374999995,
+  "Risk Management": 0.5,
+  "Streak": -3,
+  "Losing Streak": 3,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-05T08:15:00.000+01:00",
+  "Strategy": 21.875547944633,
+  "Reality": 7.5749232072379975,
+  "Reality ($)": 3333.6594374999995,
+  "Risk Management": 0.5,
+  "Streak": -4,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-05T10:15:00.000+01:00",
+  "Strategy": 28.728047944632998,
+  "Reality": 12.611810707237996,
+  "Reality ($)": 8326.2223275,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-05T10:30:00.000+01:00",
+  "Strategy": 27.728047944632998,
+  "Reality": 11.554900138131996,
+  "Reality ($)": 7252.4223274999995,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-07T09:45:00.000+01:00",
+  "Strategy": 27.728047944632998,
+  "Reality": 11.644643727875996,
+  "Reality ($)": 7340.832327499999,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-08T03:00:00.000+01:00",
+  "Strategy": 26.728047944632998,
+  "Reality": 10.682143727875996,
+  "Reality ($)": 6368.322327499999,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-12T08:30:00.000+01:00",
+  "Strategy": 25.728047944632998,
+  "Reality": 10.044643727875997,
+  "Reality ($)": 5726.742327499999,
+  "Risk Management": 1,
+  "Streak": -2,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-12T10:15:00.000+01:00",
+  "Strategy": 25.728047944632998,
+  "Reality": 11.884243727875997,
+  "Reality ($)": 8854.0623275,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 4,
+  "Winning Streak": 1
+ },
+ {
+  "Date": "2023-12-14T03:00:00.000+01:00",
+  "Strategy": 31.853047944632998,
+  "Reality": 16.869488143903,
+  "Reality ($)": 13532.2156875,
+  "Risk Management": 1,
+  "Streak": 2,
+  "Losing Streak": 4,
+  "Winning Streak": 2
+ },
+ {
+  "Date": "2023-12-15T09:00:00.000+01:00",
+  "Strategy": 30.853047944632998,
+  "Reality": 15.789488143902998,
+  "Reality ($)": 12384.1756875,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 4,
+  "Winning Streak": 2
+ },
+ {
+  "Date": "2023-12-19T03:15:00.000+01:00",
+  "Strategy": 30.853047944632998,
+  "Reality": 15.864488143902998,
+  "Reality ($)": 12460.2556875,
+  "Risk Management": 1,
+  "Streak": 1,
+  "Losing Streak": 4,
+  "Winning Streak": 2
+ },
+ {
+  "Date": "2023-12-20T03:37:00.000+01:00",
+  "Strategy": 29.853047944632998,
+  "Reality": 14.664488143902998,
+  "Reality ($)": 11242.2556875,
+  "Risk Management": 1,
+  "Streak": -1,
+  "Losing Streak": 4,
+  "Winning Streak": 2
+ },
+ {
+  "Date": "2023-12-20T04:00:00.000+01:00",
+  "Strategy": 28.853047944632998,
+  "Reality": 13.564488143902999,
+  "Reality ($)": 10074.055687499998,
+  "Risk Management": 1,
+  "Streak": -2,
+  "Losing Streak": 4,
+  "Winning Streak": 2
+ }
+]
