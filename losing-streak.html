@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Statistics</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body>
+    <div class="chartBox"> <canvas id="drawing"></canvas></div>
+    <div id="drawing-fallback"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+    function handleEmptyData() {
+      document.getElementById('drawing').remove();
+      document.getElementById('drawing-fallback').innerHTML += '<div>Nothing to display here</div>';
+    }
+
+    function handleData(data) {
+      if(data.length === 0) {
+        handleEmptyData();
+      } else {
+        var losingStreakExtract = data.map(function(item) { return item['Losing Streak']; });
+
+        var maxValue = 10;
+        var losingStreak = losingStreakExtract.pop();
+        var rest = maxValue - losingStreak;
+
+        const ctx = document.getElementById('drawing').getContext('2d');
+        const chartWitdh = document.querySelector('.chartBox').getBoundingClientRect().width;
+
+        var gradientStroke = ctx.createLinearGradient(0, 0, chartWitdh, 0);
+        gradientStroke.addColorStop(0, "#2D7610");
+        gradientStroke.addColorStop(0.25, "#69B34C");
+        gradientStroke.addColorStop(0.5, "#FAB733");
+        gradientStroke.addColorStop(0.75, "#FF8E15");
+        gradientStroke.addColorStop(1, "#FF0D0D");
+
+        const gaugeData = {
+          datasets: [{
+            data: [losingStreak, rest],
+            backgroundColor: gradientStroke,
+            borderWidth: 0,
+            cutout: '80%',
+            circumference: 180,
+            rotation: 270,
+            needleValue: losingStreak
+          }]
+        };
+
+        const gaugeChartText = {
+          id: 'gaugeChartText',
+          afterDatasetsDraw(chart, args, pluginOptions) {
+            const {ctx, dataGauge, chartArea: {top, bottom, left, right, width, height}, scales: {r}} = chart;
+            ctx.save();
+
+            const xCoor = chart.getDatasetMeta(0).data[0].x;
+            const yCoor = chart.getDatasetMeta(0).data[0].y;
+            
+            const rating = losingStreak + ' consecutive ' + (losingStreak <= 1 ? 'loss' : "losses");
+
+            function textLabel(size, color, baseline, align, ) {
+              ctx.font = size + ' sans-serif';
+              ctx.fillStyle = color;
+              ctx.textBaseLine = baseline;
+              ctx.textAlign = align;
+            }
+
+            textLabel('14px', 'grey', 'top', 'left');
+            ctx.fillText(0, left, yCoor + 20);
+
+            textLabel('14px', 'grey', 'top', 'right');
+            ctx.fillText('10', right, yCoor + 20);
+
+            textLabel('20px', 'grey', 'top', 'center');
+            ctx.fillText(rating, xCoor, yCoor + 30);
+          }
+        }
+
+        const gaugeNeedle = {
+          id: 'gaugeNeedle',
+          afterDatasetsDraw(chart, args, pluginOptions) {
+            const {ctx, data} = chart;
+            ctx.save();
+
+            const xCenter = chart.getDatasetMeta(0).data[0].x;
+            const yCenter = chart.getDatasetMeta(0).data[0].y;
+            const outerRadius = chart.getDatasetMeta(0).data[0].outerRadius;
+            const innerRadius = chart.getDatasetMeta(0).data[0].innerRadius;
+            const widthSlide = (outerRadius - innerRadius) / 2
+            const radius = 10;
+            const angle = Math.PI / 180;
+
+            const needleValue = losingStreak;
+            
+            const circumference = ((chart.getDatasetMeta(0).data[0].circumference / Math.PI) / data.datasets[0].data[0]) * needleValue;
+
+            ctx.translate(xCenter, yCenter);
+            ctx.rotate(Math.PI * (circumference + 1.5))
+
+            //Create the needle
+            ctx.strokeStyle = 'grey';
+            ctx.fillStyle = 'grey';
+            ctx.lineWitdh = 1;
+            ctx.beginPath();
+            ctx.moveTo(0 - radius, 0);
+            ctx.lineTo(0, 0 - innerRadius - widthSlide);
+            ctx.lineTo(0 + radius, 0);
+            ctx.closePath();
+            ctx.stroke();
+            ctx.fill();
+
+            //Create the dot
+            ctx.beginPath();
+            ctx.arc(0, 0, radius, 0, angle * 360, false)
+            ctx.fill();
+
+            ctx.restore();
+          }
+        }
+
+        var chart = new Chart(ctx, {
+          type: 'doughnut',
+          data: gaugeData,
+          options: {
+            aspectRatio: 1.4,
+            plugins: {
+              legend: { display: false },
+              tooltip: { enabled: false }
+            }
+          },
+          plugins: [gaugeChartText, gaugeNeedle]
+        });
+      }
+    }
+
+    /*function loadDataDev() {
+      const data = {{ data|tojson }};
+      handleData(data);
+    }*/
+
+    function loadDataProd() {
+      document.addEventListener('DOMContentLoaded', function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const urlParam = urlParams.get('type');
+        const fileToLoad = 'files/curve_' + urlParam + '.json';
+
+        fetch(fileToLoad)
+          .then(function(response) {
+            return response.json();
+          })
+          .then(function(jsonData) {
+            handleData(jsonData);
+          })
+          .catch(function(error) {
+            console.error('There was a problem with the fetch operation:', error);
+          });
+      });
+    }
+
+    function loadData(environment) {
+      if(environment === 'dev') {
+        loadDataDev();
+      } else if(environment === 'prod') {
+        loadDataProd();
+      } else {
+        console.error('Invalid environment parameter.');
+      }
+    }
+
+    loadData('prod');
+    </script>
+  </body>
+</html>

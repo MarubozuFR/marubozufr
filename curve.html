@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Statistics</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta http-equiv="cache-control" content="no-cache, no-store, must-revalidate">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="expires" content="0">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+  </head>
+  <body>
+    <canvas id="drawing"></canvas>
+    <div id="drawing-fallback"></div>
+
+    <script src="https://cdn.jsdelivr.net/npm/moment"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script>
+    function handleEmptyData() {
+      document.getElementById('drawing').remove();
+      document.getElementById('drawing-fallback').innerHTML += '<div>Nothing to display here</div>';
+    }
+
+    function handleData(data, tradeType) {
+      if(data.length === 0 || (tradeType != "demo" && tradeType != "live" && tradeType != "test" && tradeType != "strategy")) {
+        handleEmptyData();
+      } else {
+        let equityDatasets = [];
+        let labelName;
+        let borderColor;
+
+        var equityDates = data.map(item => moment(item['Date']).format('YYYY, MMMM Do'));
+        var equityStrategy = data.map(item => item['Strategy']);
+
+        function createDataset(label, data, borderColor, backgroundColor) {
+          return {
+            label: label,
+            data: data,
+            borderColor: borderColor,
+            backgroundColor: backgroundColor || '#FFFFFF',
+            borderWidth: 2,
+            lineTension: 0.2,
+            pointHoverBackgroundColor: '#FFFFFF',
+            pointHoverRadius: 7,
+            pointHoverBorderWidth: 2,
+            yAxisID: "y"
+          }
+        }
+
+        if(tradeType == "test") {
+          labelName = "Test";
+          borderColor = "#1EB037";
+
+          var datasetTest = createDataset(labelName, equityStrategy, borderColor);
+          equityDatasets = [datasetTest];
+          
+        } else {
+          labelName = "Strategy";
+          borderColor = "#4BC0C0";
+
+          var datasetStrategy = createDataset(labelName, equityStrategy, borderColor);
+
+          if(tradeType == "demo" || tradeType == "live") {
+            var equityTrade = data.map(item => item['Reality']);
+
+            if(tradeType == "demo") {
+              labelName = "Demo";
+              borderColor = "#1E81B0";
+            } else {
+              labelName = "Live";
+              borderColor = "#841EB0";
+            }
+            var datasetReality = createDataset(labelName, equityTrade, borderColor);
+            equityDatasets = [datasetStrategy, datasetReality];
+          } else {
+            equityDatasets = [datasetStrategy];
+          }
+        }
+
+        var chartConfig = {
+          type: 'line',
+          data: {
+            labels: equityDates,
+            datasets: equityDatasets
+          },
+          options: {
+            responsive: true,
+            interaction: {
+              mode: 'index',
+              intersect: false,
+            },
+            scales: {
+              x: {
+                grid: { display: false },
+                ticks: { display: false }
+              },
+              y: {
+                type: 'linear',
+                beginAtZero: true,
+                grid: {
+                  color: (context) => {
+                    if(context.tick.value === 0) { return 'grey'; }
+                  },
+                  lineWidth: (context) => {
+                    if(context.tick.value === 0) { return '2'; }
+                  }
+                },
+                grace: 0.5,
+                ticks: {
+                  callback: (value, index, ticks) => { return value + 'R'; }
+                },
+              }
+            },
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: function(context) { return ' ' + context.dataset.label + ' Equity: ' + context.parsed.y.toFixed(2) + 'R'; }
+                }
+              }
+            }
+          }
+        }
+
+        var ctx = document.getElementById('drawing').getContext('2d');
+        var chart = new Chart(ctx, chartConfig)
+      }
+    }
+
+    /*function loadDataDev() {
+      const data = {{ data|tojson }};
+      const tradeType = {{ type|tojson }};
+      handleData(data, tradeType);
+    }*/
+
+    function loadDataProd() {
+      document.addEventListener('DOMContentLoaded', function () {
+        const urlParams = new URLSearchParams(window.location.search);
+        const urlParam = urlParams.get('type');
+        const fileToLoad = 'files/curve_' + urlParam + '.json';
+        const tradeType = urlParam
+
+        fetch(fileToLoad)
+          .then(function (response) {
+            return response.json();
+          })
+          .then(function (jsonData) {
+            handleData(jsonData, urlParam);
+          })
+          .catch(function(error) {
+            console.error('There was a problem with the fetch operation:', error);
+          });
+      });
+    }
+
+    function loadData(environment) {
+      if(environment === 'dev') {
+        loadDataDev();
+      } else if(environment === 'prod') {
+        loadDataProd();
+      } else {
+        console.error('Invalid environment parameter.');
+      }
+    }
+
+    loadData('prod');
+    </script>
+  </body>
+</html>
