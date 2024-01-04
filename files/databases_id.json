@@ -1,0 +1,11 @@
+{
+  "entries_db_id": "be9ac80908144f4db129a466a8053e7f",
+  "brokers_db_id": "a9b66ae2733e4eafaa02c9bf0838102a",
+  "assets_db_id": "3d54f2bc4d7a48d883dd752dcca81c65",
+  "confluences_db_id": "3597c2c7189d46bca801abb6c1d2c44d",
+  "strategies_db_id": "02ef734aa7004a2090421ca9b6b1b6d6",
+  "types_db_id": "0239070f414b422fbea9d987985a1f2b",
+  "trades_db_id": "c65ee8ba3c184560a1fcad95afd2abec",
+  "years_db_id": "e8cd3a381cff4eb09adc2722863574cf",
+  "months_db_id": "51993e39753a45dc8d19d3e7e98c40ad"
+}

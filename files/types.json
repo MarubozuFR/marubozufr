@@ -1,14 +1,14 @@
 [
- {
-  "ID": "05121ae0-8546-463d-a797-46499679c5cd",
-  "Type": "DEMO"
- },
- {
-  "ID": "3e07ff8c-cc51-4013-a1d5-d3e9a9fc993a",
-  "Type": "TEST"
- },
- {
-  "ID": "eaade00e-3afe-4b73-a4a2-33ff926ca392",
-  "Type": "LIVE"
- }
+  {
+    "ID": "05121ae0-8546-463d-a797-46499679c5cd",
+    "Type": "DEMO"
+  },
+  {
+    "ID": "3e07ff8c-cc51-4013-a1d5-d3e9a9fc993a",
+    "Type": "TEST"
+  },
+  {
+    "ID": "eaade00e-3afe-4b73-a4a2-33ff926ca392",
+    "Type": "LIVE"
+  }
 ]

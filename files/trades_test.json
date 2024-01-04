@@ -1,242 +1,242 @@
 [
- {
-  "ID": "6fadf89e-8790-4a15-a841-f4b2db6bb331",
-  "Trade": "EUR-2301050730",
-  "Type": "TEST",
-  "Date": "2023-01-05T07:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 01-JAN",
-  "Status": "WIN",
-  "Theory P&L Reward": 8.3875
- },
- {
-  "ID": "3055faef-22ad-452e-bef1-0a6740fb3d79",
-  "Trade": "EUR-2301060945",
-  "Type": "TEST",
-  "Date": "2023-01-06T09:45:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 01-JAN",
-  "Status": "WIN",
-  "Theory P&L Reward": 9.511
- },
- {
-  "ID": "bd6d04b3-b809-49fd-a0f0-8ef0e425007a",
-  "Trade": "EUR-2301180815",
-  "Type": "TEST",
-  "Date": "2023-01-18T08:15:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 01-JAN",
-  "Status": "WIN",
-  "Theory P&L Reward": 3.875
- },
- {
-  "ID": "d4e1dd02-ff2d-4cf4-92bd-a9501e07e367",
-  "Trade": "EUR-2301230545",
-  "Type": "TEST",
-  "Date": "2023-01-23T05:45:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 01-JAN",
-  "Status": "WIN",
-  "Theory P&L Reward": 4.0
- },
- {
-  "ID": "b0d05659-b052-4320-aa84-e33a805b278c",
-  "Trade": "EUR-2309290800",
-  "Type": "TEST",
-  "Date": "2023-09-29T08:00:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 5.0
- },
- {
-  "ID": "75eda3dc-ece9-4a9d-93a1-4e954f47ebd3",
-  "Trade": "EUR-2310040815",
-  "Type": "TEST",
-  "Date": "2023-10-04T08:15:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "LOSS",
-  "Theory P&L Reward": -1.0
- },
- {
-  "ID": "31ac8105-8b82-41d6-85cd-d378f9bac250",
-  "Trade": "EUR-2310040845",
-  "Type": "TEST",
-  "Date": "2023-10-04T08:45:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 4.214285714286
- },
- {
-  "ID": "888f46ad-13c9-4dfb-b0eb-cb71b0fc9241",
-  "Trade": "EUR-2310050445",
-  "Type": "TEST",
-  "Date": "2023-10-05T04:45:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 6.166666666667
- },
- {
-  "ID": "a78742d4-1113-4551-b9c8-481d0344ffbb",
-  "Trade": "EUR-2310061600",
-  "Type": "TEST",
-  "Date": "2023-10-06T16:00:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 2.571428571429
- },
- {
-  "ID": "fe5b4658-2fd5-44ba-ac68-1a98c75183dc",
-  "Trade": "EUR-2310090430",
-  "Type": "TEST",
-  "Date": "2023-10-09T04:30:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 3.315789473684
- },
- {
-  "ID": "98b96721-a1d6-4f47-b1b8-0c1ed2cbbe6f",
-  "Trade": "EUR-2310100345",
-  "Type": "TEST",
-  "Date": "2023-10-10T03:45:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 3.04347826087
- },
- {
-  "ID": "e4b4ea76-b9d6-4cf8-a420-1e4ebf19bd0d",
-  "Trade": "EUR-2310160315",
-  "Type": "TEST",
-  "Date": "2023-10-16T03:15:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "LOSS",
-  "Theory P&L Reward": -1.0
- },
- {
-  "ID": "c77b10ae-e5f4-4832-9973-87619ee81475",
-  "Trade": "EUR-2310170400",
-  "Type": "TEST",
-  "Date": "2023-10-17T04:00:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "BE",
-  "Theory P&L Reward": 0.0
- },
- {
-  "ID": "40b8feb0-d9f5-4d17-b279-c868ff58b974",
-  "Trade": "EUR-2310190430",
-  "Type": "TEST",
-  "Date": "2023-10-19T04:30:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 4.3
- },
- {
-  "ID": "0e8afb79-b6cb-4708-9a24-b075123155e3",
-  "Trade": "EUR-2310230330",
-  "Type": "TEST",
-  "Date": "2023-10-23T03:30:00.000+02:00",
-  "Year": "2023",
-  "Month": "2023, 10-OCT",
-  "Status": "WIN",
-  "Theory P&L Reward": 4.857142857143
- },
- {
-  "ID": "b56e3947-c034-47dd-b4a6-e4832fa68387",
-  "Trade": "EUR-2311020915",
-  "Type": "TEST",
-  "Date": "2023-11-02T04:15:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 7.5
- },
- {
-  "ID": "60a7e76d-65cb-4a0b-8cc4-4a59d9c4da5e",
-  "Trade": "EUR-2311030330",
-  "Type": "TEST",
-  "Date": "2023-11-03T03:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "LOSS",
-  "Theory P&L Reward": -1.0
- },
- {
-  "ID": "71a13eb4-10ca-4f5d-aafb-2242b0f25cd1",
-  "Trade": "EUR-2311031045",
-  "Type": "TEST",
-  "Date": "2023-11-03T10:45:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 3.7
- },
- {
-  "ID": "393aafd7-3e7a-47d1-88bd-22c391a8c3d6",
-  "Trade": "EUR-2311091015",
-  "Type": "TEST",
-  "Date": "2023-11-09T10:15:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 3.390476190476
- },
- {
-  "ID": "fdef240c-a034-4c8b-86ac-9c0faea7e622",
-  "Trade": "EUR-2311160830",
-  "Type": "TEST",
-  "Date": "2023-11-16T08:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 6.36
- },
- {
-  "ID": "a3fbd963-4e2c-447f-aaed-3a8fae353ef7",
-  "Trade": "EUR-2311170330",
-  "Type": "TEST",
-  "Date": "2023-11-17T03:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 6.526315789474
- },
- {
-  "ID": "f8437278-1516-4566-a4a7-ecaf4bfb3f47",
-  "Trade": "EUR-2311220815",
-  "Type": "TEST",
-  "Date": "2023-11-22T08:15:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 6.967272727273
- },
- {
-  "ID": "1f85acab-440b-4cf4-8dd0-87044c3b6a0d",
-  "Trade": "EUR-2311221030",
-  "Type": "TEST",
-  "Date": "2023-11-22T10:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "WIN",
-  "Theory P&L Reward": 5.6
- },
- {
-  "ID": "02fb0780-0112-4054-acc7-739fe0f81102",
-  "Trade": "EUR-2311230330",
-  "Type": "TEST",
-  "Date": "2023-11-23T03:30:00.000+01:00",
-  "Year": "2023",
-  "Month": "2023, 11-NOV",
-  "Status": "BE",
-  "Theory P&L Reward": 0.0
- }
+  {
+    "ID": "6fadf89e-8790-4a15-a841-f4b2db6bb331",
+    "Trade": "EUR-2301050730",
+    "Type": "TEST",
+    "Date": "2023-01-05T07:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 01-JAN",
+    "Status": "WIN",
+    "Theory P&L Reward": 8.3875
+  },
+  {
+    "ID": "3055faef-22ad-452e-bef1-0a6740fb3d79",
+    "Trade": "EUR-2301060945",
+    "Type": "TEST",
+    "Date": "2023-01-06T09:45:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 01-JAN",
+    "Status": "WIN",
+    "Theory P&L Reward": 9.511
+  },
+  {
+    "ID": "bd6d04b3-b809-49fd-a0f0-8ef0e425007a",
+    "Trade": "EUR-2301180815",
+    "Type": "TEST",
+    "Date": "2023-01-18T08:15:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 01-JAN",
+    "Status": "WIN",
+    "Theory P&L Reward": 3.875
+  },
+  {
+    "ID": "d4e1dd02-ff2d-4cf4-92bd-a9501e07e367",
+    "Trade": "EUR-2301230545",
+    "Type": "TEST",
+    "Date": "2023-01-23T05:45:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 01-JAN",
+    "Status": "WIN",
+    "Theory P&L Reward": 4.0
+  },
+  {
+    "ID": "b0d05659-b052-4320-aa84-e33a805b278c",
+    "Trade": "EUR-2309290800",
+    "Type": "TEST",
+    "Date": "2023-09-29T08:00:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 5.0
+  },
+  {
+    "ID": "75eda3dc-ece9-4a9d-93a1-4e954f47ebd3",
+    "Trade": "EUR-2310040815",
+    "Type": "TEST",
+    "Date": "2023-10-04T08:15:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "LOSS",
+    "Theory P&L Reward": -1.0
+  },
+  {
+    "ID": "31ac8105-8b82-41d6-85cd-d378f9bac250",
+    "Trade": "EUR-2310040845",
+    "Type": "TEST",
+    "Date": "2023-10-04T08:45:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 4.214285714286
+  },
+  {
+    "ID": "888f46ad-13c9-4dfb-b0eb-cb71b0fc9241",
+    "Trade": "EUR-2310050445",
+    "Type": "TEST",
+    "Date": "2023-10-05T04:45:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 6.166666666667
+  },
+  {
+    "ID": "a78742d4-1113-4551-b9c8-481d0344ffbb",
+    "Trade": "EUR-2310061600",
+    "Type": "TEST",
+    "Date": "2023-10-06T16:00:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 2.571428571429
+  },
+  {
+    "ID": "fe5b4658-2fd5-44ba-ac68-1a98c75183dc",
+    "Trade": "EUR-2310090430",
+    "Type": "TEST",
+    "Date": "2023-10-09T04:30:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 3.315789473684
+  },
+  {
+    "ID": "98b96721-a1d6-4f47-b1b8-0c1ed2cbbe6f",
+    "Trade": "EUR-2310100345",
+    "Type": "TEST",
+    "Date": "2023-10-10T03:45:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 3.04347826087
+  },
+  {
+    "ID": "e4b4ea76-b9d6-4cf8-a420-1e4ebf19bd0d",
+    "Trade": "EUR-2310160315",
+    "Type": "TEST",
+    "Date": "2023-10-16T03:15:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "LOSS",
+    "Theory P&L Reward": -1.0
+  },
+  {
+    "ID": "c77b10ae-e5f4-4832-9973-87619ee81475",
+    "Trade": "EUR-2310170400",
+    "Type": "TEST",
+    "Date": "2023-10-17T04:00:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "BE",
+    "Theory P&L Reward": 0.0
+  },
+  {
+    "ID": "40b8feb0-d9f5-4d17-b279-c868ff58b974",
+    "Trade": "EUR-2310190430",
+    "Type": "TEST",
+    "Date": "2023-10-19T04:30:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 4.3
+  },
+  {
+    "ID": "0e8afb79-b6cb-4708-9a24-b075123155e3",
+    "Trade": "EUR-2310230330",
+    "Type": "TEST",
+    "Date": "2023-10-23T03:30:00.000+02:00",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Status": "WIN",
+    "Theory P&L Reward": 4.857142857143
+  },
+  {
+    "ID": "b56e3947-c034-47dd-b4a6-e4832fa68387",
+    "Trade": "EUR-2311020915",
+    "Type": "TEST",
+    "Date": "2023-11-02T04:15:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 7.5
+  },
+  {
+    "ID": "60a7e76d-65cb-4a0b-8cc4-4a59d9c4da5e",
+    "Trade": "EUR-2311030330",
+    "Type": "TEST",
+    "Date": "2023-11-03T03:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "LOSS",
+    "Theory P&L Reward": -1.0
+  },
+  {
+    "ID": "71a13eb4-10ca-4f5d-aafb-2242b0f25cd1",
+    "Trade": "EUR-2311031045",
+    "Type": "TEST",
+    "Date": "2023-11-03T10:45:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 3.7
+  },
+  {
+    "ID": "393aafd7-3e7a-47d1-88bd-22c391a8c3d6",
+    "Trade": "EUR-2311091015",
+    "Type": "TEST",
+    "Date": "2023-11-09T10:15:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 3.390476190476
+  },
+  {
+    "ID": "fdef240c-a034-4c8b-86ac-9c0faea7e622",
+    "Trade": "EUR-2311160830",
+    "Type": "TEST",
+    "Date": "2023-11-16T08:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 6.36
+  },
+  {
+    "ID": "a3fbd963-4e2c-447f-aaed-3a8fae353ef7",
+    "Trade": "EUR-2311170330",
+    "Type": "TEST",
+    "Date": "2023-11-17T03:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 6.526315789474
+  },
+  {
+    "ID": "f8437278-1516-4566-a4a7-ecaf4bfb3f47",
+    "Trade": "EUR-2311220815",
+    "Type": "TEST",
+    "Date": "2023-11-22T08:15:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 6.967272727273
+  },
+  {
+    "ID": "1f85acab-440b-4cf4-8dd0-87044c3b6a0d",
+    "Trade": "EUR-2311221030",
+    "Type": "TEST",
+    "Date": "2023-11-22T10:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "WIN",
+    "Theory P&L Reward": 5.6
+  },
+  {
+    "ID": "02fb0780-0112-4054-acc7-739fe0f81102",
+    "Trade": "EUR-2311230330",
+    "Type": "TEST",
+    "Date": "2023-11-23T03:30:00.000+01:00",
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Status": "BE",
+    "Theory P&L Reward": 0.0
+  }
 ]

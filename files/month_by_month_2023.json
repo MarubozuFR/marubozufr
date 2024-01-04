@@ -1,110 +1,110 @@
 [
- {
-  "Month": "2023, 01-JAN",
-  "Month WN": "2023, Jan",
-  "Month N": "January",
-  "Strategy P&L": 25.7735,
-  "Test P&L": 25.7735,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 02-FEB",
-  "Month WN": "2023, Feb",
-  "Month N": "February",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 03-MAR",
-  "Month WN": "2023, Mar",
-  "Month N": "March",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 04-APR",
-  "Month WN": "2023, Apr",
-  "Month N": "April",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 05-MAY",
-  "Month WN": "2023, May",
-  "Month N": "May",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 06-JUN",
-  "Month WN": "2023, Jun",
-  "Month N": "June",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 07-JUL",
-  "Month WN": "2023, Jul",
-  "Month N": "July",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 08-AUG",
-  "Month WN": "2023, Aug",
-  "Month N": "August",
-  "Strategy P&L": 0.0,
-  "Test P&L": 0.0,
-  "Demo P&L": 0.0,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 09-SEP",
-  "Month WN": "2023, Sep",
-  "Month N": "September",
-  "Strategy P&L": 5.056821236559,
-  "Test P&L": 0.0,
-  "Demo P&L": 1.4675889680210004,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 10-OCT",
-  "Month WN": "2023, Oct",
-  "Month N": "October",
-  "Strategy P&L": 37.61164868693599,
-  "Test P&L": 31.468791544078996,
-  "Demo P&L": 2.9184228571429998,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 11-NOV",
-  "Month WN": "2023, Nov",
-  "Month N": "November",
-  "Strategy P&L": 52.71993427244001,
-  "Test P&L": 39.044064707223,
-  "Demo P&L": 6.6610325941949995,
-  "Live P&L": 0.0
- },
- {
-  "Month": "2023, 12-DEC",
-  "Month WN": "2023, Dec",
-  "Month N": "December",
-  "Strategy P&L": 3.9775,
-  "Test P&L": 0.0,
-  "Demo P&L": 2.5174437245439996,
-  "Live P&L": 0.0
- }
+  {
+    "Month": "2023, 01-JAN",
+    "Month WN": "2023, Jan",
+    "Month N": "January",
+    "Strategy P&L": 25.7735,
+    "Test P&L": 25.7735,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 02-FEB",
+    "Month WN": "2023, Feb",
+    "Month N": "February",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 03-MAR",
+    "Month WN": "2023, Mar",
+    "Month N": "March",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 04-APR",
+    "Month WN": "2023, Apr",
+    "Month N": "April",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 05-MAY",
+    "Month WN": "2023, May",
+    "Month N": "May",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 06-JUN",
+    "Month WN": "2023, Jun",
+    "Month N": "June",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 07-JUL",
+    "Month WN": "2023, Jul",
+    "Month N": "July",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 08-AUG",
+    "Month WN": "2023, Aug",
+    "Month N": "August",
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 09-SEP",
+    "Month WN": "2023, Sep",
+    "Month N": "September",
+    "Strategy P&L": 5.056821236559,
+    "Test P&L": 0.0,
+    "Demo P&L": 1.4675889680210004,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 10-OCT",
+    "Month WN": "2023, Oct",
+    "Month N": "October",
+    "Strategy P&L": 37.61164868693599,
+    "Test P&L": 31.468791544078996,
+    "Demo P&L": 2.9184228571429998,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 11-NOV",
+    "Month WN": "2023, Nov",
+    "Month N": "November",
+    "Strategy P&L": 52.71993427244001,
+    "Test P&L": 39.044064707223,
+    "Demo P&L": 6.6610325941949995,
+    "Live P&L": 0.0
+  },
+  {
+    "Month": "2023, 12-DEC",
+    "Month WN": "2023, Dec",
+    "Month N": "December",
+    "Strategy P&L": 3.9775,
+    "Test P&L": 0.0,
+    "Demo P&L": 2.5174437245439996,
+    "Live P&L": 0.0
+  }
 ]
