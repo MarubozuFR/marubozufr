@@ -1,6 +1,7 @@
 [
   {
     "Month": "2024, 01-JAN",
+    "Year": "2024",
     "Month WN": "2024, Jan",
     "Month N": "January",
     "Strategy P&L": 0.0,
@@ -10,56 +11,67 @@
   },
   {
     "Month": "2024, 02-FEB",
+    "Year": "2024",
     "Month WN": "2024, Feb",
     "Month N": "February"
   },
   {
     "Month": "2024, 03-MAR",
+    "Year": "2024",
     "Month WN": "2024, Mar",
     "Month N": "March"
   },
   {
     "Month": "2024, 04-APR",
+    "Year": "2024",
     "Month WN": "2024, Apr",
     "Month N": "April"
   },
   {
     "Month": "2024, 05-MAY",
+    "Year": "2024",
     "Month WN": "2024, May",
     "Month N": "May"
   },
   {
     "Month": "2024, 06-JUN",
+    "Year": "2024",
     "Month WN": "2024, Jun",
     "Month N": "June"
   },
   {
     "Month": "2024, 07-JUL",
+    "Year": "2024",
     "Month WN": "2024, Jul",
     "Month N": "July"
   },
   {
     "Month": "2024, 08-AUG",
+    "Year": "2024",
     "Month WN": "2024, Aug",
     "Month N": "August"
   },
   {
     "Month": "2024, 09-SEP",
+    "Year": "2024",
     "Month WN": "2024, Sep",
     "Month N": "September"
   },
   {
     "Month": "2024, 10-OCT",
+    "Year": "2024",
     "Month WN": "2024, Oct",
     "Month N": "October"
   },
   {
     "Month": "2024, 11-NOV",
+    "Year": "2024",
     "Month WN": "2024, Nov",
     "Month N": "November"
   },
   {
     "Month": "2024, 12-DEC",
+    "Year": "2024",
     "Month WN": "2024, Dec",
     "Month N": "December"
   }
