@@ -25,10 +25,11 @@
       if(data.length === 0) {
         handleEmptyData();
       } else {
+        console.log(data)
         //barColors = ['Strategy', 'Test', 'Demo', 'Live'];
         const barColors = ['#4BC0C0', '#1EB037', '#1E81B0', '#841EB0'];
 
-        var months = data.map(function(item) { return item["Month N"]; });
+        var days = data.map(function(item) { return item["Day D"]; });
 
         function createDataset(label, data, borderColor, backgroundColor) {
           return {
@@ -45,7 +46,7 @@
           }
         }
 
-        var monthByMonthDatasets = ['Strategy', 'Test', 'Demo', 'Live'].map(function(label, index) {
+        var dayByDayDatasets = ['Strategy', 'Test', 'Demo', 'Live'].map(function(label, index) {
           var equity = data.map(function(item) { return item[label + ' Curve']; });
 
           return createDataset(label, equity, barColors[index], barColors[index] + '40');
@@ -54,8 +55,8 @@
         var chartConfig = {
           type: 'line',
           data: {
-            labels: months,
-            datasets: monthByMonthDatasets
+            labels: days,
+            datasets: dayByDayDatasets
           },
           options: {
             responsive: true,
@@ -107,8 +108,8 @@
     function loadDataProd() {
       document.addEventListener('DOMContentLoaded', function () {
         const urlParams = new URLSearchParams(window.location.search);
-        const urlParam = urlParams.get('year');
-        const fileToLoad = 'files/curve_month_by_month_' + urlParam + '.json';
+        const urlParam = urlParams.get('month');
+        const fileToLoad = 'files/curve_trade_by_trade_' + urlParam + '.json';
         const tradeType = urlParam
 
         fetch(fileToLoad)
