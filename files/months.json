@@ -102,8 +102,8 @@
     "Month WN": "2023, Sep",
     "Month N": "September",
     "Month D": 9,
-    "Strategy P&L": 5.056821236559,
-    "Test P&L": 0.0,
+    "Strategy P&L": 10.056821236559,
+    "Test P&L": 5.0,
     "Demo P&L": 1.4675889680210004,
     "Live P&L": 0.0
   },
@@ -114,8 +114,8 @@
     "Month WN": "2023, Oct",
     "Month N": "October",
     "Month D": 10,
-    "Strategy P&L": 37.61164868693599,
-    "Test P&L": 31.468791544078996,
+    "Strategy P&L": 32.61164868693599,
+    "Test P&L": 26.468791544078996,
     "Demo P&L": 2.9184228571429998,
     "Live P&L": 0.0
   },
