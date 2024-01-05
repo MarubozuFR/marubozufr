@@ -691,5 +691,16 @@
     "Month": "2024, 01-JAN",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
+  },
+  {
+    "ID": "b305e7b9-4897-4924-9151-c9f03834c511",
+    "Trade": "EUR-2401051500",
+    "Type": "TEST",
+    "Date": "2024-01-05T15:00:00.000+01:00",
+    "Date PN": "2024-01-05",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Status": "BE",
+    "Theory P&L Reward": 0.0
   }
 ]
