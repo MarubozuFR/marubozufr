@@ -27,144 +27,144 @@
     "Day": "2023-09-06",
     "Day D": "06",
     "Demo Curve": 0.0,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 0.0
+    "Strategy Curve": 6.857142857143
   },
   {
     "Day": "2023-09-07",
     "Day D": "07",
     "Demo Curve": 0.0,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 0.0
+    "Strategy Curve": 6.857142857143
   },
   {
     "Day": "2023-09-08",
     "Day D": "08",
     "Demo Curve": 0.0,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 0.0
+    "Strategy Curve": 6.857142857143
   },
   {
     "Day": "2023-09-11",
     "Day D": "11",
     "Demo Curve": -1.0354,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -1.0
+    "Strategy Curve": 5.857142857143
   },
   {
     "Day": "2023-09-12",
     "Day D": "12",
     "Demo Curve": -2.0354,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -1.0
+    "Strategy Curve": 5.857142857143
   },
   {
     "Day": "2023-09-13",
     "Day D": "13",
     "Demo Curve": -2.0354,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -1.0
+    "Strategy Curve": 5.857142857143
   },
   {
     "Day": "2023-09-14",
     "Day D": "14",
     "Demo Curve": -2.0354,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -1.0
+    "Strategy Curve": 5.857142857143
   },
   {
     "Day": "2023-09-15",
     "Day D": "15",
     "Demo Curve": -1.9104,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -1.0
+    "Strategy Curve": 5.857142857143
   },
   {
     "Day": "2023-09-18",
     "Day D": "18",
     "Demo Curve": -3.9818285714290003,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.0
+    "Strategy Curve": 3.8571428571429998
   },
   {
     "Day": "2023-09-19",
     "Day D": "19",
     "Demo Curve": -3.9818285714290003,
-    "Test Curve": 0.0,
+    "Test Curve": 6.857142857143,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.0
+    "Strategy Curve": 3.8571428571429998
   },
   {
     "Day": "2023-09-20",
     "Day D": "20",
     "Demo Curve": 1.0472036866360002,
-    "Test Curve": 0.0,
+    "Test Curve": 17.210742857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 2.051612903226
+    "Strategy Curve": 19.262355760369
   },
   {
     "Day": "2023-09-21",
     "Day D": "21",
     "Demo Curve": -0.02422488479299978,
-    "Test Curve": 0.0,
+    "Test Curve": 17.210742857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 1.0516129032260002
+    "Strategy Curve": 18.262355760369
   },
   {
     "Day": "2023-09-22",
     "Day D": "22",
     "Demo Curve": -0.02422488479299978,
-    "Test Curve": 0.0,
+    "Test Curve": 17.210742857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 1.0516129032260002
+    "Strategy Curve": 18.262355760369
   },
   {
     "Day": "2023-09-25",
     "Day D": "25",
     "Demo Curve": -0.02422488479299978,
-    "Test Curve": 0.0,
+    "Test Curve": 24.297242857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 1.0516129032260002
+    "Strategy Curve": 25.348855760369002
   },
   {
     "Day": "2023-09-26",
     "Day D": "26",
     "Demo Curve": -0.02422488479299978,
-    "Test Curve": 0.0,
+    "Test Curve": 24.297242857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 1.0516129032260002
+    "Strategy Curve": 25.348855760369002
   },
   {
     "Day": "2023-09-27",
     "Day D": "27",
     "Demo Curve": -0.02422488479299978,
-    "Test Curve": 0.0,
+    "Test Curve": 24.297242857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 1.0516129032260002
+    "Strategy Curve": 25.348855760369002
   },
   {
     "Day": "2023-09-28",
     "Day D": "28",
     "Demo Curve": 0.06668420611600022,
-    "Test Curve": 0.0,
+    "Test Curve": 24.297242857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 0.051612903226000206
+    "Strategy Curve": 24.348855760369002
   },
   {
     "Day": "2023-09-29",
     "Day D": "29",
     "Demo Curve": 1.4675889680210004,
-    "Test Curve": 5.0,
+    "Test Curve": 29.297242857143,
     "Live Curve": 0.0,
-    "Strategy Curve": 10.056821236559
+    "Strategy Curve": 34.354064093702
   }
 ]
