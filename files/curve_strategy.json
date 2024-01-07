@@ -112,421 +112,498 @@
     "Winning Streak": 4
   },
   {
+    "Date": "2023-03-10T11:00:00.000+01:00",
+    "Strategy": 66.584928571428,
+    "Streak": 0,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-03-16T08:20:00.000+01:00",
+    "Strategy": 79.997741071428,
+    "Streak": 1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-03-17T09:15:00.000+01:00",
+    "Strategy": 102.43680357142799,
+    "Streak": 2,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-03-31T11:00:00.000+02:00",
+    "Strategy": 101.43680357142799,
+    "Streak": -1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-04-28T08:30:00.000+02:00",
+    "Strategy": 107.43680357142799,
+    "Streak": 1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-05-08T11:00:00.000+02:00",
+    "Strategy": 120.80711607142798,
+    "Streak": 2,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-05-24T08:00:00.000+02:00",
+    "Strategy": 129.280866071428,
+    "Streak": 3,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-06-16T03:30:00.000+02:00",
+    "Strategy": 129.280866071428,
+    "Streak": 0,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-07-03T11:45:00.000+02:00",
+    "Strategy": 135.280866071428,
+    "Streak": 1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-07-19T03:45:00.000+02:00",
+    "Strategy": 134.280866071428,
+    "Streak": -1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
+    "Date": "2023-08-03T09:30:00.000+02:00",
+    "Strategy": 143.533008928571,
+    "Streak": 1,
+    "Losing Streak": 2,
+    "Winning Streak": 4
+  },
+  {
     "Date": "2023-09-11T11:20:00.000+02:00",
-    "Strategy": 65.584928571428,
+    "Strategy": 142.533008928571,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-12T08:45:00.000+02:00",
-    "Strategy": 65.584928571428,
+    "Strategy": 142.533008928571,
     "Streak": -2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-15T08:45:00.000+02:00",
-    "Strategy": 65.584928571428,
+    "Strategy": 142.533008928571,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-18T08:15:00.000+02:00",
-    "Strategy": 64.584928571428,
+    "Strategy": 141.533008928571,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-18T08:45:00.000+02:00",
-    "Strategy": 63.584928571427994,
+    "Strategy": 140.533008928571,
     "Streak": -2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-20T12:00:00.000+02:00",
-    "Strategy": 68.636541474654,
+    "Strategy": 145.584621831797,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-21T08:15:00.000+02:00",
-    "Strategy": 67.636541474654,
+    "Strategy": 144.584621831797,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-28T09:32:00.000+02:00",
-    "Strategy": 66.636541474654,
+    "Strategy": 143.584621831797,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-29T04:00:00.000+02:00",
-    "Strategy": 65.636541474654,
+    "Strategy": 142.584621831797,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-29T08:00:00.000+02:00",
-    "Strategy": 64.636541474654,
+    "Strategy": 141.584621831797,
     "Streak": -2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-29T08:00:00.000+02:00",
-    "Strategy": 69.636541474654,
+    "Strategy": 146.584621831797,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-09-29T08:30:00.000+02:00",
-    "Strategy": 76.641749807987,
+    "Strategy": 153.58983016513,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-04T08:15:00.000+02:00",
-    "Strategy": 75.641749807987,
+    "Strategy": 152.58983016513,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-04T08:15:00.000+02:00",
-    "Strategy": 74.641749807987,
+    "Strategy": 151.58983016513,
     "Streak": -2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-04T08:45:00.000+02:00",
-    "Strategy": 78.856035522273,
+    "Strategy": 155.804115879416,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-05T04:45:00.000+02:00",
-    "Strategy": 85.02270218894,
+    "Strategy": 161.970782546083,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-06T16:00:00.000+02:00",
-    "Strategy": 87.594130760369,
+    "Strategy": 164.542211117512,
     "Streak": 3,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-09T04:30:00.000+02:00",
-    "Strategy": 90.909920234053,
+    "Strategy": 167.858000591196,
     "Streak": 4,
     "Losing Streak": 2,
     "Winning Streak": 4
   },
   {
     "Date": "2023-10-10T03:45:00.000+02:00",
-    "Strategy": 93.95339849492301,
+    "Strategy": 170.901478852066,
     "Streak": 5,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-10-11T08:45:00.000+02:00",
-    "Strategy": 93.95339849492301,
+    "Strategy": 170.901478852066,
     "Streak": 6,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-16T03:15:00.000+02:00",
-    "Strategy": 92.95339849492301,
+    "Strategy": 169.901478852066,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-17T04:00:00.000+02:00",
-    "Strategy": 92.95339849492301,
+    "Strategy": 169.901478852066,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-19T04:30:00.000+02:00",
-    "Strategy": 97.253398494923,
+    "Strategy": 174.201478852066,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-23T03:30:00.000+02:00",
-    "Strategy": 102.11054135206601,
+    "Strategy": 179.058621709209,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-23T08:17:00.000+02:00",
-    "Strategy": 101.11054135206601,
+    "Strategy": 178.058621709209,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-10-23T09:08:00.000+02:00",
-    "Strategy": 109.253398494923,
+    "Strategy": 186.201478852066,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-02T04:15:00.000+01:00",
-    "Strategy": 116.753398494923,
+    "Strategy": 193.701478852066,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-03T03:30:00.000+01:00",
-    "Strategy": 115.753398494923,
+    "Strategy": 192.701478852066,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-03T10:45:00.000+01:00",
-    "Strategy": 119.45339849492301,
+    "Strategy": 196.401478852066,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-06T10:30:00.000+01:00",
-    "Strategy": 119.45339849492301,
+    "Strategy": 196.401478852066,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-07T03:00:00.000+01:00",
-    "Strategy": 119.45339849492301,
+    "Strategy": 196.401478852066,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-09T03:49:00.000+01:00",
-    "Strategy": 118.45339849492301,
+    "Strategy": 195.401478852066,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-09T08:34:00.000+01:00",
-    "Strategy": 123.553398494923,
+    "Strategy": 200.501478852066,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-09T10:15:00.000+01:00",
-    "Strategy": 126.943874685399,
+    "Strategy": 203.89195504254198,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-10T03:54:00.000+01:00",
-    "Strategy": 126.983874685399,
+    "Strategy": 203.93195504254197,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-16T08:30:00.000+01:00",
-    "Strategy": 133.34387468539902,
+    "Strategy": 210.29195504254199,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-17T03:30:00.000+01:00",
-    "Strategy": 139.87019047487303,
+    "Strategy": 216.818270832016,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-17T10:00:00.000+01:00",
-    "Strategy": 142.13106004009003,
+    "Strategy": 219.079140397233,
     "Streak": 3,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-22T08:15:00.000+01:00",
-    "Strategy": 149.09833276736305,
+    "Strategy": 226.04641312450602,
     "Streak": 4,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-22T10:30:00.000+01:00",
-    "Strategy": 154.69833276736304,
+    "Strategy": 231.646413124506,
     "Streak": 5,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-23T03:30:00.000+01:00",
-    "Strategy": 154.69833276736304,
+    "Strategy": 231.646413124506,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-27T10:20:00.000+01:00",
-    "Strategy": 158.07333276736304,
+    "Strategy": 235.021413124506,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-28T03:15:00.000+01:00",
-    "Strategy": 162.97333276736305,
+    "Strategy": 239.92141312450602,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-30T03:00:00.000+01:00",
-    "Strategy": 161.97333276736305,
+    "Strategy": 238.92141312450602,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-01T08:15:00.000+01:00",
-    "Strategy": 160.97333276736305,
+    "Strategy": 237.92141312450602,
     "Streak": -2,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-04T08:30:00.000+01:00",
-    "Strategy": 159.97333276736305,
+    "Strategy": 236.92141312450602,
     "Streak": -3,
     "Losing Streak": 3,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-05T08:15:00.000+01:00",
-    "Strategy": 158.97333276736305,
+    "Strategy": 235.92141312450602,
     "Streak": -4,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-05T10:15:00.000+01:00",
-    "Strategy": 165.82583276736304,
+    "Strategy": 242.773913124506,
     "Streak": 1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-05T10:30:00.000+01:00",
-    "Strategy": 164.82583276736304,
+    "Strategy": 241.773913124506,
     "Streak": -1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-07T09:45:00.000+01:00",
-    "Strategy": 164.82583276736304,
+    "Strategy": 241.773913124506,
     "Streak": 1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-08T03:00:00.000+01:00",
-    "Strategy": 163.82583276736304,
+    "Strategy": 240.773913124506,
     "Streak": -1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-12T08:30:00.000+01:00",
-    "Strategy": 162.82583276736304,
+    "Strategy": 239.773913124506,
     "Streak": -2,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-12T10:15:00.000+01:00",
-    "Strategy": 162.82583276736304,
+    "Strategy": 239.773913124506,
     "Streak": 1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-14T03:00:00.000+01:00",
-    "Strategy": 168.95083276736304,
+    "Strategy": 245.898913124506,
     "Streak": 2,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-15T09:00:00.000+01:00",
-    "Strategy": 167.95083276736304,
+    "Strategy": 244.898913124506,
     "Streak": -1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-19T03:15:00.000+01:00",
-    "Strategy": 172.96958276736305,
+    "Strategy": 249.91766312450602,
     "Streak": 1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-20T03:37:00.000+01:00",
-    "Strategy": 171.96958276736305,
+    "Strategy": 248.91766312450602,
     "Streak": -1,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2023-12-20T04:00:00.000+01:00",
-    "Strategy": 170.96958276736305,
+    "Strategy": 247.91766312450602,
     "Streak": -2,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2024-01-04T10:15:00.000+01:00",
-    "Strategy": 169.96958276736305,
+    "Strategy": 246.91766312450602,
     "Streak": -3,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
     "Date": "2024-01-05T15:00:00.000+01:00",
-    "Strategy": 169.96958276736305,
+    "Strategy": 246.91766312450602,
     "Streak": 0,
     "Losing Streak": 4,
     "Winning Streak": 6
