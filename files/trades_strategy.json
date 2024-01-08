@@ -337,8 +337,8 @@
     "Date PN": "2023-08-30",
     "Year": "2023",
     "Month": "2023, 08-AUG",
-    "Status": "LOSS",
-    "Theory P&L Reward": -48.3
+    "Status": "WIN",
+    "Theory P&L Reward": 8.251428571429
   },
   {
     "ID": "5fe4af17-442c-45d9-86aa-6e007d9cb193",
@@ -350,17 +350,6 @@
     "Month": "2023, 09-SEP",
     "Status": "WIN",
     "Theory P&L Reward": 6.857142857143
-  },
-  {
-    "ID": "f8b9e470-a947-4ad6-a36a-c42279a7b9f9",
-    "Trade": "TRADE",
-    "Type": "TEST",
-    "Date": "2023-09-08T00:00:00.000+02:00",
-    "Date PN": "2023-09-08",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
-    "Status": "BE",
-    "Theory P&L Reward": 0.0
   },
   {
     "ID": "4bf24483-cbea-4e0e-ac62-71d86a2226f7",

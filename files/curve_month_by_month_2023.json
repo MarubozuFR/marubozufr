@@ -74,8 +74,8 @@
     "Month WN": "2023, Aug",
     "Month N": "August",
     "Month D": 8,
-    "Strategy Curve": 107.97919918592399,
-    "Test Curve": 107.97919918592399,
+    "Strategy Curve": 164.530627757353,
+    "Test Curve": 164.530627757353,
     "Demo Curve": 0.0,
     "Live Curve": 0.0
   },
@@ -84,8 +84,8 @@
     "Month WN": "2023, Sep",
     "Month N": "September",
     "Month D": 9,
-    "Strategy Curve": 142.33326327962598,
-    "Test Curve": 137.276442043067,
+    "Strategy Curve": 198.88469185105498,
+    "Test Curve": 193.827870614496,
     "Demo Curve": 1.4675889680210004,
     "Live Curve": 0.0
   },
@@ -94,8 +94,8 @@
     "Month WN": "2023, Oct",
     "Month N": "October",
     "Month D": 10,
-    "Strategy Curve": 174.94491196656196,
-    "Test Curve": 163.745233587146,
+    "Strategy Curve": 231.496340537991,
+    "Test Curve": 220.29666215857497,
     "Demo Curve": 4.386011825164,
     "Live Curve": 0.0
   },
@@ -104,8 +104,8 @@
     "Month WN": "2023, Nov",
     "Month N": "November",
     "Month D": 11,
-    "Strategy Curve": 227.66484623900197,
-    "Test Curve": 202.78929829436902,
+    "Strategy Curve": 284.216274810431,
+    "Test Curve": 259.340726865798,
     "Demo Curve": 11.047044419359,
     "Live Curve": 0.0
   },
@@ -114,8 +114,8 @@
     "Month WN": "2023, Dec",
     "Month N": "December",
     "Month D": 12,
-    "Strategy Curve": 236.66109623900198,
-    "Test Curve": 202.78929829436902,
+    "Strategy Curve": 293.212524810431,
+    "Test Curve": 259.340726865798,
     "Demo Curve": 13.564488143903,
     "Live Curve": 0.0
   }

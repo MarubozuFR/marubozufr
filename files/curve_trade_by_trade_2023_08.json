@@ -171,16 +171,16 @@
     "Day": "2023-08-30",
     "Day D": "30",
     "Demo Curve": 0.0,
-    "Test Curve": -26.301666885503998,
+    "Test Curve": 30.249761685925,
     "Live Curve": 0.0,
-    "Strategy Curve": -26.301666885503998
+    "Strategy Curve": 30.249761685925
   },
   {
     "Day": "2023-08-31",
     "Day D": "31",
     "Demo Curve": 0.0,
-    "Test Curve": -26.301666885503998,
+    "Test Curve": 30.249761685925,
     "Live Curve": 0.0,
-    "Strategy Curve": -26.301666885503998
+    "Strategy Curve": 30.249761685925
   }
 ]
