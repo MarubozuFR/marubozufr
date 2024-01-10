@@ -398,5 +398,15 @@
     "Streak": -4,
     "Losing Streak": 4,
     "Winning Streak": 2
+  },
+  {
+    "Date": "2024-01-10T08:13:00.000+01:00",
+    "Strategy": 31.871797944632995,
+    "Reality": -72.285971636767,
+    "Reality ($)": -66913.4043125,
+    "Risk Management": 0.5,
+    "Streak": -5,
+    "Losing Streak": 5,
+    "Winning Streak": 2
   }
 ]

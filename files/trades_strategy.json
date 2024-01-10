@@ -1043,5 +1043,16 @@
     "Month": "2024, 01-JAN",
     "Status": "LOSS",
     "Theory P&L Reward": 0.0
+  },
+  {
+    "ID": "fc8de7b9-7a91-4171-827d-246bf4f2ca61",
+    "Trade": "EUR-2401100813",
+    "Type": "DEMO",
+    "Date": "2024-01-10T08:13:00.000+01:00",
+    "Date PN": "2024-01-10",
+    "Year": "2024",
+    "Month": "2023, 01-JAN",
+    "Status": "BE",
+    "Theory P&L Reward": 0.0
   }
 ]

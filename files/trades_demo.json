@@ -518,5 +518,18 @@
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": -0.174850431198,
     "Trade P&L $": -174.77
+  },
+  {
+    "ID": "fc8de7b9-7a91-4171-827d-246bf4f2ca61",
+    "Trade": "EUR-2401100813",
+    "Type": "DEMO",
+    "Date": "2024-01-10T08:13:00.000+01:00",
+    "Date PN": "2024-01-10",
+    "Year": "2024",
+    "Month": "2023, 01-JAN",
+    "Status": "LOSS",
+    "Theory P&L Reward": -1.0,
+    "Trade P&L Reward": -84.566666666667,
+    "Trade P&L $": -75704.08
   }
 ]
