@@ -4,9 +4,9 @@
     "Month WN": "2023, Jan",
     "Month N": "January",
     "Month D": 1,
-    "Strategy Curve": 35.836357142857,
+    "Strategy Curve": 34.836357142857,
     "Test Curve": 35.836357142857,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -14,9 +14,9 @@
     "Month WN": "2023, Feb",
     "Month N": "February",
     "Month D": 2,
-    "Strategy Curve": 58.436178571427995,
+    "Strategy Curve": 57.436178571427995,
     "Test Curve": 58.436178571427995,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -24,9 +24,9 @@
     "Month WN": "2023, Mar",
     "Month N": "March",
     "Month D": 3,
-    "Strategy Curve": 101.43680357142799,
+    "Strategy Curve": 100.43680357142799,
     "Test Curve": 101.43680357142799,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -34,9 +34,9 @@
     "Month WN": "2023, Apr",
     "Month N": "April",
     "Month D": 4,
-    "Strategy Curve": 107.43680357142799,
+    "Strategy Curve": 106.43680357142799,
     "Test Curve": 107.43680357142799,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -44,9 +44,9 @@
     "Month WN": "2023, May",
     "Month N": "May",
     "Month D": 5,
-    "Strategy Curve": 129.280866071428,
+    "Strategy Curve": 128.280866071428,
     "Test Curve": 129.280866071428,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -54,9 +54,9 @@
     "Month WN": "2023, Jun",
     "Month N": "June",
     "Month D": 6,
-    "Strategy Curve": 129.280866071428,
+    "Strategy Curve": 128.280866071428,
     "Test Curve": 129.280866071428,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -64,9 +64,9 @@
     "Month WN": "2023, Jul",
     "Month N": "July",
     "Month D": 7,
-    "Strategy Curve": 134.280866071428,
+    "Strategy Curve": 133.280866071428,
     "Test Curve": 134.280866071428,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -74,9 +74,9 @@
     "Month WN": "2023, Aug",
     "Month N": "August",
     "Month D": 8,
-    "Strategy Curve": 164.530627757353,
+    "Strategy Curve": 163.530627757353,
     "Test Curve": 164.530627757353,
-    "Demo Curve": 0.0,
+    "Demo Curve": -1.233333333333,
     "Live Curve": 0.0
   },
   {
@@ -84,9 +84,9 @@
     "Month WN": "2023, Sep",
     "Month N": "September",
     "Month D": 9,
-    "Strategy Curve": 198.88469185105498,
+    "Strategy Curve": 197.88469185105498,
     "Test Curve": 193.827870614496,
-    "Demo Curve": 1.4675889680210004,
+    "Demo Curve": 0.23425563468800026,
     "Live Curve": 0.0
   },
   {
@@ -94,9 +94,9 @@
     "Month WN": "2023, Oct",
     "Month N": "October",
     "Month D": 10,
-    "Strategy Curve": 231.496340537991,
+    "Strategy Curve": 230.496340537991,
     "Test Curve": 220.29666215857497,
-    "Demo Curve": 4.386011825164,
+    "Demo Curve": 3.152678491831,
     "Live Curve": 0.0
   },
   {
@@ -104,9 +104,9 @@
     "Month WN": "2023, Nov",
     "Month N": "November",
     "Month D": 11,
-    "Strategy Curve": 284.216274810431,
+    "Strategy Curve": 283.216274810431,
     "Test Curve": 259.340726865798,
-    "Demo Curve": 11.047044419359,
+    "Demo Curve": 9.813711086026,
     "Live Curve": 0.0
   },
   {
@@ -114,9 +114,9 @@
     "Month WN": "2023, Dec",
     "Month N": "December",
     "Month D": 12,
-    "Strategy Curve": 293.212524810431,
+    "Strategy Curve": 292.212524810431,
     "Test Curve": 259.340726865798,
-    "Demo Curve": 13.564488143903,
+    "Demo Curve": 12.33115481057,
     "Live Curve": 0.0
   }
 ]
