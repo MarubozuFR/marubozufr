@@ -1056,6 +1056,17 @@
     "Theory P&L Reward": -1.0
   },
   {
+    "ID": "ed412b54-6c14-4eb8-95d8-fe0f68dae779",
+    "Trade": "TRADE",
+    "Type": "TEST",
+    "Date": "2024-01-10T10:00:00.000+01:00",
+    "Date PN": "2024-01-10",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Status": "BE",
+    "Theory P&L Reward": 0.0
+  },
+  {
     "ID": "066fbb57-4e34-44fa-b594-f5a233cd0195",
     "Trade": "EUR-2401110330",
     "Type": "DEMO",
@@ -1065,16 +1076,5 @@
     "Month": "2024, 01-JAN",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
-  },
-  {
-    "ID": "ed412b54-6c14-4eb8-95d8-fe0f68dae779",
-    "Trade": "TRADE",
-    "Type": "TEST",
-    "Date": "2024-01-11T10:00:00.000+01:00",
-    "Date PN": "2024-01-11",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
-    "Status": "BE",
-    "Theory P&L Reward": 0.0
   }
 ]

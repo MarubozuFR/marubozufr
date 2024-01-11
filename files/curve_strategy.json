@@ -672,16 +672,16 @@
     "Winning Streak": 6
   },
   {
-    "Date": "2024-01-11T03:30:00.000+01:00",
-    "Strategy": 290.212524810431,
-    "Streak": -3,
+    "Date": "2024-01-10T10:00:00.000+01:00",
+    "Strategy": 291.212524810431,
+    "Streak": 0,
     "Losing Streak": 4,
     "Winning Streak": 6
   },
   {
-    "Date": "2024-01-11T10:00:00.000+01:00",
+    "Date": "2024-01-11T03:30:00.000+01:00",
     "Strategy": 290.212524810431,
-    "Streak": 0,
+    "Streak": -1,
     "Losing Streak": 4,
     "Winning Streak": 6
   }
