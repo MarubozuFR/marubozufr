@@ -606,13 +606,13 @@
   },
   {
     "ID": "ed412b54-6c14-4eb8-95d8-fe0f68dae779",
-    "Trade": "TRADE",
+    "Trade": "EUR-2401101000",
     "Type": "TEST",
     "Date": "2024-01-10T10:00:00.000+01:00",
     "Date PN": "2024-01-10",
     "Year": "2024",
     "Month": "2024, 01-JAN",
-    "Status": "BE",
-    "Theory P&L Reward": 0.0
+    "Status": "WIN",
+    "Theory P&L Reward": 6.03
   }
 ]
