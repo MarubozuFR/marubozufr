@@ -547,7 +547,7 @@
   },
   {
     "ID": "094f5ecf-895a-4e51-b3ae-21ddc6886876",
-    "Trade": "TRADE",
+    "Trade": "EUR-2401120343",
     "Type": "DEMO",
     "Date": "2024-01-12T03:43:00.000+01:00",
     "Date PN": "2024-01-12",
@@ -555,7 +555,7 @@
     "Month": "2024, 01-JAN",
     "Status": "BE",
     "Theory P&L Reward": 0.0,
-    "Trade P&L Reward": 0.0,
-    "Trade P&L $": 0.0
+    "Trade P&L Reward": -0.0125,
+    "Trade P&L $": -5.74
   }
 ]
