@@ -7,6 +7,7 @@
     "Date PN": "2023-01-05",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 8.3875
   },
@@ -18,6 +19,7 @@
     "Date PN": "2023-01-06",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 9.511
   },
@@ -29,6 +31,7 @@
     "Date PN": "2023-01-10",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Tuesday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -40,6 +43,7 @@
     "Date PN": "2023-01-12",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 6.76
   },
@@ -51,6 +55,7 @@
     "Date PN": "2023-01-18",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 3.875
   },
@@ -62,6 +67,7 @@
     "Date PN": "2023-01-23",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 4.0
   },
@@ -73,6 +79,7 @@
     "Date PN": "2023-01-25",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 5.302857142857
   },
@@ -84,6 +91,7 @@
     "Date PN": "2023-01-26",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -95,6 +103,7 @@
     "Date PN": "2023-01-31",
     "Year": "2023",
     "Month": "2023, 01-JAN",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -106,6 +115,7 @@
     "Date PN": "2023-02-06",
     "Year": "2023",
     "Month": "2023, 02-FEB",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 1.0
   },
@@ -117,6 +127,7 @@
     "Date PN": "2023-02-16",
     "Year": "2023",
     "Month": "2023, 02-FEB",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 3.428571428571
   },
@@ -128,6 +139,7 @@
     "Date PN": "2023-02-21",
     "Year": "2023",
     "Month": "2023, 02-FEB",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 8.00875
   },
@@ -139,6 +151,7 @@
     "Date PN": "2023-02-27",
     "Year": "2023",
     "Month": "2023, 02-FEB",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -150,6 +163,7 @@
     "Date PN": "2023-02-27",
     "Year": "2023",
     "Month": "2023, 02-FEB",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 11.1625
   },
@@ -161,6 +175,7 @@
     "Date PN": "2023-03-03",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -172,6 +187,7 @@
     "Date PN": "2023-03-08",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 9.14875
   },
@@ -183,6 +199,7 @@
     "Date PN": "2023-03-10",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Friday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -194,6 +211,7 @@
     "Date PN": "2023-03-16",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 13.4128125
   },
@@ -205,6 +223,7 @@
     "Date PN": "2023-03-17",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 22.4390625
   },
@@ -216,6 +235,7 @@
     "Date PN": "2023-03-31",
     "Year": "2023",
     "Month": "2023, 03-MAR",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -227,6 +247,7 @@
     "Date PN": "2023-04-28",
     "Year": "2023",
     "Month": "2023, 04-APR",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 6.0
   },
@@ -238,6 +259,7 @@
     "Date PN": "2023-05-08",
     "Year": "2023",
     "Month": "2023, 05-MAY",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 13.3703125
   },
@@ -249,6 +271,7 @@
     "Date PN": "2023-05-24",
     "Year": "2023",
     "Month": "2023, 05-MAY",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 8.47375
   },
@@ -260,6 +283,7 @@
     "Date PN": "2023-06-16",
     "Year": "2023",
     "Month": "2023, 06-JUN",
+    "Day": "Friday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -271,6 +295,7 @@
     "Date PN": "2023-07-03",
     "Year": "2023",
     "Month": "2023, 07-JUL",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 6.0
   },
@@ -282,6 +307,7 @@
     "Date PN": "2023-07-19",
     "Year": "2023",
     "Month": "2023, 07-JUL",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -293,6 +319,7 @@
     "Date PN": "2023-08-03",
     "Year": "2023",
     "Month": "2023, 08-AUG",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 9.252142857143
   },
@@ -304,6 +331,7 @@
     "Date PN": "2023-08-10",
     "Year": "2023",
     "Month": "2023, 08-AUG",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 9.681484375
   },
@@ -315,6 +343,7 @@
     "Date PN": "2023-08-25",
     "Year": "2023",
     "Month": "2023, 08-AUG",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 4.064705882353
   },
@@ -326,6 +355,7 @@
     "Date PN": "2023-08-29",
     "Year": "2023",
     "Month": "2023, 08-AUG",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -337,6 +367,7 @@
     "Date PN": "2023-08-30",
     "Year": "2023",
     "Month": "2023, 08-AUG",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 8.251428571429
   },
@@ -348,6 +379,7 @@
     "Date PN": "2023-09-06",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 6.857142857143
   },
@@ -359,6 +391,7 @@
     "Date PN": "2023-09-11",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -370,6 +403,7 @@
     "Date PN": "2023-09-12",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": 0.0
   },
@@ -381,6 +415,7 @@
     "Date PN": "2023-09-15",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 0.0
   },
@@ -392,6 +427,7 @@
     "Date PN": "2023-09-18",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -403,6 +439,7 @@
     "Date PN": "2023-09-18",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -414,6 +451,7 @@
     "Date PN": "2023-09-20",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 10.3536
   },
@@ -425,6 +463,7 @@
     "Date PN": "2023-09-20",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 5.051612903226
   },
@@ -436,6 +475,7 @@
     "Date PN": "2023-09-21",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -447,6 +487,7 @@
     "Date PN": "2023-09-25",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 7.0865
   },
@@ -458,6 +499,7 @@
     "Date PN": "2023-09-28",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": -1.0
   },
@@ -469,6 +511,7 @@
     "Date PN": "2023-09-29",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -480,6 +523,7 @@
     "Date PN": "2023-09-29",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -491,6 +535,7 @@
     "Date PN": "2023-09-29",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 5.0
   },
@@ -502,6 +547,7 @@
     "Date PN": "2023-09-29",
     "Year": "2023",
     "Month": "2023, 09-SEP",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 7.005208333333
   },
@@ -513,6 +559,7 @@
     "Date PN": "2023-10-04",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -524,6 +571,7 @@
     "Date PN": "2023-10-04",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -535,6 +583,7 @@
     "Date PN": "2023-10-04",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 4.214285714286
   },
@@ -546,6 +595,7 @@
     "Date PN": "2023-10-05",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 6.166666666667
   },
@@ -557,6 +607,7 @@
     "Date PN": "2023-10-06",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 2.571428571429
   },
@@ -568,6 +619,7 @@
     "Date PN": "2023-10-09",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 3.315789473684
   },
@@ -579,6 +631,7 @@
     "Date PN": "2023-10-10",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 3.04347826087
   },
@@ -590,6 +643,7 @@
     "Date PN": "2023-10-11",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 0.0
   },
@@ -601,6 +655,7 @@
     "Date PN": "2023-10-16",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -612,6 +667,7 @@
     "Date PN": "2023-10-17",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Tuesday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -623,6 +679,7 @@
     "Date PN": "2023-10-19",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 4.3
   },
@@ -634,6 +691,7 @@
     "Date PN": "2023-10-23",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 4.857142857143
   },
@@ -645,6 +703,7 @@
     "Date PN": "2023-10-23",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -656,6 +715,7 @@
     "Date PN": "2023-10-23",
     "Year": "2023",
     "Month": "2023, 10-OCT",
+    "Day": "Monday",
     "Status": "WIN",
     "Theory P&L Reward": 8.142857142857
   },
@@ -667,6 +727,7 @@
     "Date PN": "2023-11-02",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 7.5
   },
@@ -678,6 +739,7 @@
     "Date PN": "2023-11-03",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -689,6 +751,7 @@
     "Date PN": "2023-11-03",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 3.7
   },
@@ -700,6 +763,7 @@
     "Date PN": "2023-11-06",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Monday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -711,6 +775,7 @@
     "Date PN": "2023-11-07",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Tuesday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -722,6 +787,7 @@
     "Date PN": "2023-11-09",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -733,6 +799,7 @@
     "Date PN": "2023-11-09",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 5.1
   },
@@ -744,6 +811,7 @@
     "Date PN": "2023-11-09",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 3.390476190476
   },
@@ -755,6 +823,7 @@
     "Date PN": "2023-11-10",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Friday",
     "Status": "BE",
     "Theory P&L Reward": 0.04
   },
@@ -766,6 +835,7 @@
     "Date PN": "2023-11-16",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 6.36
   },
@@ -777,6 +847,7 @@
     "Date PN": "2023-11-17",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 6.526315789474
   },
@@ -788,6 +859,7 @@
     "Date PN": "2023-11-17",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Friday",
     "Status": "WIN",
     "Theory P&L Reward": 2.260869565217
   },
@@ -799,6 +871,7 @@
     "Date PN": "2023-11-22",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 6.967272727273
   },
@@ -810,6 +883,7 @@
     "Date PN": "2023-11-22",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 5.6
   },
@@ -821,6 +895,7 @@
     "Date PN": "2023-11-23",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -832,6 +907,7 @@
     "Date PN": "2023-11-27",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Monday",
     "Status": "BE",
     "Theory P&L Reward": 3.375
   },
@@ -843,6 +919,7 @@
     "Date PN": "2023-11-28",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 4.9
   },
@@ -854,6 +931,7 @@
     "Date PN": "2023-11-30",
     "Year": "2023",
     "Month": "2023, 11-NOV",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -865,6 +943,7 @@
     "Date PN": "2023-12-01",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -876,6 +955,7 @@
     "Date PN": "2023-12-04",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -887,6 +967,7 @@
     "Date PN": "2023-12-05",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -898,6 +979,7 @@
     "Date PN": "2023-12-05",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 6.8525
   },
@@ -909,6 +991,7 @@
     "Date PN": "2023-12-05",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -920,6 +1003,7 @@
     "Date PN": "2023-12-07",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 0.0
   },
@@ -931,6 +1015,7 @@
     "Date PN": "2023-12-08",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -942,6 +1027,7 @@
     "Date PN": "2023-12-12",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -953,6 +1039,7 @@
     "Date PN": "2023-12-12",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 0.0
   },
@@ -964,6 +1051,7 @@
     "Date PN": "2023-12-14",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Thursday",
     "Status": "WIN",
     "Theory P&L Reward": 6.125
   },
@@ -975,6 +1063,7 @@
     "Date PN": "2023-12-15",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Friday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -986,6 +1075,7 @@
     "Date PN": "2023-12-19",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Tuesday",
     "Status": "WIN",
     "Theory P&L Reward": 5.01875
   },
@@ -997,6 +1087,7 @@
     "Date PN": "2023-12-20",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -1008,6 +1099,7 @@
     "Date PN": "2023-12-20",
     "Year": "2023",
     "Month": "2023, 12-DEC",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -1019,6 +1111,7 @@
     "Date PN": "2024-01-04",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -1030,6 +1123,7 @@
     "Date PN": "2024-01-05",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Friday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   },
@@ -1041,6 +1135,7 @@
     "Date PN": "2024-01-08",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Monday",
     "Status": "LOSS",
     "Theory P&L Reward": 0.0
   },
@@ -1052,6 +1147,7 @@
     "Date PN": "2024-01-10",
     "Year": "2024",
     "Month": "2023, 01-JAN",
+    "Day": "Wednesday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -1063,6 +1159,7 @@
     "Date PN": "2024-01-10",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Theory P&L Reward": 6.03
   },
@@ -1074,6 +1171,7 @@
     "Date PN": "2024-01-11",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Thursday",
     "Status": "LOSS",
     "Theory P&L Reward": -1.0
   },
@@ -1085,6 +1183,7 @@
     "Date PN": "2024-01-12",
     "Year": "2024",
     "Month": "2024, 01-JAN",
+    "Day": "Friday",
     "Status": "BE",
     "Theory P&L Reward": 0.0
   }

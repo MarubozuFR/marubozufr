@@ -1,0 +1,57 @@
+[
+  {
+    "Day": "Monday",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Day": "Tuesday",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Day": "Wednesday",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Day": "Thursday",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Day": "Friday",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  }
+]
