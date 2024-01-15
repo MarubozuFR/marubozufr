@@ -23,13 +23,13 @@
   },
   {
     "Session": "FIXING",
-    "Trades": 76,
-    "P&L": 140.16,
-    "Win": 34,
+    "Trades": 75,
+    "P&L": 136.46,
+    "Win": 33,
     "Loss": 32,
     "Breakeven": 10,
-    "WinRate": 45,
-    "LossRate": 42,
+    "WinRate": 44,
+    "LossRate": 43,
     "BreakevenRate": 13
   }
 ]

@@ -322,73 +322,66 @@
     "Winning Streak": 5
   },
   {
-    "Date": "2023-11-03T10:45:00.000+01:00",
-    "Strategy": 222.996662158575,
-    "Streak": 1,
-    "Losing Streak": 2,
-    "Winning Streak": 5
-  },
-  {
     "Date": "2023-11-09T10:15:00.000+01:00",
-    "Strategy": 226.38713834905099,
-    "Streak": 2,
+    "Strategy": 222.687138349051,
+    "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-16T08:30:00.000+01:00",
-    "Strategy": 232.747138349051,
-    "Streak": 3,
+    "Strategy": 229.047138349051,
+    "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-17T03:30:00.000+01:00",
-    "Strategy": 239.273454138525,
-    "Streak": 4,
+    "Strategy": 235.57345413852502,
+    "Streak": 3,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-22T08:15:00.000+01:00",
-    "Strategy": 246.24072686579802,
-    "Streak": 5,
+    "Strategy": 242.54072686579804,
+    "Streak": 4,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-22T10:30:00.000+01:00",
-    "Strategy": 251.84072686579802,
-    "Streak": 6,
+    "Strategy": 248.14072686579803,
+    "Streak": 5,
     "Losing Streak": 2,
-    "Winning Streak": 6
+    "Winning Streak": 5
   },
   {
     "Date": "2023-11-23T03:30:00.000+01:00",
-    "Strategy": 251.84072686579802,
+    "Strategy": 248.14072686579803,
     "Streak": 0,
     "Losing Streak": 2,
-    "Winning Streak": 6
+    "Winning Streak": 5
   },
   {
     "Date": "2024-01-05T15:00:00.000+01:00",
-    "Strategy": 251.84072686579802,
+    "Strategy": 248.14072686579803,
     "Streak": 0,
     "Losing Streak": 2,
-    "Winning Streak": 6
+    "Winning Streak": 5
   },
   {
     "Date": "2024-01-10T10:00:00.000+01:00",
-    "Strategy": 257.870726865798,
+    "Strategy": 254.17072686579803,
     "Streak": 1,
     "Losing Streak": 2,
-    "Winning Streak": 6
+    "Winning Streak": 5
   },
   {
     "Date": "2024-01-15T08:20:00.000+01:00",
-    "Strategy": 257.870726865798,
+    "Strategy": 254.17072686579803,
     "Streak": 0,
     "Losing Streak": 2,
-    "Winning Streak": 6
+    "Winning Streak": 5
   }
 ]

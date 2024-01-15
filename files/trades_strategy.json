@@ -1004,22 +1004,6 @@
     "Theory P&L Reward": -1.0
   },
   {
-    "ID": "71a13eb4-10ca-4f5d-aafb-2242b0f25cd1",
-    "Trade": "EUR-2311031045",
-    "Type": "TEST",
-    "Date": "2023-11-03T10:45:00.000+01:00",
-    "Date PN": "2023-11-03",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
-    "Day": "Friday",
-    "Status": "WIN",
-    "Confluences": [
-      "FIXING",
-      "CYCLE M15"
-    ],
-    "Theory P&L Reward": 3.7
-  },
-  {
     "ID": "0c662b1c-db53-4d95-8614-ea3a922e5ad7",
     "Trade": "EUR-2311061030",
     "Type": "DEMO",
@@ -1656,5 +1640,21 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0
+  },
+  {
+    "ID": "b38bf36a-c06e-4a34-8bea-e41c84517d9c",
+    "Trade": "EUR-2401151020",
+    "Type": "DEMO",
+    "Date": "2024-01-15T10:20:00.000+01:00",
+    "Date PN": "2024-01-15",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Day": "Monday",
+    "Status": "LOSS",
+    "Confluences": [
+      "RETEST FIXING",
+      "ORDER FLOW M15"
+    ],
+    "Theory P&L Reward": -1.0
   }
 ]
