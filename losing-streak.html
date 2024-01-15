@@ -62,7 +62,7 @@
             const xCoor = chart.getDatasetMeta(0).data[0].x;
             const yCoor = chart.getDatasetMeta(0).data[0].y;
             
-            const rating = losingStreak + ' consecutive ' + (losingStreak <= 1 ? 'loss' : "losses");
+            const rating = losingStreak + ' ' + (losingStreak <= 1 ? 'loss' : "losses");
 
             function textLabel(size, color, baseline, align, ) {
               ctx.font = size + ' sans-serif';
@@ -77,7 +77,7 @@
             textLabel('14px', 'grey', 'top', 'right');
             ctx.fillText('10', right, yCoor + 20);*/
 
-            textLabel('20px', 'grey', 'top', 'center');
+            textLabel('18px', 'grey', 'top', 'center');
             ctx.fillText(rating, xCoor, yCoor + 30);
           }
         }

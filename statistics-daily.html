@@ -41,6 +41,32 @@
               }],
               backgroundColor: bubbleColors[index]
             }))
+          },
+          options: {
+            scales: {
+              x: {
+                min: 0,
+                max: 100
+              },
+              y: {
+                ticks: {
+                  callback: (value, index, ticks) => { return value + "R"; }
+                }
+              }
+            },
+            plugins: {
+              tooltip: {
+                callbacks: {
+                  label: function(context) {
+                    return [
+                      ' ' + context.dataset.label + ' ('+context.parsed._custom + ' trades)',
+                      ' Winrate: ' + context.parsed.x + '%',
+                      ' P&L: ' + context.parsed.y + 'R'
+                    ];
+                  }
+                }
+              }
+            }
           }
         }
         var ctx = document.getElementById("drawing").getContext("2d");
