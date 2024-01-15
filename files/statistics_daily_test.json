@@ -19,7 +19,7 @@
     "Breakeven": 2,
     "WinRate": 33,
     "LossRate": 33,
-    "BreakevenRate": 33
+    "BreakevenRate": 34
   },
   {
     "Day": "Wednesday",
@@ -41,7 +41,7 @@
     "Breakeven": 1,
     "WinRate": 85,
     "LossRate": 8,
-    "BreakevenRate": 8
+    "BreakevenRate": 7
   },
   {
     "Day": "Friday",
@@ -52,6 +52,6 @@
     "Breakeven": 3,
     "WinRate": 57,
     "LossRate": 21,
-    "BreakevenRate": 21
+    "BreakevenRate": 22
   }
 ]
