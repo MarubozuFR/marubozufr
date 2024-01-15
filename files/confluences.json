@@ -1,0 +1,90 @@
+[
+  {
+    "ID": "83593d2e-d152-4cf9-9166-2447ef58e228",
+    "Confluence": "ORDER FLOW H1"
+  },
+  {
+    "ID": "f30086bc-9586-4d82-b950-f8d180afebaa",
+    "Confluence": "ORDER FLOW D1"
+  },
+  {
+    "ID": "0730cc6a-743f-499f-abd2-2aa5f602037d",
+    "Confluence": "ORDER FLOW M15"
+  },
+  {
+    "ID": "adfa9707-d9e1-44e2-b226-439f71881eeb",
+    "Confluence": "RETEST FIXING"
+  },
+  {
+    "ID": "30815ce0-fbf2-41f9-b8ca-ab5dba058c11",
+    "Confluence": "RETEST NEW YORK"
+  },
+  {
+    "ID": "c69e9b7d-10e6-4aab-aa32-1231ac612d45",
+    "Confluence": "RETEST LONDON"
+  },
+  {
+    "ID": "3802b1cf-1974-4b91-9056-98353fe6c7f1",
+    "Confluence": "ORDER FLOW H4"
+  },
+  {
+    "ID": "bc60ddbf-efde-4ba2-8bfc-18eac0572f35",
+    "Confluence": "2 STRUCTURES BREAK"
+  },
+  {
+    "ID": "64e890b4-6c53-4392-8afc-aeb3186ad3c6",
+    "Confluence": "NEW YORK"
+  },
+  {
+    "ID": "92dbcfbb-e193-47b8-85e8-e3d49a00d0c1",
+    "Confluence": "LONDON"
+  },
+  {
+    "ID": "56c5da5c-c895-459d-958b-cfd68b55ee55",
+    "Confluence": "NEWS"
+  },
+  {
+    "ID": "09d27085-3482-4d56-a6ba-1983339620fa",
+    "Confluence": "LIQUIDITY W1"
+  },
+  {
+    "ID": "740760f9-fbc4-4404-a44c-c5ad80ff0b57",
+    "Confluence": "LIQUIDITY D1"
+  },
+  {
+    "ID": "74a18113-60ca-4ab6-a9ac-f9c3c5e360e2",
+    "Confluence": "FIXING"
+  },
+  {
+    "ID": "a3f8fedf-4093-4d55-89ed-66507ac907d0",
+    "Confluence": "STRUCTURE SHIFT H4"
+  },
+  {
+    "ID": "faadf200-3731-4132-8c31-d75aa9e8070b",
+    "Confluence": "STRUCTURE SHIFT H1"
+  },
+  {
+    "ID": "bce67c15-5a03-4151-a941-d7b907bfd718",
+    "Confluence": "STRUCTURE SHIFT M15"
+  },
+  {
+    "ID": "96033514-af0d-408d-bd4c-cbab86b1f32f",
+    "Confluence": "CYCLE INTERNAL"
+  },
+  {
+    "ID": "cc996736-c7d8-4a46-b070-a596c7b6a5b6",
+    "Confluence": "CYCLE D1"
+  },
+  {
+    "ID": "02dc4898-9ee1-4ae8-936f-faccd5348c23",
+    "Confluence": "CYCLE M15"
+  },
+  {
+    "ID": "c94c29be-5d42-4229-a967-5bdc5db51349",
+    "Confluence": "CYCLE H1"
+  },
+  {
+    "ID": "e157b6c0-f1f1-4db7-8ffb-3f68f89584df",
+    "Confluence": "CYCLE H4"
+  }
+]

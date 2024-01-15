@@ -1,0 +1,35 @@
+[
+  {
+    "Session": "LONDON",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Session": "NEW YORK",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Session": "FIXING",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  }
+]

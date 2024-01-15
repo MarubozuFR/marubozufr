@@ -315,79 +315,79 @@
     "Winning Streak": 5
   },
   {
-    "Date": "2023-11-02T04:15:00.000+01:00",
-    "Strategy": 227.796662158575,
-    "Streak": 3,
-    "Losing Streak": 2,
-    "Winning Streak": 5
-  },
-  {
     "Date": "2023-11-03T03:30:00.000+01:00",
-    "Strategy": 226.796662158575,
+    "Strategy": 219.296662158575,
     "Streak": -1,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-03T10:45:00.000+01:00",
-    "Strategy": 230.496662158575,
+    "Strategy": 222.996662158575,
     "Streak": 1,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-09T10:15:00.000+01:00",
-    "Strategy": 233.88713834905099,
+    "Strategy": 226.38713834905099,
     "Streak": 2,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-16T08:30:00.000+01:00",
-    "Strategy": 240.247138349051,
+    "Strategy": 232.747138349051,
     "Streak": 3,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-17T03:30:00.000+01:00",
-    "Strategy": 246.773454138525,
+    "Strategy": 239.273454138525,
     "Streak": 4,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-22T08:15:00.000+01:00",
-    "Strategy": 253.74072686579802,
+    "Strategy": 246.24072686579802,
     "Streak": 5,
     "Losing Streak": 2,
     "Winning Streak": 5
   },
   {
     "Date": "2023-11-22T10:30:00.000+01:00",
-    "Strategy": 259.34072686579805,
+    "Strategy": 251.84072686579802,
     "Streak": 6,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2023-11-23T03:30:00.000+01:00",
-    "Strategy": 259.34072686579805,
+    "Strategy": 251.84072686579802,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2024-01-05T15:00:00.000+01:00",
-    "Strategy": 259.34072686579805,
+    "Strategy": 251.84072686579802,
     "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   },
   {
     "Date": "2024-01-10T10:00:00.000+01:00",
-    "Strategy": 265.370726865798,
+    "Strategy": 257.870726865798,
     "Streak": 1,
+    "Losing Streak": 2,
+    "Winning Streak": 6
+  },
+  {
+    "Date": "2024-01-15T08:20:00.000+01:00",
+    "Strategy": 257.870726865798,
+    "Streak": 0,
     "Losing Streak": 2,
     "Winning Streak": 6
   }

@@ -9,6 +9,12 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "FIXING",
+      "CYCLE H4",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.0354,
     "Trade P&L $": -103.54
@@ -23,6 +29,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": -1.0,
     "Trade P&L $": -68.75
@@ -37,6 +46,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": 0.125,
     "Trade P&L $": 12.5
@@ -51,6 +63,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.0,
     "Trade P&L $": -50.0
@@ -65,6 +80,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.071428571429,
     "Trade P&L $": -93.75
@@ -79,6 +98,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": 5.051612903226,
     "Trade P&L Reward": 5.029032258065,
     "Trade P&L $": 62.36
@@ -93,6 +116,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.071428571429,
     "Trade P&L $": -93.75
@@ -107,6 +134,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": 0.090909090909,
     "Trade P&L $": 12.5
@@ -121,6 +152,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H4",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.0354,
     "Trade P&L $": -103.54
@@ -135,6 +170,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.040457142857,
     "Trade P&L $": -91.04
@@ -149,6 +188,11 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "CYCLE H4",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 7.005208333333,
     "Trade P&L Reward": 3.476761904762,
     "Trade P&L $": 912.65
@@ -163,6 +207,10 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.0354,
     "Trade P&L $": -103.54
@@ -177,9 +225,34 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H4",
+      "NEWS",
+      "NEW YORK",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": 0.125,
     "Trade P&L $": 12.5
+  },
+  {
+    "ID": "4eefddd7-18f3-408d-8cae-fb7f727ae22f",
+    "Trade": "EUR-2310230908",
+    "Type": "DEMO",
+    "Date": "2023-10-23T03:08:00.000+02:00",
+    "Date PN": "2023-10-23",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Day": "Monday",
+    "Status": "WIN",
+    "Confluences": [
+      "CYCLE INTERNAL",
+      "STRUCTURE SHIFT M15",
+      "LONDON"
+    ],
+    "Theory P&L Reward": 8.142857142857,
+    "Trade P&L Reward": 4.857142857143,
+    "Trade P&L $": 850.0
   },
   {
     "ID": "a38d61e4-f34d-4ba9-b5aa-0eaf7a574b0c",
@@ -191,23 +264,14 @@
     "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEWS",
+      "RETEST NEW YORK",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.02832,
     "Trade P&L $": -257.08
-  },
-  {
-    "ID": "4eefddd7-18f3-408d-8cae-fb7f727ae22f",
-    "Trade": "EUR-2310230908",
-    "Type": "DEMO",
-    "Date": "2023-10-23T09:08:00.000+02:00",
-    "Date PN": "2023-10-23",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
-    "Day": "Monday",
-    "Status": "WIN",
-    "Theory P&L Reward": 8.142857142857,
-    "Trade P&L Reward": 4.857142857143,
-    "Trade P&L $": 850.0
   },
   {
     "ID": "0c662b1c-db53-4d95-8614-ea3a922e5ad7",
@@ -219,6 +283,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Monday",
     "Status": "BE",
+    "Confluences": [
+      "FIXING",
+      "CYCLE H1",
+      "CYCLE INTERNAL"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": -0.0472,
     "Trade P&L $": -24.78
@@ -233,6 +302,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "BE",
+    "Confluences": [
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": 0.030893822222,
     "Trade P&L $": 15.6399975
@@ -247,6 +320,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.040457142857,
     "Trade P&L $": -546.24
@@ -261,6 +338,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE M15",
+      "NEW YORK",
+      "NEWS"
+    ],
     "Theory P&L Reward": 5.1,
     "Trade P&L Reward": 4.8576,
     "Trade P&L $": 2337.72
@@ -275,6 +357,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "LONDON",
+      "LIQUIDITY D1",
+      "CYCLE H4"
+    ],
     "Theory P&L Reward": 0.04,
     "Trade P&L Reward": 0.014951724138,
     "Trade P&L $": 8.13
@@ -289,6 +376,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 2.260869565217,
     "Trade P&L Reward": 1.008403361345,
     "Trade P&L $": 1042.8
@@ -303,6 +394,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Monday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H4",
+      "FIXING"
+    ],
     "Theory P&L Reward": 3.375,
     "Trade P&L Reward": 0.026666666667,
     "Trade P&L $": 5.28
@@ -317,6 +412,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON"
+    ],
     "Theory P&L Reward": 4.9,
     "Trade P&L Reward": 2.925963636364,
     "Trade P&L $": 6393.669440000001
@@ -331,6 +430,13 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW H4",
+      "CYCLE H1",
+      "CYCLE INTERNAL",
+      "LONDON",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.115789473684,
     "Trade P&L $": -2303.38
@@ -345,6 +451,12 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "CYCLE D1",
+      "NEWS",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.166666666667,
     "Trade P&L $": -2153.76
@@ -359,6 +471,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15",
+      "NEW YORK",
+      "RETEST LONDON"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.212121212121,
     "Trade P&L $": -1234.4
@@ -373,6 +490,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK",
+      "RETEST LONDON"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.093333333333,
     "Trade P&L $": -1104.54
@@ -387,6 +508,12 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE M15",
+      "NEWS",
+      "CYCLE INTERNAL"
+    ],
     "Theory P&L Reward": 6.8525,
     "Trade P&L Reward": 5.0368875,
     "Trade P&L $": 4992.56289
@@ -401,6 +528,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "FIXING",
+      "NEWS"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.056910569106,
     "Trade P&L $": -1073.8
@@ -415,6 +547,13 @@
     "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "NEW YORK",
+      "NEWS",
+      "STRUCTURE SHIFT H1",
+      "STRUCTURE SHIFT H4",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": 0.089743589744,
     "Trade P&L $": 88.41
@@ -429,6 +568,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "RETEST FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -0.9625,
     "Trade P&L $": -972.51
@@ -443,6 +586,9 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -0.6375,
     "Trade P&L $": -641.58
@@ -457,6 +603,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "NEWS"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": 1.8396,
     "Trade P&L $": 3127.32
@@ -471,6 +621,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "LONDON",
+      "ORDER FLOW M15"
+    ],
     "Theory P&L Reward": 6.125,
     "Trade P&L Reward": 4.985244416027,
     "Trade P&L $": 4678.15336
@@ -485,6 +639,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "NEW YORK",
+      "RETEST FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.08,
     "Trade P&L $": -1148.04
@@ -499,6 +658,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "ORDER FLOW M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 5.01875,
     "Trade P&L Reward": 0.075,
     "Trade P&L $": 76.08
@@ -513,6 +676,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.2,
     "Trade P&L $": -1218.0
@@ -527,6 +694,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.1,
     "Trade P&L $": -1168.2
@@ -541,6 +713,11 @@
     "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW D1",
+      "RETEST LONDON",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.108942682805,
     "Trade P&L $": -1108.61
@@ -555,6 +732,10 @@
     "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": -0.174850431198,
     "Trade P&L $": -174.77
@@ -569,6 +750,11 @@
     "Month": "2023, 01-JAN",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW M15",
+      "CYCLE M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.233333333333,
     "Trade P&L $": -1104.08
@@ -583,6 +769,10 @@
     "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.102941176471,
     "Trade P&L $": -499.5
@@ -597,6 +787,11 @@
     "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H4",
+      "ORDER FLOW M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 0.0,
     "Trade P&L Reward": -0.0125,
     "Trade P&L $": -5.74
@@ -611,6 +806,9 @@
     "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON"
+    ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.1,
     "Trade P&L $": -499.73

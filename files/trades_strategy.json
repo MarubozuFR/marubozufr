@@ -9,6 +9,9 @@
     "Month": "2023, 01-JAN",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 8.3875
   },
   {
@@ -21,6 +24,12 @@
     "Month": "2023, 01-JAN",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "FIXING",
+      "2 STRUCTURES BREAK",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": 9.511
   },
   {
@@ -33,6 +42,10 @@
     "Month": "2023, 01-JAN",
     "Day": "Tuesday",
     "Status": "BE",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -45,6 +58,11 @@
     "Month": "2023, 01-JAN",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "STRUCTURE SHIFT M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 6.76
   },
   {
@@ -57,6 +75,10 @@
     "Month": "2023, 01-JAN",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "NEW YORK",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 3.875
   },
   {
@@ -69,6 +91,10 @@
     "Month": "2023, 01-JAN",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 4.0
   },
   {
@@ -81,6 +107,9 @@
     "Month": "2023, 01-JAN",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 5.302857142857
   },
   {
@@ -93,6 +122,11 @@
     "Month": "2023, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "NEWS",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -105,6 +139,10 @@
     "Month": "2023, 01-JAN",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -117,6 +155,10 @@
     "Month": "2023, 02-FEB",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 1.0
   },
   {
@@ -129,6 +171,12 @@
     "Month": "2023, 02-FEB",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "RETEST NEW YORK",
+      "NEWS",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 3.428571428571
   },
   {
@@ -141,6 +189,10 @@
     "Month": "2023, 02-FEB",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": 8.00875
   },
   {
@@ -153,6 +205,10 @@
     "Month": "2023, 02-FEB",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -165,6 +221,11 @@
     "Month": "2023, 02-FEB",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT H1",
+      "STRUCTURE SHIFT M15",
+      "LIQUIDITY W1"
+    ],
     "Theory P&L Reward": 11.1625
   },
   {
@@ -177,6 +238,11 @@
     "Month": "2023, 03-MAR",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "NEWS",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -189,6 +255,12 @@
     "Month": "2023, 03-MAR",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "LIQUIDITY W1",
+      "LIQUIDITY D1",
+      "CYCLE H1",
+      "STRUCTURE SHIFT H1"
+    ],
     "Theory P&L Reward": 9.14875
   },
   {
@@ -201,6 +273,11 @@
     "Month": "2023, 03-MAR",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "LIQUIDITY W1",
+      "CYCLE D1",
+      "FIXING"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -213,6 +290,10 @@
     "Month": "2023, 03-MAR",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": 13.4128125
   },
   {
@@ -225,6 +306,10 @@
     "Month": "2023, 03-MAR",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "ORDER FLOW H1"
+    ],
     "Theory P&L Reward": 22.4390625
   },
   {
@@ -237,6 +322,10 @@
     "Month": "2023, 03-MAR",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -249,6 +338,12 @@
     "Month": "2023, 04-APR",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "NEWS",
+      "NEW YORK",
+      "CYCLE H4"
+    ],
     "Theory P&L Reward": 6.0
   },
   {
@@ -261,6 +356,11 @@
     "Month": "2023, 05-MAY",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H4",
+      "CYCLE H1",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 13.3703125
   },
   {
@@ -273,6 +373,10 @@
     "Month": "2023, 05-MAY",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 8.47375
   },
   {
@@ -285,6 +389,9 @@
     "Month": "2023, 06-JUN",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -297,6 +404,10 @@
     "Month": "2023, 07-JUL",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 6.0
   },
   {
@@ -309,6 +420,10 @@
     "Month": "2023, 07-JUL",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -321,6 +436,11 @@
     "Month": "2023, 08-AUG",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "RETEST LONDON",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 9.252142857143
   },
   {
@@ -333,6 +453,11 @@
     "Month": "2023, 08-AUG",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE D1",
+      "NEWS",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 9.681484375
   },
   {
@@ -345,6 +470,10 @@
     "Month": "2023, 08-AUG",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "RETEST FIXING"
+    ],
     "Theory P&L Reward": 4.064705882353
   },
   {
@@ -357,6 +486,12 @@
     "Month": "2023, 08-AUG",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "LIQUIDITY D1",
+      "CYCLE H4",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -369,6 +504,9 @@
     "Month": "2023, 08-AUG",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 8.251428571429
   },
   {
@@ -381,6 +519,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 6.857142857143
   },
   {
@@ -393,6 +534,12 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "FIXING",
+      "CYCLE H4",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -405,6 +552,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -417,6 +567,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -429,6 +582,9 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -441,6 +597,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -453,6 +613,11 @@
     "Month": "2023, 09-SEP",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "NEWS",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": 10.3536
   },
   {
@@ -465,6 +630,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": 5.051612903226
   },
   {
@@ -477,6 +646,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -489,6 +662,11 @@
     "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 7.0865
   },
   {
@@ -501,6 +679,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -513,6 +695,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H4",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -525,6 +711,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -537,6 +727,10 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "2 STRUCTURES BREAK"
+    ],
     "Theory P&L Reward": 5.0
   },
   {
@@ -549,6 +743,11 @@
     "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "STRUCTURE SHIFT M15",
+      "CYCLE H4",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 7.005208333333
   },
   {
@@ -561,6 +760,10 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -573,6 +776,9 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -585,6 +791,10 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
     "Theory P&L Reward": 4.214285714286
   },
   {
@@ -597,6 +807,11 @@
     "Month": "2023, 10-OCT",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE INTERNAL",
+      "CYCLE M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 6.166666666667
   },
   {
@@ -609,6 +824,9 @@
     "Month": "2023, 10-OCT",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS"
+    ],
     "Theory P&L Reward": 2.571428571429
   },
   {
@@ -621,6 +839,11 @@
     "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "LONDON",
+      "RETEST NEW YORK"
+    ],
     "Theory P&L Reward": 3.315789473684
   },
   {
@@ -633,6 +856,11 @@
     "Month": "2023, 10-OCT",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "LONDON",
+      "CYCLE INTERNAL",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 3.04347826087
   },
   {
@@ -645,6 +873,12 @@
     "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H4",
+      "NEWS",
+      "NEW YORK",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -657,6 +891,12 @@
     "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "RETEST NEW YORK",
+      "CYCLE INTERNAL",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -669,6 +909,11 @@
     "Month": "2023, 10-OCT",
     "Day": "Tuesday",
     "Status": "BE",
+    "Confluences": [
+      "LONDON",
+      "CYCLE M15",
+      "CYCLE H4"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -681,7 +926,30 @@
     "Month": "2023, 10-OCT",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H4",
+      "CYCLE H1",
+      "LONDON",
+      "2 STRUCTURES BREAK"
+    ],
     "Theory P&L Reward": 4.3
+  },
+  {
+    "ID": "4eefddd7-18f3-408d-8cae-fb7f727ae22f",
+    "Trade": "EUR-2310230908",
+    "Type": "DEMO",
+    "Date": "2023-10-23T03:08:00.000+02:00",
+    "Date PN": "2023-10-23",
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
+    "Day": "Monday",
+    "Status": "WIN",
+    "Confluences": [
+      "CYCLE INTERNAL",
+      "STRUCTURE SHIFT M15",
+      "LONDON"
+    ],
+    "Theory P&L Reward": 8.142857142857
   },
   {
     "ID": "0e8afb79-b6cb-4708-9a24-b075123155e3",
@@ -693,6 +961,12 @@
     "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE INTERNAL",
+      "RETEST NEW YORK",
+      "CYCLE M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 4.857142857143
   },
   {
@@ -705,31 +979,12 @@
     "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEWS",
+      "RETEST NEW YORK",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
-  },
-  {
-    "ID": "4eefddd7-18f3-408d-8cae-fb7f727ae22f",
-    "Trade": "EUR-2310230908",
-    "Type": "DEMO",
-    "Date": "2023-10-23T09:08:00.000+02:00",
-    "Date PN": "2023-10-23",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
-    "Day": "Monday",
-    "Status": "WIN",
-    "Theory P&L Reward": 8.142857142857
-  },
-  {
-    "ID": "b56e3947-c034-47dd-b4a6-e4832fa68387",
-    "Trade": "EUR-2311020915",
-    "Type": "TEST",
-    "Date": "2023-11-02T04:15:00.000+01:00",
-    "Date PN": "2023-11-02",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
-    "Day": "Thursday",
-    "Status": "WIN",
-    "Theory P&L Reward": 7.5
   },
   {
     "ID": "60a7e76d-65cb-4a0b-8cc4-4a59d9c4da5e",
@@ -741,6 +996,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15",
+      "CYCLE INTERNAL",
+      "LONDON"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -753,6 +1013,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 3.7
   },
   {
@@ -765,6 +1029,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Monday",
     "Status": "BE",
+    "Confluences": [
+      "FIXING",
+      "CYCLE H1",
+      "CYCLE INTERNAL"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -777,6 +1046,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "BE",
+    "Confluences": [
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -789,6 +1062,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -801,6 +1078,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE M15",
+      "NEW YORK",
+      "NEWS"
+    ],
     "Theory P&L Reward": 5.1
   },
   {
@@ -813,6 +1095,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE H4",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": 3.390476190476
   },
   {
@@ -825,6 +1112,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "LONDON",
+      "LIQUIDITY D1",
+      "CYCLE H4"
+    ],
     "Theory P&L Reward": 0.04
   },
   {
@@ -837,6 +1129,13 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "RETEST LONDON",
+      "CYCLE H1",
+      "STRUCTURE SHIFT M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": 6.36
   },
   {
@@ -849,6 +1148,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE D1",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": 6.526315789474
   },
   {
@@ -861,6 +1164,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": 2.260869565217
   },
   {
@@ -873,6 +1180,12 @@
     "Month": "2023, 11-NOV",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE M15",
+      "RETEST LONDON",
+      "NEW YORK",
+      "CYCLE INTERNAL"
+    ],
     "Theory P&L Reward": 6.967272727273
   },
   {
@@ -885,6 +1198,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "STRUCTURE SHIFT H4"
+    ],
     "Theory P&L Reward": 5.6
   },
   {
@@ -897,6 +1214,11 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H4",
+      "LONDON",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -909,6 +1231,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Monday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H4",
+      "FIXING"
+    ],
     "Theory P&L Reward": 3.375
   },
   {
@@ -921,6 +1247,10 @@
     "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON"
+    ],
     "Theory P&L Reward": 4.9
   },
   {
@@ -933,6 +1263,13 @@
     "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW H4",
+      "CYCLE H1",
+      "CYCLE INTERNAL",
+      "LONDON",
+      "LIQUIDITY D1"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -945,6 +1282,12 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "CYCLE D1",
+      "NEWS",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -957,6 +1300,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE M15",
+      "NEW YORK",
+      "RETEST LONDON"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -969,6 +1317,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK",
+      "RETEST LONDON"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -981,6 +1333,12 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "CYCLE M15",
+      "NEWS",
+      "CYCLE INTERNAL"
+    ],
     "Theory P&L Reward": 6.8525
   },
   {
@@ -993,6 +1351,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "FIXING",
+      "NEWS"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1005,6 +1368,13 @@
     "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "NEW YORK",
+      "NEWS",
+      "STRUCTURE SHIFT H1",
+      "STRUCTURE SHIFT H4",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -1017,6 +1387,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "RETEST FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1029,6 +1403,9 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1041,6 +1418,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "FIXING",
+      "NEWS"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -1053,6 +1434,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
+    "Confluences": [
+      "LONDON",
+      "ORDER FLOW M15"
+    ],
     "Theory P&L Reward": 6.125
   },
   {
@@ -1065,6 +1450,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "NEW YORK",
+      "RETEST FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1077,6 +1467,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
+    "Confluences": [
+      "ORDER FLOW M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 5.01875
   },
   {
@@ -1089,6 +1483,10 @@
     "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "CYCLE H1"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1101,6 +1499,11 @@
     "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1113,6 +1516,11 @@
     "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW D1",
+      "RETEST LONDON",
+      "FIXING"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1125,6 +1533,11 @@
     "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "NEWS",
+      "LIQUIDITY W1",
+      "CYCLE D1"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -1137,6 +1550,10 @@
     "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK",
+      "STRUCTURE SHIFT M15"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -1149,6 +1566,11 @@
     "Month": "2023, 01-JAN",
     "Day": "Wednesday",
     "Status": "LOSS",
+    "Confluences": [
+      "ORDER FLOW M15",
+      "CYCLE M15",
+      "NEW YORK"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1161,6 +1583,13 @@
     "Month": "2024, 01-JAN",
     "Day": "Wednesday",
     "Status": "WIN",
+    "Confluences": [
+      "ORDER FLOW H4",
+      "ORDER FLOW H1",
+      "ORDER FLOW M15",
+      "RETEST LONDON",
+      "FIXING"
+    ],
     "Theory P&L Reward": 6.03
   },
   {
@@ -1173,6 +1602,10 @@
     "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON",
+      "CYCLE M15"
+    ],
     "Theory P&L Reward": -1.0
   },
   {
@@ -1185,6 +1618,11 @@
     "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "BE",
+    "Confluences": [
+      "CYCLE H4",
+      "ORDER FLOW M15",
+      "LONDON"
+    ],
     "Theory P&L Reward": 0.0
   },
   {
@@ -1197,6 +1635,26 @@
     "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
+    "Confluences": [
+      "LONDON"
+    ],
     "Theory P&L Reward": -1.0
+  },
+  {
+    "ID": "5f58ad3f-a106-45bf-bc1c-22cfaf1d9aac",
+    "Trade": "EUR-2401150820",
+    "Type": "TEST",
+    "Date": "2024-01-15T08:20:00.000+01:00",
+    "Date PN": "2024-01-15",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Day": "Monday",
+    "Status": "BE",
+    "Confluences": [
+      "RETEST LONDON",
+      "NEW YORK",
+      "STRUCTURE SHIFT M15"
+    ],
+    "Theory P&L Reward": 0.0
   }
 ]
