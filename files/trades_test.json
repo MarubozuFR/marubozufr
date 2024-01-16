@@ -743,23 +743,6 @@
     "Theory P&L Reward": 4.857142857143
   },
   {
-    "ID": "60a7e76d-65cb-4a0b-8cc4-4a59d9c4da5e",
-    "Trade": "EUR-2311030330",
-    "Type": "TEST",
-    "Date": "2023-11-03T03:30:00.000+01:00",
-    "Date PN": "2023-11-03",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
-    "Day": "Friday",
-    "Status": "LOSS",
-    "Confluences": [
-      "CYCLE M15",
-      "CYCLE INTERNAL",
-      "LONDON"
-    ],
-    "Theory P&L Reward": -1.0
-  },
-  {
     "ID": "393aafd7-3e7a-47d1-88bd-22c391a8c3d6",
     "Trade": "EUR-2311091015",
     "Type": "TEST",
