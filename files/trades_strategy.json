@@ -1651,12 +1651,12 @@
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Day": "Wednesday",
-    "Status": "BE",
+    "Status": "LOSS",
     "Confluences": [
       "CYCLE M15",
       "RETEST NEW YORK",
       "FIXING"
     ],
-    "Theory P&L Reward": 0.0
+    "Theory P&L Reward": -1.0
   }
 ]
