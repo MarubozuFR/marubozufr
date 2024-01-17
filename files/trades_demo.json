@@ -849,5 +849,24 @@
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.1625,
     "Trade P&L $": -533.82
+  },
+  {
+    "ID": "139ffdb4-482b-4fec-8329-0e16ac7e587f",
+    "Trade": "EUR-2401171039",
+    "Type": "DEMO",
+    "Date": "2024-01-17T10:39:00.000+01:00",
+    "Date PN": "2024-01-17",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Day": "Wednesday",
+    "Status": "BE",
+    "Confluences": [
+      "CYCLE M15",
+      "RETEST NEW YORK",
+      "FIXING"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Trade P&L Reward": 0.0,
+    "Trade P&L $": 0.0
   }
 ]

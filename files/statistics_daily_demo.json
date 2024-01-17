@@ -23,14 +23,14 @@
   },
   {
     "Day": "Wednesday",
-    "Trades": 6,
+    "Trades": 7,
     "P&L": 0.59,
     "Win": 2,
     "Loss": 4,
-    "Breakeven": 0,
-    "WinRate": 33,
-    "LossRate": 67,
-    "BreakevenRate": 0
+    "Breakeven": 1,
+    "WinRate": 29,
+    "LossRate": 57,
+    "BreakevenRate": 14
   },
   {
     "Day": "Thursday",
