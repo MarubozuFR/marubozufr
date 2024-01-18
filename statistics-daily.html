@@ -25,9 +25,6 @@
       if(statsData.length === 0 || (tradeType != "demo" && tradeType != "live" && tradeType != "test" && tradeType != "strategy")) {
         handleEmptyData();
       } else {
-        function getCapitalizedText(text) {
-          return text[0].toUpperCase() + text.substring(1)
-        }
         const bubbleColors = ["#43888f", "#faeec8", "#fa9ea9", "#7dc4ca", "#fac8bf"];
         const maxSize = 30;
         let maxValue = Math.max(...statsData.map(item => item["Trades"]));

@@ -25,8 +25,14 @@
       if(statsData.length === 0 || (tradeType != "demo" && tradeType != "live" && tradeType != "test" && tradeType != "strategy")) {
         handleEmptyData();
       } else {
-        function getCapitalizedText(text) {
-          return text[0].toUpperCase() + text.substring(1)
+        function capitalizeEachWord(text) {
+          let words = text.split(' ');
+          let capitalizedWords = words.map(word => {
+            return word.toLowerCase().charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+          });
+          let result = capitalizedWords.join(' ');
+
+          return result;
         }
         const bubbleColors = ["#faeec8", "#fa9ea9", "#7dc4ca"];
         const maxSize = 30;
@@ -36,7 +42,7 @@
           type: "bubble",
           data: {
             datasets: statsData.map((item, index) => ({
-              label: item["Session"],
+              label: capitalizeEachWord(item["Session"]),
               data: [{
                 x: item["WinRate"],
                 y: item["P&L"],
