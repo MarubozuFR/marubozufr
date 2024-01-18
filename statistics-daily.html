@@ -29,6 +29,9 @@
           return text[0].toUpperCase() + text.substring(1)
         }
         const bubbleColors = ["#43888f", "#faeec8", "#fa9ea9", "#7dc4ca", "#fac8bf"];
+        const maxSize = 30;
+        let maxValue = Math.max(...statsData.map(item => item["Trades"]));
+
         const chartConfig = {
           type: "bubble",
           data: {
@@ -37,7 +40,8 @@
               data: [{
                 x: item["WinRate"],
                 y: item["P&L"],
-                r: item["Trades"]
+                r: item["Trades"] * maxSize / maxValue,
+                z: item["Trades"]
               }],
               backgroundColor: bubbleColors[index]
             }))
@@ -65,7 +69,7 @@
                 callbacks: {
                   label: function(context) {
                     return [
-                      ' ' + context.dataset.label + ' ('+context.parsed._custom + ' trades)',
+                      ' ' + context.dataset.label + ' ('+ context.dataset.data[0].z + ' trades)',
                       ' Winrate: ' + context.parsed.x + '%',
                       ' P&L: ' + context.parsed.y + 'R'
                     ];
