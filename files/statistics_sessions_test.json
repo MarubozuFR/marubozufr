@@ -1,35 +1,35 @@
 [
   {
     "Session": "LONDON",
-    "Trades": 11,
+    "Trades": 10,
     "P&L": 22.45,
     "Win": 5,
     "Loss": 3,
-    "Breakeven": 3,
-    "WinRate": 45,
-    "LossRate": 27,
-    "BreakevenRate": 28
-  },
-  {
-    "Session": "NEW YORK",
-    "Trades": 25,
-    "P&L": 72.57,
-    "Win": 14,
-    "Loss": 6,
-    "Breakeven": 5,
-    "WinRate": 56,
-    "LossRate": 24,
+    "Breakeven": 2,
+    "WinRate": 50,
+    "LossRate": 30,
     "BreakevenRate": 20
   },
   {
+    "Session": "NEW YORK",
+    "Trades": 24,
+    "P&L": 72.57,
+    "Win": 14,
+    "Loss": 6,
+    "Breakeven": 4,
+    "WinRate": 58,
+    "LossRate": 25,
+    "BreakevenRate": 17
+  },
+  {
     "Session": "FIXING",
-    "Trades": 34,
+    "Trades": 33,
     "P&L": 107.33,
     "Win": 20,
     "Loss": 8,
-    "Breakeven": 6,
-    "WinRate": 59,
+    "Breakeven": 5,
+    "WinRate": 61,
     "LossRate": 24,
-    "BreakevenRate": 17
+    "BreakevenRate": 15
   }
 ]

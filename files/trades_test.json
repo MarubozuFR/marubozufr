@@ -865,22 +865,5 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0
-  },
-  {
-    "ID": "f01851a4-eab2-441d-b751-9d4331ff1bf3",
-    "Trade": "EUR-2401190315",
-    "Type": "TEST",
-    "Date": "2024-01-19T03:15:00.000+01:00",
-    "Date PN": "2024-01-19",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
-    "Day": "Friday",
-    "Status": "BE",
-    "Confluences": [
-      "ORDER FLOW H1",
-      "CYCLE M15",
-      "LONDON"
-    ],
-    "Theory P&L Reward": 0.0
   }
 ]
