@@ -406,13 +406,6 @@
     "Winning Streak": 4
   },
   {
-    "Date": "2023-11-06T10:30:00.000+01:00",
-    "Strategy": 225.609122492878,
-    "Streak": 0,
-    "Losing Streak": 2,
-    "Winning Streak": 4
-  },
-  {
     "Date": "2023-11-07T03:00:00.000+01:00",
     "Strategy": 225.609122492878,
     "Streak": 0,
@@ -697,6 +690,13 @@
     "Strategy": 275.155306765318,
     "Streak": -4,
     "Losing Streak": 4,
+    "Winning Streak": 5
+  },
+  {
+    "Date": "2024-01-19T16:53:00.000+01:00",
+    "Strategy": 274.155306765318,
+    "Streak": -5,
+    "Losing Streak": 5,
     "Winning Streak": 5
   }
 ]
