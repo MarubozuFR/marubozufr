@@ -154,17 +154,5 @@
     "Test P&L": 6.03,
     "Demo P&L": -7.999876582964,
     "Live P&L": 0.0
-  },
-  {
-    "ID": "042a3201-52d1-40ea-b61e-43515d449a89",
-    "Year": 2024,
-    "Month": "2024, 02-FEB",
-    "Month WN": "2024, Feb",
-    "Month N": "February",
-    "Month D": 2,
-    "Strategy P&L": 0.0,
-    "Test P&L": 0.0,
-    "Demo P&L": 0.0,
-    "Live P&L": 0.0
   }
 ]

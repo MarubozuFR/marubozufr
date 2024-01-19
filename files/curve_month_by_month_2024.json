@@ -8,15 +8,5 @@
     "Test Curve": 6.03,
     "Demo Curve": -7.999876582964,
     "Live Curve": 0.0
-  },
-  {
-    "Month": "2024, 02-FEB",
-    "Month WN": "2024, Feb",
-    "Month N": "February",
-    "Month D": 2,
-    "Strategy Curve": -0.9699999999999998,
-    "Test Curve": 6.03,
-    "Demo Curve": -7.999876582964,
-    "Live Curve": 0.0
   }
 ]
