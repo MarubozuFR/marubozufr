@@ -883,7 +883,7 @@
       "NEWS",
       "FIXING",
       "CYCLE M15",
-      "CYCLE INTERNAL"
+      "ORDER FLOW H1"
     ],
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.07,
