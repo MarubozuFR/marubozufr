@@ -1,0 +1,46 @@
+[
+  {
+    "Range": "1-7",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Range": "8-14",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Range": "15-21",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  },
+  {
+    "Range": "22-31",
+    "Trades": 0,
+    "P&L": 0.0,
+    "Win": 0,
+    "Loss": 0,
+    "Breakeven": 0,
+    "WinRate": 0,
+    "LossRate": 0,
+    "BreakevenRate": 0
+  }
+]

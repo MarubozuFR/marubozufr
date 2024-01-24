@@ -1,0 +1,46 @@
+[
+  {
+    "Range": "1-7",
+    "Trades": 20,
+    "P&L": 50.24,
+    "Win": 10,
+    "Loss": 8,
+    "Breakeven": 2,
+    "WinRate": 50,
+    "LossRate": 40,
+    "BreakevenRate": 10
+  },
+  {
+    "Range": "8-14",
+    "Trades": 43,
+    "P&L": 106.93,
+    "Win": 21,
+    "Loss": 16,
+    "Breakeven": 6,
+    "WinRate": 49,
+    "LossRate": 37,
+    "BreakevenRate": 14
+  },
+  {
+    "Range": "15-21",
+    "Trades": 73,
+    "P&L": 183.97,
+    "Win": 34,
+    "Loss": 30,
+    "Breakeven": 9,
+    "WinRate": 47,
+    "LossRate": 41,
+    "BreakevenRate": 12
+  },
+  {
+    "Range": "22-31",
+    "Trades": 100,
+    "P&L": 274.16,
+    "Win": 50,
+    "Loss": 39,
+    "Breakeven": 11,
+    "WinRate": 50,
+    "LossRate": 39,
+    "BreakevenRate": 11
+  }
+]
