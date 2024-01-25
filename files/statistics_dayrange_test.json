@@ -23,24 +23,24 @@
   },
   {
     "Range": "15th-21st",
-    "Trades": 34,
-    "P&L": 177.52,
-    "Win": 24,
+    "Trades": 33,
+    "P&L": 173.64,
+    "Win": 23,
     "Loss": 4,
     "Breakeven": 6,
-    "WinRate": 71,
+    "WinRate": 70,
     "LossRate": 12,
-    "BreakevenRate": 17
+    "BreakevenRate": 18
   },
   {
     "Range": "22nd-31st",
-    "Trades": 52,
-    "P&L": 249.28,
-    "Win": 36,
+    "Trades": 51,
+    "P&L": 245.41,
+    "Win": 35,
     "Loss": 9,
     "Breakeven": 7,
     "WinRate": 69,
-    "LossRate": 17,
-    "BreakevenRate": 14
+    "LossRate": 18,
+    "BreakevenRate": 13
   }
 ]

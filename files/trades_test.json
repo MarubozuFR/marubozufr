@@ -66,22 +66,6 @@
     "Theory P&L Reward": 6.76
   },
   {
-    "ID": "bd6d04b3-b809-49fd-a0f0-8ef0e425007a",
-    "Trade": "EUR-2301180815",
-    "Type": "TEST",
-    "Date": "2023-01-18T08:15:00.000+01:00",
-    "Date PN": "2023-01-18",
-    "Year": "2023",
-    "Month": "2023, 01-JAN",
-    "Day": "Wednesday",
-    "Status": "WIN",
-    "Confluences": [
-      "NEW YORK",
-      "CYCLE M15"
-    ],
-    "Theory P&L Reward": 3.875
-  },
-  {
     "ID": "d4e1dd02-ff2d-4cf4-92bd-a9501e07e367",
     "Trade": "EUR-2301230545",
     "Type": "TEST",

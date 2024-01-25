@@ -888,5 +888,25 @@
     "Theory P&L Reward": -1.0,
     "Trade P&L Reward": -1.07,
     "Trade P&L $": -499.69
+  },
+  {
+    "ID": "97f708c4-d179-40f4-900f-62b98d5a2a7a",
+    "Trade": "EUR-2401250948",
+    "Type": "DEMO",
+    "Date": "2024-01-25T09:48:00.000+01:00",
+    "Date PN": "2024-01-25",
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Day": "Thursday",
+    "Status": "BE",
+    "Confluences": [
+      "STRUCTURE SHIFT H4",
+      "CYCLE H1",
+      "CYCLE M15",
+      "LONDON"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Trade P&L Reward": 0.0,
+    "Trade P&L $": 0.0
   }
 ]

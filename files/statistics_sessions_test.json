@@ -12,24 +12,24 @@
   },
   {
     "Session": "NEW YORK",
-    "Trades": 24,
-    "P&L": 72.57,
-    "Win": 14,
+    "Trades": 23,
+    "P&L": 68.7,
+    "Win": 13,
     "Loss": 6,
     "Breakeven": 4,
-    "WinRate": 58,
-    "LossRate": 25,
+    "WinRate": 57,
+    "LossRate": 26,
     "BreakevenRate": 17
   },
   {
     "Session": "FIXING",
-    "Trades": 33,
-    "P&L": 107.33,
-    "Win": 20,
+    "Trades": 32,
+    "P&L": 103.45,
+    "Win": 19,
     "Loss": 8,
     "Breakeven": 5,
-    "WinRate": 61,
-    "LossRate": 24,
-    "BreakevenRate": 15
+    "WinRate": 59,
+    "LossRate": 25,
+    "BreakevenRate": 16
   }
 ]
