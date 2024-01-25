@@ -898,15 +898,15 @@
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Day": "Thursday",
-    "Status": "BE",
+    "Status": "LOSS",
     "Confluences": [
       "STRUCTURE SHIFT H4",
       "CYCLE H1",
       "CYCLE M15",
       "LONDON"
     ],
-    "Theory P&L Reward": 0.0,
-    "Trade P&L Reward": 0.0,
-    "Trade P&L $": 0.0
+    "Theory P&L Reward": -1.0,
+    "Trade P&L Reward": -1.447154471545,
+    "Trade P&L $": -683.52
   }
 ]

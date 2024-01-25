@@ -694,9 +694,9 @@
   },
   {
     "Date": "2024-01-25T09:48:00.000+01:00",
-    "Strategy": 270.28030676531796,
-    "Streak": 0,
-    "Losing Streak": 5,
+    "Strategy": 269.28030676531796,
+    "Streak": -6,
+    "Losing Streak": 6,
     "Winning Streak": 5
   }
 ]
