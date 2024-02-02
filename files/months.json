@@ -150,9 +150,21 @@
     "Month WN": "2024, Jan",
     "Month N": "January",
     "Month D": 1,
-    "Strategy P&L": -2.9699999999999998,
-    "Test P&L": 6.03,
-    "Demo P&L": -10.517031054509,
+    "Strategy P&L": 2.8728571428570007,
+    "Test P&L": 13.872857142857,
+    "Demo P&L": -13.164054864033,
+    "Live P&L": 0.0
+  },
+  {
+    "ID": "6b508d20-07e1-4188-9729-e9403d78c071",
+    "Year": 2024,
+    "Month": "2024, 02-FEB",
+    "Month WN": "2024, Feb",
+    "Month N": "February",
+    "Month D": 2,
+    "Strategy P&L": -0.811881188119,
+    "Test P&L": 0.0,
+    "Demo P&L": -1.0430904057150001,
     "Live P&L": 0.0
   }
 ]

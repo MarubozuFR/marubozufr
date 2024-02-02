@@ -155,32 +155,32 @@
     "Day": "2024-01-26",
     "Day D": "26",
     "Demo Curve": -11.750364387842,
-    "Test Curve": 6.03,
+    "Test Curve": 13.872857142857,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.9699999999999998
+    "Strategy Curve": 3.8728571428570007
   },
   {
     "Day": "2024-01-29",
     "Day D": "29",
     "Demo Curve": -11.750364387842,
-    "Test Curve": 6.03,
+    "Test Curve": 13.872857142857,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.9699999999999998
+    "Strategy Curve": 3.8728571428570007
   },
   {
     "Day": "2024-01-30",
     "Day D": "30",
-    "Demo Curve": -11.750364387842,
-    "Test Curve": 6.03,
+    "Demo Curve": -14.397388197365999,
+    "Test Curve": 13.872857142857,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.9699999999999998
+    "Strategy Curve": 1.8728571428570007
   },
   {
     "Day": "2024-01-31",
     "Day D": "31",
-    "Demo Curve": -11.750364387842,
-    "Test Curve": 6.03,
+    "Demo Curve": -14.397388197365999,
+    "Test Curve": 13.872857142857,
     "Live Curve": 0.0,
-    "Strategy Curve": -3.9699999999999998
+    "Strategy Curve": 1.8728571428570007
   }
 ]

@@ -1,43 +1,43 @@
 [
   {
     "Day": "Monday",
-    "Trades": 20,
-    "P&L": 49.99,
-    "Win": 8,
+    "Trades": 22,
+    "P&L": 53.31,
+    "Win": 9,
     "Loss": 10,
-    "Breakeven": 2,
-    "WinRate": 40,
-    "LossRate": 50,
-    "BreakevenRate": 10
+    "Breakeven": 3,
+    "WinRate": 41,
+    "LossRate": 45,
+    "BreakevenRate": 14
   },
   {
     "Day": "Tuesday",
-    "Trades": 16,
-    "P&L": 21.82,
+    "Trades": 18,
+    "P&L": 19.82,
     "Win": 6,
-    "Loss": 7,
+    "Loss": 9,
     "Breakeven": 3,
-    "WinRate": 38,
-    "LossRate": 44,
-    "BreakevenRate": 18
+    "WinRate": 33,
+    "LossRate": 50,
+    "BreakevenRate": 17
   },
   {
     "Day": "Wednesday",
-    "Trades": 19,
-    "P&L": 69.25,
-    "Win": 12,
+    "Trades": 20,
+    "P&L": 73.13,
+    "Win": 13,
     "Loss": 7,
     "Breakeven": 0,
-    "WinRate": 63,
-    "LossRate": 37,
+    "WinRate": 65,
+    "LossRate": 35,
     "BreakevenRate": 0
   },
   {
     "Day": "Thursday",
-    "Trades": 22,
-    "P&L": 74.36,
-    "Win": 14,
-    "Loss": 7,
+    "Trades": 25,
+    "P&L": 82.05,
+    "Win": 16,
+    "Loss": 8,
     "Breakeven": 1,
     "WinRate": 64,
     "LossRate": 32,
@@ -45,13 +45,13 @@
   },
   {
     "Day": "Friday",
-    "Trades": 23,
-    "P&L": 53.85,
-    "Win": 9,
-    "Loss": 9,
+    "Trades": 28,
+    "P&L": 65.96,
+    "Win": 12,
+    "Loss": 11,
     "Breakeven": 5,
-    "WinRate": 39,
+    "WinRate": 43,
     "LossRate": 39,
-    "BreakevenRate": 22
+    "BreakevenRate": 18
   }
 ]

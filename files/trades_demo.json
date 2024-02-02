@@ -3,19 +3,18 @@
     "ID": "4bf24483-cbea-4e0e-ac62-71d86a2226f7",
     "Trade": "EUR-2309111120",
     "Type": "DEMO",
-    "Date": "2023-09-11T11:20:00.000+02:00",
+    "Date": "2023-09-11T17:20:00.000+02:00",
     "Date PN": "2023-09-11",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
       "LIQUIDITY D1",
-      "FIXING",
       "CYCLE H4",
       "CYCLE H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0354,
     "Trade P&L $": -103.54
   },
@@ -23,16 +22,16 @@
     "ID": "0aa64d13-759b-4cf6-ae12-22c81f5f65a9",
     "Trade": "EUR-2309120845",
     "Type": "DEMO",
-    "Date": "2023-09-12T08:45:00.000+02:00",
+    "Date": "2023-09-12T14:45:00.000+02:00",
     "Date PN": "2023-09-12",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Tuesday",
     "Status": "LOSS",
     "Confluences": [
       "CYCLE M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0,
     "Trade P&L $": -68.75
   },
@@ -40,16 +39,16 @@
     "ID": "a71a26ac-f69c-4bc6-a2fa-5f3d02e958ad",
     "Trade": "EUR-2309150845",
     "Type": "DEMO",
-    "Date": "2023-09-15T08:45:00.000+02:00",
+    "Date": "2023-09-15T14:45:00.000+02:00",
     "Date PN": "2023-09-15",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
     "Confluences": [
       "FIXING"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": 0.125,
     "Trade P&L $": 12.5
   },
@@ -57,16 +56,16 @@
     "ID": "a6dc78d6-9d75-4bd7-81ce-92159e17a570",
     "Trade": "EUR-2309180815",
     "Type": "DEMO",
-    "Date": "2023-09-18T08:15:00.000+02:00",
+    "Date": "2023-09-18T14:15:00.000+02:00",
     "Date PN": "2023-09-18",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0,
     "Trade P&L $": -50.0
   },
@@ -74,10 +73,8 @@
     "ID": "ddf742b8-5a8e-4130-97ce-aa801e2d1a5e",
     "Trade": "EUR-2309180845",
     "Type": "DEMO",
-    "Date": "2023-09-18T08:45:00.000+02:00",
+    "Date": "2023-09-18T14:45:00.000+02:00",
     "Date PN": "2023-09-18",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
@@ -85,6 +82,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.071428571429,
     "Trade P&L $": -93.75
   },
@@ -92,10 +91,8 @@
     "ID": "c3a13594-fe30-4c15-b9a0-21d02f606baa",
     "Trade": "EUR-2309201200",
     "Type": "DEMO",
-    "Date": "2023-09-20T12:00:00.000+02:00",
+    "Date": "2023-09-20T18:00:00.000+02:00",
     "Date PN": "2023-09-20",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Wednesday",
     "Status": "WIN",
     "Confluences": [
@@ -103,6 +100,8 @@
       "RETEST NEW YORK"
     ],
     "Theory P&L Reward": 5.051612903226,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": 5.029032258065,
     "Trade P&L $": 62.36
   },
@@ -110,10 +109,8 @@
     "ID": "eacb4420-5413-47d5-a09e-a10fabbfdc2e",
     "Trade": "EUR-2309210815",
     "Type": "DEMO",
-    "Date": "2023-09-21T08:15:00.000+02:00",
+    "Date": "2023-09-21T14:15:00.000+02:00",
     "Date PN": "2023-09-21",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -121,6 +118,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.071428571429,
     "Trade P&L $": -93.75
   },
@@ -130,8 +129,6 @@
     "Type": "DEMO",
     "Date": "2023-09-28T09:32:00.000+02:00",
     "Date PN": "2023-09-28",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Thursday",
     "Status": "WIN",
     "Confluences": [
@@ -139,6 +136,8 @@
       "RETEST NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": 0.090909090909,
     "Trade P&L $": 12.5
   },
@@ -146,10 +145,8 @@
     "ID": "5752727f-8917-4e99-bd42-dc1638d5732d",
     "Trade": "EUR-2309290400",
     "Type": "DEMO",
-    "Date": "2023-09-29T04:00:00.000+02:00",
+    "Date": "2023-09-29T10:00:00.000+02:00",
     "Date PN": "2023-09-29",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -157,35 +154,17 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
-    "Trade P&L Reward": -1.0354,
-    "Trade P&L $": -103.54
-  },
-  {
-    "ID": "41b216e4-49bd-4d49-86a9-90893d4e53ee",
-    "Trade": "EUR-2309290800",
-    "Type": "DEMO",
-    "Date": "2023-09-29T08:00:00.000+02:00",
-    "Date PN": "2023-09-29",
     "Year": "2023",
     "Month": "2023, 09-SEP",
-    "Day": "Friday",
-    "Status": "LOSS",
-    "Confluences": [
-      "CYCLE H1",
-      "FIXING"
-    ],
-    "Theory P&L Reward": -1.0,
-    "Trade P&L Reward": -1.040457142857,
-    "Trade P&L $": -91.04
+    "Trade P&L Reward": -1.0354,
+    "Trade P&L $": -103.54
   },
   {
     "ID": "0fd7aef5-cb23-4b82-a902-0427b9e6cea1",
     "Trade": "EUR-2309290830",
     "Type": "DEMO",
-    "Date": "2023-09-29T08:30:00.000+02:00",
+    "Date": "2023-09-29T14:30:00.000+02:00",
     "Date PN": "2023-09-29",
-    "Year": "2023",
-    "Month": "2023, 09-SEP",
     "Day": "Friday",
     "Status": "WIN",
     "Confluences": [
@@ -194,17 +173,35 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": 7.005208333333,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
     "Trade P&L Reward": 3.476761904762,
     "Trade P&L $": 912.65
+  },
+  {
+    "ID": "41b216e4-49bd-4d49-86a9-90893d4e53ee",
+    "Trade": "EUR-2309290800",
+    "Type": "DEMO",
+    "Date": "2023-09-29T16:00:00.000+02:00",
+    "Date PN": "2023-09-29",
+    "Day": "Friday",
+    "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 09-SEP",
+    "Trade P&L Reward": -1.040457142857,
+    "Trade P&L $": -91.04
   },
   {
     "ID": "c31a429e-8cfe-429f-9d80-8a20f68080a3",
     "Trade": "EUR-2310040815",
     "Type": "DEMO",
-    "Date": "2023-10-04T08:15:00.000+02:00",
+    "Date": "2023-10-04T14:15:00.000+02:00",
     "Date PN": "2023-10-04",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "LOSS",
     "Confluences": [
@@ -212,6 +209,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
     "Trade P&L Reward": -1.0354,
     "Trade P&L $": -103.54
   },
@@ -219,10 +218,8 @@
     "ID": "2e38323f-688c-44c7-9214-c7a3bcddbd16",
     "Trade": "EUR-2310110845",
     "Type": "DEMO",
-    "Date": "2023-10-11T08:45:00.000+02:00",
+    "Date": "2023-10-11T14:45:00.000+02:00",
     "Date PN": "2023-10-11",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
     "Day": "Wednesday",
     "Status": "WIN",
     "Confluences": [
@@ -232,6 +229,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
     "Trade P&L Reward": 0.125,
     "Trade P&L $": 12.5
   },
@@ -239,10 +238,8 @@
     "ID": "4eefddd7-18f3-408d-8cae-fb7f727ae22f",
     "Trade": "EUR-2310230908",
     "Type": "DEMO",
-    "Date": "2023-10-23T03:08:00.000+02:00",
+    "Date": "2023-10-23T09:08:00.000+02:00",
     "Date PN": "2023-10-23",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "WIN",
     "Confluences": [
@@ -251,6 +248,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 8.142857142857,
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
     "Trade P&L Reward": 4.857142857143,
     "Trade P&L $": 850.0
   },
@@ -258,10 +257,8 @@
     "ID": "a38d61e4-f34d-4ba9-b5aa-0eaf7a574b0c",
     "Trade": "EUR-2310230817",
     "Type": "DEMO",
-    "Date": "2023-10-23T08:17:00.000+02:00",
+    "Date": "2023-10-23T14:17:00.000+02:00",
     "Date PN": "2023-10-23",
-    "Year": "2023",
-    "Month": "2023, 10-OCT",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
@@ -270,17 +267,36 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 10-OCT",
     "Trade P&L Reward": -1.02832,
     "Trade P&L $": -257.08
+  },
+  {
+    "ID": "0c662b1c-db53-4d95-8614-ea3a922e5ad7",
+    "Trade": "EUR-2311061030",
+    "Type": "DEMO",
+    "Date": "2023-11-06T16:30:00.000+01:00",
+    "Date PN": "2023-11-06",
+    "Day": "Monday",
+    "Status": "BE",
+    "Confluences": [
+      "FIXING",
+      "CYCLE H1",
+      "CYCLE INTERNAL"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
+    "Trade P&L Reward": -0.0472,
+    "Trade P&L $": -24.78
   },
   {
     "ID": "b295486f-2926-48c0-9faa-d88ef03a4460",
     "Trade": "EUR-2311070300",
     "Type": "DEMO",
-    "Date": "2023-11-07T03:00:00.000+01:00",
+    "Date": "2023-11-07T09:00:00.000+01:00",
     "Date PN": "2023-11-07",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "BE",
     "Confluences": [
@@ -288,6 +304,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.030893822222,
     "Trade P&L $": 15.6399975
   },
@@ -295,10 +313,8 @@
     "ID": "73b8dba3-31cf-4326-b982-afd8cd329bd6",
     "Trade": "EUR-2311090000",
     "Type": "DEMO",
-    "Date": "2023-11-09T03:49:00.000+01:00",
+    "Date": "2023-11-09T09:49:00.000+01:00",
     "Date PN": "2023-11-09",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -306,6 +322,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": -1.040457142857,
     "Trade P&L $": -546.24
   },
@@ -313,10 +331,8 @@
     "ID": "1e884442-834c-4aeb-9c57-92339b4b663c",
     "Trade": "EUR-2311090834",
     "Type": "DEMO",
-    "Date": "2023-11-09T08:34:00.000+01:00",
+    "Date": "2023-11-09T14:34:00.000+01:00",
     "Date PN": "2023-11-09",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "WIN",
     "Confluences": [
@@ -325,6 +341,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 5.1,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 4.8576,
     "Trade P&L $": 2337.72
   },
@@ -332,10 +350,8 @@
     "ID": "24dd82ec-edf3-452a-bf9c-6337369780fa",
     "Trade": "EUR-2311100354",
     "Type": "DEMO",
-    "Date": "2023-11-10T03:54:00.000+01:00",
+    "Date": "2023-11-10T09:54:00.000+01:00",
     "Date PN": "2023-11-10",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "BE",
     "Confluences": [
@@ -344,6 +360,8 @@
       "CYCLE H4"
     ],
     "Theory P&L Reward": 0.04,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.014951724138,
     "Trade P&L $": 8.13
   },
@@ -351,10 +369,8 @@
     "ID": "7753ad05-6571-4a12-81ba-88b1eb84a8d1",
     "Trade": "EUR-2311171000",
     "Type": "DEMO",
-    "Date": "2023-11-17T10:00:00.000+01:00",
+    "Date": "2023-11-17T16:00:00.000+01:00",
     "Date PN": "2023-11-17",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Friday",
     "Status": "WIN",
     "Confluences": [
@@ -362,6 +378,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 2.260869565217,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 1.008403361345,
     "Trade P&L $": 1042.8
   },
@@ -369,10 +387,8 @@
     "ID": "f8122cd0-ef41-4079-905a-f2a4ce913f02",
     "Trade": "EUR-2311271020",
     "Type": "DEMO",
-    "Date": "2023-11-27T10:20:00.000+01:00",
+    "Date": "2023-11-27T16:20:00.000+01:00",
     "Date PN": "2023-11-27",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Monday",
     "Status": "BE",
     "Confluences": [
@@ -380,6 +396,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 3.375,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.026666666667,
     "Trade P&L $": 5.28
   },
@@ -387,10 +405,8 @@
     "ID": "3d559611-f685-486f-932a-82b269e98594",
     "Trade": "EUR-2311280315",
     "Type": "DEMO",
-    "Date": "2023-11-28T03:15:00.000+01:00",
+    "Date": "2023-11-28T09:15:00.000+01:00",
     "Date PN": "2023-11-28",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Tuesday",
     "Status": "WIN",
     "Confluences": [
@@ -398,6 +414,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 4.9,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": 2.925963636364,
     "Trade P&L $": 6393.669440000001
   },
@@ -405,10 +423,8 @@
     "ID": "2bbe963f-2056-4b9f-847f-4f3b8c28ca00",
     "Trade": "EUR-2311300300",
     "Type": "DEMO",
-    "Date": "2023-11-30T03:00:00.000+01:00",
+    "Date": "2023-11-30T09:00:00.000+01:00",
     "Date PN": "2023-11-30",
-    "Year": "2023",
-    "Month": "2023, 11-NOV",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -419,6 +435,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 11-NOV",
     "Trade P&L Reward": -1.115789473684,
     "Trade P&L $": -2303.38
   },
@@ -426,10 +444,8 @@
     "ID": "47eb66d0-33c9-48a1-9c36-1b3989a8403f",
     "Trade": "EUR-2312010815",
     "Type": "DEMO",
-    "Date": "2023-12-01T08:15:00.000+01:00",
+    "Date": "2023-12-01T14:15:00.000+01:00",
     "Date PN": "2023-12-01",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -439,6 +455,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.166666666667,
     "Trade P&L $": -2153.76
   },
@@ -446,10 +464,8 @@
     "ID": "12348c77-3e39-4df7-b97a-7c76df8b048c",
     "Trade": "EUR-2312040830",
     "Type": "DEMO",
-    "Date": "2023-12-04T08:30:00.000+01:00",
+    "Date": "2023-12-04T14:30:00.000+01:00",
     "Date PN": "2023-12-04",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
@@ -458,6 +474,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.212121212121,
     "Trade P&L $": -1234.4
   },
@@ -465,10 +483,8 @@
     "ID": "a9c432ce-e6d7-47e7-95b8-e3b345e98dde",
     "Trade": "EUR-2312050815",
     "Type": "DEMO",
-    "Date": "2023-12-05T08:15:00.000+01:00",
+    "Date": "2023-12-05T14:15:00.000+01:00",
     "Date PN": "2023-12-05",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
     "Confluences": [
@@ -476,6 +492,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.093333333333,
     "Trade P&L $": -1104.54
   },
@@ -483,10 +501,8 @@
     "ID": "8b7a6818-164e-4086-be40-4b3085d6735f",
     "Trade": "EUR-2312051015",
     "Type": "DEMO",
-    "Date": "2023-12-05T10:15:00.000+01:00",
+    "Date": "2023-12-05T16:15:00.000+01:00",
     "Date PN": "2023-12-05",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
     "Confluences": [
@@ -496,6 +512,8 @@
       "CYCLE INTERNAL"
     ],
     "Theory P&L Reward": 6.8525,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": 5.0368875,
     "Trade P&L $": 4992.56289
   },
@@ -503,10 +521,8 @@
     "ID": "c3287551-d780-4893-bbc3-58d5ae221a54",
     "Trade": "EUR-2312051030",
     "Type": "DEMO",
-    "Date": "2023-12-05T10:30:00.000+01:00",
+    "Date": "2023-12-05T16:30:00.000+01:00",
     "Date PN": "2023-12-05",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
     "Confluences": [
@@ -515,6 +531,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.056910569106,
     "Trade P&L $": -1073.8
   },
@@ -522,10 +540,8 @@
     "ID": "4bf8834e-f8ed-483d-904f-dc12a0935654",
     "Trade": "EUR-2312070945",
     "Type": "DEMO",
-    "Date": "2023-12-07T09:45:00.000+01:00",
+    "Date": "2023-12-07T15:45:00.000+01:00",
     "Date PN": "2023-12-07",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
     "Confluences": [
@@ -536,6 +552,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": 0.089743589744,
     "Trade P&L $": 88.41
   },
@@ -543,10 +561,8 @@
     "ID": "24132f9a-52f3-480b-8608-7e7863008d02",
     "Trade": "EUR-2312080300",
     "Type": "DEMO",
-    "Date": "2023-12-08T03:00:00.000+01:00",
+    "Date": "2023-12-08T09:00:00.000+01:00",
     "Date PN": "2023-12-08",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -554,6 +570,8 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -0.9625,
     "Trade P&L $": -972.51
   },
@@ -561,16 +579,16 @@
     "ID": "a429ff21-f933-4789-a03c-cb445449ac80",
     "Trade": "EUR-2312120830",
     "Type": "DEMO",
-    "Date": "2023-12-12T08:30:00.000+01:00",
+    "Date": "2023-12-12T14:30:00.000+01:00",
     "Date PN": "2023-12-12",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "LOSS",
     "Confluences": [
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -0.6375,
     "Trade P&L $": -641.58
   },
@@ -578,10 +596,8 @@
     "ID": "149d5887-0180-4156-b77b-284165050644",
     "Trade": "EUR-2312121015",
     "Type": "DEMO",
-    "Date": "2023-12-12T10:15:00.000+01:00",
+    "Date": "2023-12-12T16:15:00.000+01:00",
     "Date PN": "2023-12-12",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
     "Confluences": [
@@ -589,6 +605,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": 1.8396,
     "Trade P&L $": 3127.32
   },
@@ -596,10 +614,8 @@
     "ID": "722fa3a2-c0e5-4cc7-b506-1645dcca9a22",
     "Trade": "EUR-2312140300",
     "Type": "DEMO",
-    "Date": "2023-12-14T03:00:00.000+01:00",
+    "Date": "2023-12-14T09:00:00.000+01:00",
     "Date PN": "2023-12-14",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Thursday",
     "Status": "WIN",
     "Confluences": [
@@ -607,6 +623,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": 6.125,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": 4.985244416027,
     "Trade P&L $": 4678.15336
   },
@@ -614,10 +632,8 @@
     "ID": "d690f723-6b48-4131-be4b-1dc64b57cb57",
     "Trade": "EUR-2312150900",
     "Type": "DEMO",
-    "Date": "2023-12-15T09:00:00.000+01:00",
+    "Date": "2023-12-15T15:00:00.000+01:00",
     "Date PN": "2023-12-15",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -626,6 +642,8 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.08,
     "Trade P&L $": -1148.04
   },
@@ -633,10 +651,8 @@
     "ID": "70e57c26-c79d-4d58-ab06-078dd8e7c3e5",
     "Trade": "EUR-2312190315",
     "Type": "DEMO",
-    "Date": "2023-12-19T03:15:00.000+01:00",
+    "Date": "2023-12-19T09:15:00.000+01:00",
     "Date PN": "2023-12-19",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Tuesday",
     "Status": "WIN",
     "Confluences": [
@@ -644,6 +660,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 5.01875,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": 0.075,
     "Trade P&L $": 76.08
   },
@@ -651,10 +669,8 @@
     "ID": "dc29b3d8-034b-4e43-afbd-707b3b3a5fca",
     "Trade": "EUR-2312200337",
     "Type": "DEMO",
-    "Date": "2023-12-20T03:37:00.000+01:00",
+    "Date": "2023-12-20T09:37:00.000+01:00",
     "Date PN": "2023-12-20",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
     "Confluences": [
@@ -662,6 +678,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.2,
     "Trade P&L $": -1218.0
   },
@@ -669,10 +687,8 @@
     "ID": "7eb56caf-056a-4e92-a8c7-87b493142f89",
     "Trade": "EUR-2312200400",
     "Type": "DEMO",
-    "Date": "2023-12-20T04:00:00.000+01:00",
+    "Date": "2023-12-20T10:00:00.000+01:00",
     "Date PN": "2023-12-20",
-    "Year": "2023",
-    "Month": "2023, 12-DEC",
     "Day": "Wednesday",
     "Status": "LOSS",
     "Confluences": [
@@ -681,6 +697,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2023",
+    "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.1,
     "Trade P&L $": -1168.2
   },
@@ -688,10 +706,8 @@
     "ID": "c55abac6-57be-48ae-b6f0-3b27d2168b27",
     "Trade": "EUR-2401041015",
     "Type": "DEMO",
-    "Date": "2024-01-04T10:15:00.000+01:00",
+    "Date": "2024-01-04T16:15:00.000+01:00",
     "Date PN": "2024-01-04",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -700,6 +716,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.108942682805,
     "Trade P&L $": -1108.61
   },
@@ -707,10 +725,8 @@
     "ID": "5fa6d5a9-b64f-4b3c-a018-b96a2d8d3c01",
     "Trade": "EUR-2401080830",
     "Type": "DEMO",
-    "Date": "2024-01-08T08:30:00.000+01:00",
+    "Date": "2024-01-08T14:30:00.000+01:00",
     "Date PN": "2024-01-08",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
@@ -718,6 +734,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -0.174850431198,
     "Trade P&L $": -174.77
   },
@@ -725,10 +743,8 @@
     "ID": "fc8de7b9-7a91-4171-827d-246bf4f2ca61",
     "Trade": "EUR-2401100813",
     "Type": "DEMO",
-    "Date": "2024-01-10T08:13:00.000+01:00",
+    "Date": "2024-01-10T14:13:00.000+01:00",
     "Date PN": "2024-01-10",
-    "Year": "2024",
-    "Month": "2023, 01-JAN",
     "Day": "Wednesday",
     "Status": "LOSS",
     "Confluences": [
@@ -737,6 +753,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2023, 01-JAN",
     "Trade P&L Reward": -1.233333333333,
     "Trade P&L $": -1104.08
   },
@@ -744,10 +762,8 @@
     "ID": "066fbb57-4e34-44fa-b594-f5a233cd0195",
     "Trade": "EUR-2401110330",
     "Type": "DEMO",
-    "Date": "2024-01-11T03:30:00.000+01:00",
+    "Date": "2024-01-11T09:30:00.000+01:00",
     "Date PN": "2024-01-11",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -755,6 +771,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.102941176471,
     "Trade P&L $": -499.5
   },
@@ -762,10 +780,8 @@
     "ID": "094f5ecf-895a-4e51-b3ae-21ddc6886876",
     "Trade": "EUR-2401120343",
     "Type": "DEMO",
-    "Date": "2024-01-12T03:43:00.000+01:00",
+    "Date": "2024-01-12T09:43:00.000+01:00",
     "Date PN": "2024-01-12",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "BE",
     "Confluences": [
@@ -774,6 +790,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 0.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -0.0125,
     "Trade P&L $": -5.74
   },
@@ -781,16 +799,16 @@
     "ID": "fb92b0fe-7e7b-4dd4-8494-0cd1d28eda69",
     "Trade": "EUR-2401150316",
     "Type": "DEMO",
-    "Date": "2024-01-15T03:16:00.000+01:00",
+    "Date": "2024-01-15T09:16:00.000+01:00",
     "Date PN": "2024-01-15",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.1,
     "Trade P&L $": -499.73
   },
@@ -798,10 +816,8 @@
     "ID": "b38bf36a-c06e-4a34-8bea-e41c84517d9c",
     "Trade": "EUR-2401151020",
     "Type": "DEMO",
-    "Date": "2024-01-15T10:20:00.000+01:00",
+    "Date": "2024-01-15T16:20:00.000+01:00",
     "Date PN": "2024-01-15",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Monday",
     "Status": "LOSS",
     "Confluences": [
@@ -809,6 +825,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.127272727273,
     "Trade P&L $": -499.72
   },
@@ -816,10 +834,8 @@
     "ID": "1effbc9a-a2d5-4254-bb10-0cba8c58e6b4",
     "Trade": "EUR-2401161100",
     "Type": "DEMO",
-    "Date": "2024-01-16T11:00:00.000+01:00",
+    "Date": "2024-01-16T17:00:00.000+01:00",
     "Date PN": "2024-01-16",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Tuesday",
     "Status": "LOSS",
     "Confluences": [
@@ -828,6 +844,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.1625,
     "Trade P&L $": -533.82
   },
@@ -835,10 +853,8 @@
     "ID": "139ffdb4-482b-4fec-8329-0e16ac7e587f",
     "Trade": "EUR-2401171039",
     "Type": "DEMO",
-    "Date": "2024-01-17T10:39:00.000+01:00",
+    "Date": "2024-01-17T16:39:00.000+01:00",
     "Date PN": "2024-01-17",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Wednesday",
     "Status": "LOSS",
     "Confluences": [
@@ -847,6 +863,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.15,
     "Trade P&L $": -537.05
   },
@@ -854,10 +872,8 @@
     "ID": "f01851a4-eab2-441d-b751-9d4331ff1bf3",
     "Trade": "EUR-2401190315",
     "Type": "DEMO",
-    "Date": "2024-01-19T03:55:00.000+01:00",
+    "Date": "2024-01-19T09:55:00.000+01:00",
     "Date PN": "2024-01-19",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -866,6 +882,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.060869565217,
     "Trade P&L $": -498.98
   },
@@ -875,8 +893,6 @@
     "Type": "DEMO",
     "Date": "2024-01-19T16:53:00.000+01:00",
     "Date PN": "2024-01-19",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Friday",
     "Status": "LOSS",
     "Confluences": [
@@ -886,6 +902,8 @@
       "ORDER FLOW H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.07,
     "Trade P&L $": -499.69
   },
@@ -895,8 +913,6 @@
     "Type": "DEMO",
     "Date": "2024-01-25T09:48:00.000+01:00",
     "Date PN": "2024-01-25",
-    "Year": "2024",
-    "Month": "2024, 01-JAN",
     "Day": "Thursday",
     "Status": "LOSS",
     "Confluences": [
@@ -906,7 +922,103 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.447154471545,
     "Trade P&L $": -683.52
+  },
+  {
+    "ID": "72f3d096-55c7-40e4-91b9-a35d3bcbcd8c",
+    "Trade": "EUR-2401300930",
+    "Type": "DEMO",
+    "Date": "2024-01-30T09:30:00.000+01:00",
+    "Date PN": "2024-01-30",
+    "Day": "Tuesday",
+    "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "CYCLE M15",
+      "LONDON"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Trade P&L Reward": -1.559523809524,
+    "Trade P&L $": -719.19
+  },
+  {
+    "ID": "07cc2268-63c7-4cf2-9c25-2a37ffd052c1",
+    "Trade": "EUR-2401301432",
+    "Type": "DEMO",
+    "Date": "2024-01-30T14:32:00.000+01:00",
+    "Date PN": "2024-01-30",
+    "Day": "Tuesday",
+    "Status": "LOSS",
+    "Confluences": [
+      "NEW YORK",
+      "CYCLE M15"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 01-JAN",
+    "Trade P&L Reward": -1.0875,
+    "Trade P&L $": -499.38
+  },
+  {
+    "ID": "d5a53934-5273-4c59-b9a7-cd95007e0031",
+    "Trade": "EUR-2402011616",
+    "Type": "DEMO",
+    "Date": "2024-02-01T16:16:00.000+01:00",
+    "Date PN": "2024-02-01",
+    "Day": "Thursday",
+    "Status": "LOSS",
+    "Confluences": [
+      "CYCLE H1",
+      "FIXING",
+      "NEWS"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 02-FEB",
+    "Trade P&L Reward": -1.094594594595,
+    "Trade P&L $": -999.54
+  },
+  {
+    "ID": "02ff83a9-3194-4d89-aeb7-f81c5c9ec149",
+    "Trade": "EUR-2402011629",
+    "Type": "DEMO",
+    "Date": "2024-02-01T16:29:00.000+01:00",
+    "Date PN": "2024-02-01",
+    "Day": "Thursday",
+    "Status": "WIN",
+    "Confluences": [
+      "NEWS",
+      "FIXING"
+    ],
+    "Theory P&L Reward": 1.188118811881,
+    "Year": "2024",
+    "Month": "2024, 02-FEB",
+    "Trade P&L Reward": 1.118811881188,
+    "Trade P&L $": 1045.25
+  },
+  {
+    "ID": "72f3bfff-ca6f-4e21-a216-8bf98146e453",
+    "Trade": "EUR-2402020942",
+    "Type": "DEMO",
+    "Date": "2024-02-02T09:42:00.000+01:00",
+    "Date PN": "2024-02-02",
+    "Day": "Friday",
+    "Status": "LOSS",
+    "Confluences": [
+      "CYCLE D1",
+      "CYCLE H4",
+      "LONDON",
+      "LIQUIDITY D1"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Year": "2024",
+    "Month": "2024, 02-FEB",
+    "Trade P&L Reward": -1.067307692308,
+    "Trade P&L $": -499.5
   }
 ]

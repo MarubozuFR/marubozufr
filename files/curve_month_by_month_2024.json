@@ -4,9 +4,19 @@
     "Month WN": "2024, Jan",
     "Month N": "January",
     "Month D": 1,
-    "Strategy Curve": -2.9699999999999998,
-    "Test Curve": 6.03,
-    "Demo Curve": -10.517031054509,
+    "Strategy Curve": 2.8728571428570007,
+    "Test Curve": 13.872857142857,
+    "Demo Curve": -13.164054864033,
+    "Live Curve": 0.0
+  },
+  {
+    "Month": "2024, 02-FEB",
+    "Month WN": "2024, Feb",
+    "Month N": "February",
+    "Month D": 2,
+    "Strategy Curve": 2.0609759547380007,
+    "Test Curve": 13.872857142857,
+    "Demo Curve": -14.207145269748,
     "Live Curve": 0.0
   }
 ]
