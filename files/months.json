@@ -6,9 +6,9 @@
     "Month WN": "2023, Jan",
     "Month N": "January",
     "Month D": 1,
-    "Strategy P&L": 34.836357142857,
+    "Strategy P&L": 35.836357142857,
     "Test P&L": 35.836357142857,
-    "Demo P&L": -1.233333333333,
+    "Demo P&L": 0.0,
     "Live P&L": 0.0
   },
   {
@@ -150,9 +150,9 @@
     "Month WN": "2024, Jan",
     "Month N": "January",
     "Month D": 1,
-    "Strategy P&L": 2.8728571428570007,
+    "Strategy P&L": 1.8728571428570007,
     "Test P&L": 13.872857142857,
-    "Demo P&L": -13.164054864033,
+    "Demo P&L": -14.397388197366,
     "Live P&L": 0.0
   },
   {
