@@ -551,11 +551,11 @@
   },
   {
     "Date": "2024-02-07T09:19:00.000+01:00",
-    "Strategy": 21.059916756513996,
-    "Reality": -1.8759904591780003,
-    "Reality ($)": 1756.4856874999987,
+    "Strategy": 20.659916756513997,
+    "Reality": -2.3759904591780003,
+    "Reality ($)": 1529.3356874999986,
     "Risk Management": 0.5,
-    "Streak": 0,
+    "Streak": -2,
     "Losing Streak": 10,
     "Winning Streak": 2
   }

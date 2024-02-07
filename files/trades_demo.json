@@ -1028,16 +1028,16 @@
     "Date": "2024-02-07T09:19:00.000+01:00",
     "Date PN": "2024-02-07",
     "Day": "Wednesday",
-    "Status": "BE",
+    "Status": "LOSS",
     "Confluences": [
       "LIQUIDITY D1",
       "LONDON",
       "VWAP"
     ],
-    "Theory P&L Reward": 0.0,
+    "Theory P&L Reward": -0.4,
     "Year": "2024",
     "Month": "2024, 02-FEB",
-    "Trade P&L Reward": 0.0,
-    "Trade P&L $": 0.0
+    "Trade P&L Reward": -0.5,
+    "Trade P&L $": -227.15
   }
 ]

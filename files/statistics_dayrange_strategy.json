@@ -2,45 +2,45 @@
   {
     "Range": "1st-7th",
     "Trades": 29,
-    "P&L": 62.2,
+    "P&L": 61.8,
     "Win": 14,
-    "Loss": 11,
-    "Breakeven": 4,
+    "Loss": 12,
+    "Breakeven": 3,
     "WinRate": 48,
-    "LossRate": 38,
-    "BreakevenRate": 14
+    "LossRate": 41,
+    "BreakevenRate": 11
   },
   {
     "Range": "8th-14th",
     "Trades": 53,
-    "P&L": 122.21,
+    "P&L": 121.81,
     "Win": 26,
-    "Loss": 19,
-    "Breakeven": 8,
+    "Loss": 20,
+    "Breakeven": 7,
     "WinRate": 49,
-    "LossRate": 36,
-    "BreakevenRate": 15
+    "LossRate": 38,
+    "BreakevenRate": 13
   },
   {
     "Range": "15th-21st",
     "Trades": 83,
-    "P&L": 199.24,
+    "P&L": 198.84,
     "Win": 39,
-    "Loss": 33,
-    "Breakeven": 11,
+    "Loss": 34,
+    "Breakeven": 10,
     "WinRate": 47,
-    "LossRate": 40,
-    "BreakevenRate": 13
+    "LossRate": 41,
+    "BreakevenRate": 12
   },
   {
     "Range": "22nd-31st",
     "Trades": 114,
-    "P&L": 294.27,
+    "P&L": 293.87,
     "Win": 56,
-    "Loss": 45,
-    "Breakeven": 13,
+    "Loss": 46,
+    "Breakeven": 12,
     "WinRate": 49,
-    "LossRate": 39,
-    "BreakevenRate": 12
+    "LossRate": 40,
+    "BreakevenRate": 11
   }
 ]
