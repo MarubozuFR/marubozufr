@@ -1885,5 +1885,22 @@
     "Theory P&L Reward": -1.0,
     "Year": "2024",
     "Month": "2024, 02-FEB"
+  },
+  {
+    "ID": "3ad10d2a-c44b-4be4-928c-83e5ef9fd27c",
+    "Trade": "EUR-2402070919",
+    "Type": "DEMO",
+    "Date": "2024-02-07T09:19:00.000+01:00",
+    "Date PN": "2024-02-07",
+    "Day": "Wednesday",
+    "Status": "BE",
+    "Confluences": [
+      "LIQUIDITY D1",
+      "LONDON",
+      "VWAP"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Year": "2024",
+    "Month": "2024, 02-FEB"
   }
 ]
