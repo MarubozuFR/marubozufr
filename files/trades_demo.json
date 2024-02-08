@@ -418,8 +418,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 2.260869565217,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Same as the previous trade\n- The initial TP was not hit\n- Fixing took M15 liquidity with a valid low.",
+    "Cons": "- No new cons, still the same huge imbalance below that whole PA.",
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 1.008403361345,

@@ -1298,8 +1298,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": 6.36,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- PDL taken during Asia, forming a valid low in M15 and H1.\n- London open keeps the move and creates a displacement, leaving no liquidity below it but imbalance above.\n- London opens is an engulfing candle, leaving more imbalance in the wick.\n- Price creates liquidity during lunch.\n- Price enters the OB and draws a valid low (extra confluence).\n- Many invalid highs sitting above price.",
+    "Cons": "- There is room to the downside with A LOT of imbalances below the current price action.",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1316,8 +1316,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": 6.526315789474,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- D1 liquidity taken\n- PDL taken\n- D1, H4 & H1 are bullish\n- M15 has drawn a valid low",
+    "Cons": "- Still a lot of imbalances below",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1334,8 +1334,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 2.260869565217,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Same as the previous trade\n- The initial TP was not hit\n- Fixing took M15 liquidity with a valid low.",
+    "Cons": "- No new cons, still the same huge imbalance below that whole PA.",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1354,8 +1354,8 @@
       "CYCLE INTERNAL"
     ],
     "Theory P&L Reward": 6.967272727273,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Very extended in H4, price started to correct a bit\n- H4 drew a case 2 (structure shift) and left imbalance and a nice OB with an unmitigated wick\n- M15 structure was taken and M15 internal structure as well.",
+    "Cons": "- News could just swept the structure completely.",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
