@@ -1372,8 +1372,8 @@
       "STRUCTURE SHIFT H4"
     ],
     "Theory P&L Reward": 5.6,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price came back in H4 Structure Shift and valid OB\n- Price drew a valid low at fixing",
+    "Cons": "- Most of the structure is bearish (M15, H1, H4)",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1391,8 +1391,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- H4 Trend has turned bearish\n- D1 is extended\n- PDH has been taken",
+    "Cons": "- Price reacted from H4 case 2 from the past week\n- Price is overall bullish",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1409,8 +1409,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 3.375,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- H4 cycle taken\n- Fixing takes out the cycle and form a valid low",
+    "Cons": "- Lots of imbalance below",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1427,8 +1427,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 4.9,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price is overall bullish\n- H4 drew a structure shift, with no momentum but since the high was invalid, I assumed it could go higher.\n- D1 high is invalid\n- Intraday trade\n- Drew a valid low with engulfing during London open",
+    "Cons": "- Price is quite extended\n- There are several FVG zones to fill",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1448,8 +1448,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- D1 is back in OF, and the OF is EPA\n- H4 is back in the last EPA OF\n- H1 internal liquidity was taken\n- Drew a valid down candle with a huge wick, showing rejection",
+    "Cons": "- There is still a lot of imbalance below\n- The H4 area is an invalid low",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1468,8 +1468,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Week was bearish so expecting a move up.\n- D1 cycle & PDL was taken.\n- Valid low during news & fixing",
+    "Cons": "- Still many room to the down side.\n- Week bearish, price could go up after a low done next week.\n- Tons of news next week.",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1487,8 +1487,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Friday bounced back with volume\n- Friday took daily structure\n- Monday started to retrace before drawing a nice and valid low at London open, leaving imbalance\n- Price comes back just before London and draws a valid low.",
+    "Cons": "- It\u2019s Monday, there are still room below the entry, price did not mitigate 50% of the Friday zone, nor 50% of the London zone\n- No H1 or H4 liquidity taken first\n- H4 low is invalid",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1505,8 +1505,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- London created a valid M15 low inside a daily FVG and shot up, leaving imbalance\n- NY open candle formed a valid low as a retest of the London zone",
+    "Cons": "- No liquidity taken, nor H4, H1 or M15\n- Perfect double bottom formed by yesterday\u2019s news and  London",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1525,8 +1525,8 @@
       "CYCLE INTERNAL"
     ],
     "Theory P&L Reward": 6.8525,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Order flow is very bearish\n- News came get an internal M15 liquidity\n- Momentum is bearish",
+    "Cons": "- The same news created a valid high\n- PDL was taken during Fixing",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1544,8 +1544,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Fixing created a valid low\n- PDL was taken during Fixing\n- News created a huge move up",
+    "Cons": "- OF is still very bearish in M15, H1 & H4",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1565,8 +1565,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price reached the daily FVG\n- M15, then H1, then H4 did a structure shift\n- News at 14:30 brought it back to north, leaving imbalance\n- Entry from the wick",
+    "Cons": "- Could just be a move to mitigate the last unmitigated FVG from the JOLTS news",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1583,7 +1583,7 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
+    "Pros": "- Back to fixing engulfing within the initiated up move",
     "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC"
@@ -1600,8 +1600,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Following the OF",
+    "Cons": "- News is coming\n- No liquidity taken\n- No retest of a timing",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1618,8 +1618,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- News has left an invalid high in H1 & M15\n- Fixing created a valid low\n- Objective is to reach the high",
+    "Cons": "- No liquidity has been taken\n- Price is ranging",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1636,8 +1636,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": 6.125,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- The momentum is strong toward the daily invalid high\n- M15 drew was EPA and came back to a order flow\n- M15 drew a valid low with an engulfing at London open sharp",
+    "Cons": "- The move up from the news was huge and we could have seen a corrective day\n- No liquidity taken, so the risk was higher",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1655,8 +1655,8 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Momentum bullish\n- H1 liquidity taken\n- Valid low made during New York",
+    "Cons": "- The price is high in the market\n- Valid low made a bit late in New York, almost without timing\n- It\u2019s Friday",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1673,8 +1673,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 5.01875,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Valid low formed by London open\n- Order flow bullish with no imbalance left after retesting Fixing",
+    "Cons": "- No liquidity taken in any TF",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1691,8 +1691,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- H1 cycle taken early in the morning\n- Drawing a H1 valid low with an engulfing\n- London open draws a valid low\n- Momentum is bullish",
+    "Cons": "- The H1 valid low left imbalance and per the wick\n- There was imbalance left below in M15",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1710,8 +1710,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- H1 cycle with valid low and engulfing, M15 is also a valid low\n- M15 cycle with valid low\n- Momentum is bullish",
+    "Cons": "- The M15 candle that starts the low is huge\n- There are still a great H1 area below with a lot of imbalances",
     "Year": "2023",
     "Month": "2023, 12-DEC"
   },
@@ -1729,8 +1729,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Back to D1 discount\n- Valid M15, H1, H4 low with news\n- Bullish day and Fixing retests London",
+    "Cons": "- More liquidity to the downside",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1748,8 +1748,8 @@
       "CYCLE D1"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- NFP has taken D1 liquidity\n- That daily liquidity was also a W1 low\n- Valid low in M15",
+    "Cons": "- It\u2019s outside of timing\n- The wick created by the news is huge",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1766,8 +1766,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- News happened on Friday (NFP) and created a valid low in M15 and D1\n- Price came back on Monday in the last M15 MSS created by news\n- Price created a valid low with an engulfing during London (but outside of the timing)\n- Price then created a valid low during pre-New-York\n- Price created a valid low at New York open",
+    "Cons": "- The news did not created a valid low in H4 and left a huge unmitigated wick\n- The news did not created a valid low in H1 and left a huge unmitigated wick\n- The engulfing was not tested yet\n- The huge wick done during the news wasn\u2019t 50% mitigated\n- It might be early to enter as CPI is only on Thursday",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1785,8 +1785,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- NFP last week ended bullish with a valid low in daily\n- Price moved sideways respecting no levels nor timing\n- Current day opened bullish after a valid low the day before\n- New York created a valid low, while taking M15 liquidity\n- CPI is tomorrow, good moment to enter",
+    "Cons": "- There are still room to go lower\n- Could be a fake out",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1806,7 +1806,7 @@
       "FIXING"
     ],
     "Theory P&L Reward": 6.03,
-    "Pros": null,
+    "Pros": "- NFP news created the low\n- Price took the first 3 days to mitigate the wick\n- Price reached H4 & H1 OB, creating M15 OF series\n- Valid low during London with engulfing and imbalance\n- Retest of London at 16:00 sharp",
     "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN"
@@ -1824,8 +1824,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Last day fixing went up a lot\n- Today is news, enter at London or don\u2019t enter\n- Valid low after M15 liquidity grab",
+    "Cons": "- Already high in the price in M15",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1843,8 +1843,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price ended bullish the previous day.\n- After CPI, H4 LQ was taken then a valid low formed, followed by a M15 structure shift.\n- Price came back to late valid low and reacted leaving imbalance at London open, the low being validated just before London open.",
+    "Cons": "- CPI showed bearish intent with a huge engulfing.\n- Price is ugly and does not show clear intent.\n- Price ended the move up created by London open with a bearish engulfing, showing bearish intent.\n- The entry was made by a candle that is now a valid low.",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1860,8 +1860,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price came back to New York open of Friday and created a valid low\n- Price moved up from there early Monday and then pullbacked to 50%.\n- London open made a nice valid low with strength.",
+    "Cons": "- It\u2019s Monday and US markets are closed today",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1879,8 +1879,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- London dumped and broke the low.\n- Cas 2 formed and New York open validated it and confirmed the valid high",
+    "Cons": "- No easy liquidity taken ",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1897,8 +1897,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- New York has built a case 2 and has dropped\n- Fixing created a engulfing being a valid high",
+    "Cons": "- Monday without liquidity",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1916,7 +1916,7 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
+    "Pros": "- Price took out Weekly liquidity\n- Price took out Daily cycle\n- Fixing created an engulfing",
     "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN"
@@ -1935,8 +1935,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Momentum has been bearish for a while\n- New York took some liquidity, forms a case 2 and drops\n- Fixing came back, takes M15 liquidity and mitigate the OB formed by the case 2.\n- Fixing formed a valid high.",
+    "Cons": "- It\u2019s Wednesday and maybe it was the low, shorting was during Monday and Tuesday.",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1954,8 +1954,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Daily has invalid low, H4 has invalid low so bearish intent\n- M15 took a cycle with volume and reverses instantly",
+    "Cons": "- The M15 candle at London open closes bullish on MT5\n- If price wants to go up, this trade is in the breakeven part for bullishness",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1974,8 +1974,8 @@
       "ORDER FLOW H1"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Invalid low on D1 and H4\n- News creates a valid high, through engulfing\n- News takes M15 internal liquidity",
+    "Cons": "- Nothing works so far",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1994,7 +1994,7 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
+    "Pros": "- D1 drew a valid high inside the OB\n- H4 turned bullish\n- H1 turned bullish\n- H4 high is invalid\n- H1 high is invalid\n- M15 took liquidity at the top at London open then took cycle liquidity with engulfing and pushed higher",
     "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN"
@@ -2013,8 +2013,8 @@
       "ORDER FLOW H1"
     ],
     "Theory P&L Reward": 7.842857142857,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- The monetary policy is bearish\n- New York news took liquidity and formed a valid high\n- Fixing confirmed with a valid high",
+    "Cons": "- New York news also formed a valid low",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -2032,8 +2032,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Current monetary policy is bearish\n- H1 cycle was taken yesterday evening\n- Price was back in premium zone\n- H1 low is invalid\n- M15 cycle was taken at London open and followed by a valid high",
+    "Cons": "- H4 created a valid low\n- London is usually bad to me\n- It\u2019s the day before FOMC\n- News in 30 minutes",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -2050,8 +2050,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Momentum is bearish\n- In premium of H4, H1\n- Liquidity taken in M15",
+    "Cons": "- Close to FOMC",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -2069,8 +2069,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Momentum is bearish\n- FOMC yesterday has taken liquidity at the top and dropped\n- Current news today has drawn a valid high after New York has taken H1 liquidity",
+    "Cons": "- Despite the valid high, the down candle has a huge wick showing bullish pressure",
     "Year": "2024",
     "Month": "2024, 02-FEB"
   },
@@ -2087,8 +2087,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 1.188118811881,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- I just lose, so enter after last loss at the opposite side",
+    "Cons": "- No strategy",
     "Year": "2024",
     "Month": "2024, 02-FEB"
   },
@@ -2107,8 +2107,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Invalid low in daily despite the previous day that was huge\n- FOMC & Rate pushed price lower in a valid high withe engulfing\n- Daily cycle, liquidity and PDH have been taken\n- H4 cycle has been taken",
+    "Cons": "- The momentum seems bullish since the past day\n- Price failed to create a new low with close candle\n- Price has already pullbacked to the bottom of the last up move.",
     "Year": "2024",
     "Month": "2024, 02-FEB"
   },

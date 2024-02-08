@@ -988,8 +988,8 @@
       "STRUCTURE SHIFT H4"
     ],
     "Theory P&L Reward": 5.6,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- Price came back in H4 Structure Shift and valid OB\n- Price drew a valid low at fixing",
+    "Cons": "- Most of the structure is bearish (M15, H1, H4)",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1007,8 +1007,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- H4 Trend has turned bearish\n- D1 is extended\n- PDH has been taken",
+    "Cons": "- Price reacted from H4 case 2 from the past week\n- Price is overall bullish",
     "Year": "2023",
     "Month": "2023, 11-NOV"
   },
@@ -1026,8 +1026,8 @@
       "CYCLE D1"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- NFP has taken D1 liquidity\n- That daily liquidity was also a W1 low\n- Valid low in M15",
+    "Cons": "- It\u2019s outside of timing\n- The wick created by the news is huge",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1047,7 +1047,7 @@
       "FIXING"
     ],
     "Theory P&L Reward": 6.03,
-    "Pros": null,
+    "Pros": "- NFP news created the low\n- Price took the first 3 days to mitigate the wick\n- Price reached H4 & H1 OB, creating M15 OF series\n- Valid low during London with engulfing and imbalance\n- Retest of London at 16:00 sharp",
     "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN"
@@ -1066,8 +1066,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- London dumped and broke the low.\n- Cas 2 formed and New York open validated it and confirmed the valid high",
+    "Cons": "- No easy liquidity taken ",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   },
@@ -1085,8 +1085,8 @@
       "ORDER FLOW H1"
     ],
     "Theory P&L Reward": 7.842857142857,
-    "Pros": null,
-    "Cons": null,
+    "Pros": "- The monetary policy is bearish\n- New York news took liquidity and formed a valid high\n- Fixing confirmed with a valid high",
+    "Cons": "- New York news also formed a valid low",
     "Year": "2024",
     "Month": "2024, 01-JAN"
   }
