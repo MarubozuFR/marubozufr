@@ -13,6 +13,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0354,
@@ -30,6 +32,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0,
@@ -47,6 +51,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": 0.125,
@@ -64,6 +70,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0,
@@ -82,6 +90,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.071428571429,
@@ -100,6 +110,8 @@
       "RETEST NEW YORK"
     ],
     "Theory P&L Reward": 5.051612903226,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": 5.029032258065,
@@ -118,6 +130,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.071428571429,
@@ -136,6 +150,8 @@
       "RETEST NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": 0.090909090909,
@@ -154,6 +170,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.0354,
@@ -173,6 +191,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": 7.005208333333,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": 3.476761904762,
@@ -191,6 +211,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 09-SEP",
     "Trade P&L Reward": -1.040457142857,
@@ -209,6 +231,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 10-OCT",
     "Trade P&L Reward": -1.0354,
@@ -229,6 +253,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 10-OCT",
     "Trade P&L Reward": 0.125,
@@ -248,6 +274,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 8.142857142857,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 10-OCT",
     "Trade P&L Reward": 4.857142857143,
@@ -267,6 +295,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 10-OCT",
     "Trade P&L Reward": -1.02832,
@@ -286,6 +316,8 @@
       "CYCLE INTERNAL"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": -0.0472,
@@ -304,6 +336,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.030893822222,
@@ -322,6 +356,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": -1.040457142857,
@@ -341,6 +377,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 5.1,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 4.8576,
@@ -360,6 +398,8 @@
       "CYCLE H4"
     ],
     "Theory P&L Reward": 0.04,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.014951724138,
@@ -378,6 +418,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": 2.260869565217,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 1.008403361345,
@@ -396,6 +438,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 3.375,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 0.026666666667,
@@ -414,6 +458,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 4.9,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": 2.925963636364,
@@ -435,6 +481,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 11-NOV",
     "Trade P&L Reward": -1.115789473684,
@@ -455,6 +503,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.166666666667,
@@ -474,6 +524,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.212121212121,
@@ -492,6 +544,8 @@
       "RETEST LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.093333333333,
@@ -512,6 +566,8 @@
       "CYCLE INTERNAL"
     ],
     "Theory P&L Reward": 6.8525,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": 5.0368875,
@@ -531,6 +587,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.056910569106,
@@ -552,6 +610,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": 0.089743589744,
@@ -570,6 +630,8 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -0.9625,
@@ -587,6 +649,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -0.6375,
@@ -605,6 +669,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": 1.8396,
@@ -623,6 +689,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": 6.125,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": 4.985244416027,
@@ -642,6 +710,8 @@
       "RETEST FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.08,
@@ -660,6 +730,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 5.01875,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": 0.075,
@@ -678,6 +750,8 @@
       "CYCLE H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.2,
@@ -697,6 +771,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2023",
     "Month": "2023, 12-DEC",
     "Trade P&L Reward": -1.1,
@@ -716,6 +792,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.108942682805,
@@ -734,6 +812,8 @@
       "STRUCTURE SHIFT M15"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -0.174850431198,
@@ -753,6 +833,8 @@
       "NEW YORK"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.233333333333,
@@ -771,6 +853,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.102941176471,
@@ -790,6 +874,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": 0.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -0.0125,
@@ -807,6 +893,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.1,
@@ -825,6 +913,8 @@
       "ORDER FLOW M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.127272727273,
@@ -844,6 +934,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.1625,
@@ -863,6 +955,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.15,
@@ -882,6 +976,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.060869565217,
@@ -902,6 +998,8 @@
       "ORDER FLOW H1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.07,
@@ -922,6 +1020,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.447154471545,
@@ -941,6 +1041,8 @@
       "LONDON"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.559523809524,
@@ -959,6 +1061,8 @@
       "CYCLE M15"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 01-JAN",
     "Trade P&L Reward": -1.0875,
@@ -978,6 +1082,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 02-FEB",
     "Trade P&L Reward": -1.094594594595,
@@ -996,6 +1102,8 @@
       "FIXING"
     ],
     "Theory P&L Reward": 1.188118811881,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 02-FEB",
     "Trade P&L Reward": 1.118811881188,
@@ -1016,6 +1124,8 @@
       "LIQUIDITY D1"
     ],
     "Theory P&L Reward": -1.0,
+    "Pros": null,
+    "Cons": null,
     "Year": "2024",
     "Month": "2024, 02-FEB",
     "Trade P&L Reward": -1.067307692308,
@@ -1035,6 +1145,8 @@
       "VWAP"
     ],
     "Theory P&L Reward": -0.4,
+    "Pros": "- The momentum is bearish\n- PDH was taken and London opened with a huge engulfing to the downside\n- Frankfurt created equal lows (BE)\n- Price is outside of VWAP in H1 and M15",
+    "Cons": "- We are still cheap in H4, so price could go up a bit more",
     "Year": "2024",
     "Month": "2024, 02-FEB",
     "Trade P&L Reward": -0.5,
