@@ -1,14 +1,14 @@
 [
   {
     "Range": "1st-7th",
-    "Trades": 29,
-    "P&L": 61.8,
-    "Win": 14,
+    "Trades": 30,
+    "P&L": 66.34,
+    "Win": 15,
     "Loss": 12,
     "Breakeven": 3,
-    "WinRate": 48,
-    "LossRate": 41,
-    "BreakevenRate": 11
+    "WinRate": 50,
+    "LossRate": 40,
+    "BreakevenRate": 10
   },
   {
     "Range": "8th-14th",

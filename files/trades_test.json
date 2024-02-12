@@ -1094,9 +1094,9 @@
     "ID": "e51053f0-08d0-4116-8013-77b36826a4b7",
     "Trade": "EUR-2402121630",
     "Type": "TEST",
-    "Date": "2024-02-12T16:30:00.000+01:00",
-    "Date PN": "2024-02-12",
-    "Day": "Monday",
+    "Date": "2024-02-07T16:30:00.000+01:00",
+    "Date PN": "2024-02-07",
+    "Day": "Wednesday",
     "Status": "WIN",
     "Confluences": [
       "VWAP",
