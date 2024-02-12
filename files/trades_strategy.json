@@ -2130,5 +2130,24 @@
     "Cons": "- We are still cheap in H4, so price could go up a bit more",
     "Year": "2024",
     "Month": "2024, 02-FEB"
+  },
+  {
+    "ID": "e51053f0-08d0-4116-8013-77b36826a4b7",
+    "Trade": "EUR-2402121630",
+    "Type": "TEST",
+    "Date": "2024-02-12T16:30:00.000+01:00",
+    "Date PN": "2024-02-12",
+    "Day": "Monday",
+    "Status": "WIN",
+    "Confluences": [
+      "VWAP",
+      "RETEST NEW YORK",
+      "FIXING"
+    ],
+    "Theory P&L Reward": 4.54,
+    "Pros": "- Price exit the VWAP during New York\n- At 14:30, price goes back in with huge volumes\n- At Fixing, price comes back to test the New York setup",
+    "Cons": null,
+    "Year": "2024",
+    "Month": "2024, 02-FEB"
   }
 ]
