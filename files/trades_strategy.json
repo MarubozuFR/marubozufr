@@ -2149,5 +2149,24 @@
     "Cons": null,
     "Year": "2024",
     "Month": "2024, 02-FEB"
+  },
+  {
+    "ID": "8c5fceb3-cc89-4331-806b-898bc0dc569c",
+    "Trade": "EUR-2402140951",
+    "Type": "DEMO",
+    "Date": "2024-02-14T09:51:00.000+01:00",
+    "Date PN": "2024-02-14",
+    "Day": "Wednesday",
+    "Status": "BE",
+    "Confluences": [
+      "VWAP",
+      "LONDON",
+      "LIQUIDITY D1"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Rejected 1.07 with an engulfing\n- Exit the VWAP in M15 and H1",
+    "Cons": "- Price is bearish, going against the trend",
+    "Year": "2024",
+    "Month": "2024, 02-FEB"
   }
 ]
