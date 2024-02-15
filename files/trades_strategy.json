@@ -2157,13 +2157,13 @@
     "Date": "2024-02-14T09:51:00.000+01:00",
     "Date PN": "2024-02-14",
     "Day": "Wednesday",
-    "Status": "BE",
+    "Status": "WIN",
     "Confluences": [
       "VWAP",
       "LONDON",
       "LIQUIDITY D1"
     ],
-    "Theory P&L Reward": 0.0,
+    "Theory P&L Reward": 2.156391304348,
     "Pros": "- Rejected 1.07 with an engulfing\n- Exit the VWAP in M15 and H1",
     "Cons": "- Price is bearish, going against the trend",
     "Year": "2024",
