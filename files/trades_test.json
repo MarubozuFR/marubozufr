@@ -1116,14 +1116,14 @@
     "Date": "2024-02-16T14:45:00.000+01:00",
     "Date PN": "2024-02-16",
     "Day": "Friday",
-    "Status": "BE",
+    "Status": "WIN",
     "Confluences": [
       "VWAP",
       "ORDER FLOW H1",
       "NEWS",
       "NEW YORK"
     ],
-    "Theory P&L Reward": 0.0,
+    "Theory P&L Reward": 4.8,
     "Pros": "- Since CPI, price seems to be bullish\n- Price came back to H1 OF during news\n- M15 drew a valid low while the previous high was invalid\n- H1 ended doing a valid low even though I couldn\u2019t know at that moment",
     "Cons": "- Daily momentum is bearish (latest FOMC, NFP and CPI pushed price lower)\n- Daily drew valid highs and invalid lows\n- H1 drew valid highs and invalid lows\n- News during Fixing so left only 1h15 min to go BE",
     "Year": "2024",

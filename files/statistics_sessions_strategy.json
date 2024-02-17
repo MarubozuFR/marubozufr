@@ -13,23 +13,23 @@
   {
     "Session": "NEW YORK",
     "Trades": 62,
-    "P&L": 159.0,
-    "Win": 28,
+    "P&L": 163.8,
+    "Win": 29,
     "Loss": 26,
-    "Breakeven": 8,
-    "WinRate": 45,
+    "Breakeven": 7,
+    "WinRate": 47,
     "LossRate": 42,
-    "BreakevenRate": 13
+    "BreakevenRate": 11
   },
   {
     "Session": "FIXING",
     "Trades": 95,
-    "P&L": 210.15,
-    "Win": 42,
+    "P&L": 214.95,
+    "Win": 43,
     "Loss": 41,
-    "Breakeven": 12,
-    "WinRate": 44,
+    "Breakeven": 11,
+    "WinRate": 45,
     "LossRate": 43,
-    "BreakevenRate": 13
+    "BreakevenRate": 12
   }
 ]

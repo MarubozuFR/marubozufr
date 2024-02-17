@@ -46,12 +46,12 @@
   {
     "Day": "Friday",
     "Trades": 16,
-    "P&L": 64.66,
-    "Win": 9,
+    "P&L": 69.46,
+    "Win": 10,
     "Loss": 3,
-    "Breakeven": 4,
-    "WinRate": 56,
+    "Breakeven": 3,
+    "WinRate": 62,
     "LossRate": 19,
-    "BreakevenRate": 25
+    "BreakevenRate": 19
   }
 ]
