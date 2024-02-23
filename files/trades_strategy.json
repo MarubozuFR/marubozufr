@@ -2196,7 +2196,7 @@
     "Date": "2024-02-23T09:32:00.000+01:00",
     "Date PN": "2024-02-23",
     "Day": "Friday",
-    "Status": "BE",
+    "Status": "LOSS",
     "Confluences": [
       "VWAP",
       "LONDON"

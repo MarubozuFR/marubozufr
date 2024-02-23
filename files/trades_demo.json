@@ -1180,7 +1180,7 @@
     "Date": "2024-02-23T09:32:00.000+01:00",
     "Date PN": "2024-02-23",
     "Day": "Friday",
-    "Status": "BE",
+    "Status": "LOSS",
     "Confluences": [
       "VWAP",
       "LONDON"
@@ -1190,7 +1190,7 @@
     "Cons": "- We are not in H1 premium and there are still a bit of room above\n- I forgot to noticed there was a news in 20 minutes, so placed it BE as soon as I could",
     "Year": "2024",
     "Month": "2024, 02-FEB",
-    "Trade P&L Reward": 0.0,
-    "Trade P&L $": 0.0
+    "Trade P&L Reward": -0.2375,
+    "Trade P&L $": -95.0
   }
 ]

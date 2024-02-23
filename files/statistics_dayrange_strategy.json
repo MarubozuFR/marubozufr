@@ -37,10 +37,10 @@
     "Trades": 118,
     "P&L": 305.37,
     "Win": 59,
-    "Loss": 46,
-    "Breakeven": 13,
+    "Loss": 47,
+    "Breakeven": 12,
     "WinRate": 50,
-    "LossRate": 39,
-    "BreakevenRate": 11
+    "LossRate": 40,
+    "BreakevenRate": 10
   }
 ]
