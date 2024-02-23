@@ -34,13 +34,13 @@
   },
   {
     "Range": "22nd-31st",
-    "Trades": 57,
+    "Trades": 58,
     "P&L": -0.35,
     "Win": 16,
     "Loss": 36,
-    "Breakeven": 5,
+    "Breakeven": 6,
     "WinRate": 28,
-    "LossRate": 63,
-    "BreakevenRate": 9
+    "LossRate": 62,
+    "BreakevenRate": 10
   }
 ]

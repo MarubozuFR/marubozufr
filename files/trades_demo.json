@@ -1172,5 +1172,25 @@
     "Month": "2024, 02-FEB",
     "Trade P&L Reward": 2.029813974592,
     "Trade P&L $": 939.4791
+  },
+  {
+    "ID": "5423bfe8-5165-4d43-9b88-755771c7f20d",
+    "Trade": "EUR-2402230932",
+    "Type": "DEMO",
+    "Date": "2024-02-23T09:32:00.000+01:00",
+    "Date PN": "2024-02-23",
+    "Day": "Friday",
+    "Status": "BE",
+    "Confluences": [
+      "VWAP",
+      "LONDON"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Price got out of the VWAP in both M15 and H1\n- Price drew a valid high in M15 and the down candle had volumes",
+    "Cons": "- We are not in H1 premium and there are still a bit of room above\n- I forgot to noticed there was a news in 20 minutes, so placed it BE as soon as I could",
+    "Year": "2024",
+    "Month": "2024, 02-FEB",
+    "Trade P&L Reward": 0.0,
+    "Trade P&L $": 0.0
   }
 ]

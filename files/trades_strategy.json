@@ -2188,5 +2188,23 @@
     "Cons": "- Daily momentum is bearish (latest FOMC, NFP and CPI pushed price lower)\n- Daily drew valid highs and invalid lows\n- H1 drew valid highs and invalid lows\n- News during Fixing so left only 1h15 min to go BE",
     "Year": "2024",
     "Month": "2024, 02-FEB"
+  },
+  {
+    "ID": "5423bfe8-5165-4d43-9b88-755771c7f20d",
+    "Trade": "EUR-2402230932",
+    "Type": "DEMO",
+    "Date": "2024-02-23T09:32:00.000+01:00",
+    "Date PN": "2024-02-23",
+    "Day": "Friday",
+    "Status": "BE",
+    "Confluences": [
+      "VWAP",
+      "LONDON"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Price got out of the VWAP in both M15 and H1\n- Price drew a valid high in M15 and the down candle had volumes",
+    "Cons": "- We are not in H1 premium and there are still a bit of room above\n- I forgot to noticed there was a news in 20 minutes, so placed it BE as soon as I could",
+    "Year": "2024",
+    "Month": "2024, 02-FEB"
   }
 ]
