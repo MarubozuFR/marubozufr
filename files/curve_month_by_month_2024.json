@@ -18,5 +18,15 @@
     "Test Curve": 0.0,
     "Demo Curve": 0.0,
     "Live Curve": 0.0
+  },
+  {
+    "Month": "2024, 03-MAR",
+    "Month WN": "2024, Mar",
+    "Month N": "March",
+    "Month D": 3,
+    "Strategy Curve": 0.0,
+    "Test Curve": 0.0,
+    "Demo Curve": 0.0,
+    "Live Curve": 0.0
   }
 ]

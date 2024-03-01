@@ -26,7 +26,11 @@
     "Month": "2024, 03-MAR",
     "Month WN": "2024, Mar",
     "Month N": "March",
-    "Month D": 3
+    "Month D": 3,
+    "Strategy P&L": 0.0,
+    "Test P&L": 0.0,
+    "Demo P&L": 0.0,
+    "Live P&L": 0.0
   },
   {
     "Year": 2024,
