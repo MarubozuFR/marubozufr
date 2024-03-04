@@ -2209,7 +2209,7 @@
   },
   {
     "ID": "62d8cc53-14e6-49f0-98e3-7178afb9c86c",
-    "Trade": "TRADE",
+    "Trade": "EUR-2403041530",
     "Type": "DEMO",
     "Date": "2024-03-04T15:30:00.000+01:00",
     "Date PN": "2024-03-04",
@@ -2223,7 +2223,7 @@
     "Theory P&L Reward": -1.0,
     "Pros": "- VWAP taken during London\n- Valid high H1 with engulfing\n- Kim K setup\n- PDH taken",
     "Cons": "- Momentum more bullish\n- Invalid high in M15",
-    "Year": "",
-    "Month": ""
+    "Year": "2024",
+    "Month": "2024, 03-MAR"
   }
 ]
