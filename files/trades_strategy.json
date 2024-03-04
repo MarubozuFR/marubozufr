@@ -2206,5 +2206,24 @@
     "Cons": "- We are not in H1 premium and there are still a bit of room above\n- I forgot to noticed there was a news in 20 minutes, so placed it BE as soon as I could",
     "Year": "2024",
     "Month": "2024, 02-FEB"
+  },
+  {
+    "ID": "62d8cc53-14e6-49f0-98e3-7178afb9c86c",
+    "Trade": "TRADE",
+    "Type": "DEMO",
+    "Date": "2024-03-04T15:30:00.000+01:00",
+    "Date PN": "2024-03-04",
+    "Day": "Monday",
+    "Status": "LOSS",
+    "Confluences": [
+      "VWAP",
+      "LIQUIDITY D1",
+      "RETEST LONDON"
+    ],
+    "Theory P&L Reward": -1.0,
+    "Pros": "- VWAP taken during London\n- Valid high H1 with engulfing\n- Kim K setup\n- PDH taken",
+    "Cons": "- Momentum more bullish\n- Invalid high in M15",
+    "Year": "",
+    "Month": ""
   }
 ]
