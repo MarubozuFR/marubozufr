@@ -2,169 +2,169 @@
   {
     "Day": "2024-02-01",
     "Day D": "01",
-    "Strategy P&L": 0.188118811881,
-    "Live P&L": 0,
+    "Demo P&L": 0.02421728659299993,
     "Test P&L": 0,
-    "Demo P&L": 0.02421728659299993
+    "Strategy P&L": 0.188118811881,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-02",
     "Day D": "02",
-    "Strategy P&L": -1.0,
-    "Live P&L": 0,
+    "Demo P&L": -1.067307692308,
     "Test P&L": 0,
-    "Demo P&L": -1.067307692308
+    "Strategy P&L": -1.0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-05",
     "Day D": "05",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-06",
     "Day D": "06",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-07",
     "Day D": "07",
-    "Strategy P&L": 4.14,
-    "Live P&L": 0,
+    "Demo P&L": -0.5,
     "Test P&L": 4.54,
-    "Demo P&L": -0.5
+    "Strategy P&L": 4.14,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-08",
     "Day D": "08",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-09",
     "Day D": "09",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-12",
     "Day D": "12",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-13",
     "Day D": "13",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-14",
     "Day D": "14",
-    "Strategy P&L": 2.156391304348,
-    "Live P&L": 0,
+    "Demo P&L": 2.029813974592,
     "Test P&L": 0,
-    "Demo P&L": 2.029813974592
+    "Strategy P&L": 2.156391304348,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-15",
     "Day D": "15",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-16",
     "Day D": "16",
-    "Strategy P&L": 4.8,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 4.8,
-    "Demo P&L": 0
+    "Strategy P&L": 4.8,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-19",
     "Day D": "19",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-20",
     "Day D": "20",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-21",
     "Day D": "21",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-22",
     "Day D": "22",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-23",
     "Day D": "23",
-    "Strategy P&L": 0.0,
-    "Live P&L": 0,
+    "Demo P&L": -0.2375,
     "Test P&L": 0,
-    "Demo P&L": -0.2375
+    "Strategy P&L": 0.0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-26",
     "Day D": "26",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-27",
     "Day D": "27",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-28",
     "Day D": "28",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   },
   {
     "Day": "2024-02-29",
     "Day D": "29",
-    "Strategy P&L": 0,
-    "Live P&L": 0,
+    "Demo P&L": 0,
     "Test P&L": 0,
-    "Demo P&L": 0
+    "Strategy P&L": 0,
+    "Live P&L": 0
   }
 ]
