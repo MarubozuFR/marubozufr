@@ -2225,5 +2225,25 @@
     "Cons": "- Momentum more bullish\n- Invalid high in M15",
     "Year": "2024",
     "Month": "2024, 03-MAR"
+  },
+  {
+    "ID": "f0933710-4613-41bc-b62b-6e14800b12fa",
+    "Trade": "TRADE",
+    "Type": "DEMO",
+    "Date": "2024-03-05T16:31:00.000+01:00",
+    "Date PN": "2024-03-05",
+    "Day": "Tuesday",
+    "Status": "WIN",
+    "Confluences": [
+      "VWAP",
+      "LIQUIDITY D1",
+      "FIXING",
+      "NEWS"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Exit VWAP & taking PDH during News\n- Created a valid high",
+    "Cons": "- Still stuck in the H1 range",
+    "Year": "",
+    "Month": ""
   }
 ]

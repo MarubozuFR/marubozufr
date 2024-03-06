@@ -1213,5 +1213,27 @@
     "Month": "2024, 03-MAR",
     "Trade P&L Reward": -0.975,
     "Trade P&L $": -468.0
+  },
+  {
+    "ID": "f0933710-4613-41bc-b62b-6e14800b12fa",
+    "Trade": "EUR-2403051631",
+    "Type": "DEMO",
+    "Date": "2024-03-05T16:31:00.000+01:00",
+    "Date PN": "2024-03-05",
+    "Day": "Tuesday",
+    "Status": "WIN",
+    "Confluences": [
+      "VWAP",
+      "LIQUIDITY D1",
+      "FIXING",
+      "NEWS"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Exit VWAP & taking PDH during News\n- Created a valid high",
+    "Cons": "- Still stuck in the H1 range",
+    "Year": "2024",
+    "Month": "2024, 03-MAR",
+    "Trade P&L Reward": 0.491525423729,
+    "Trade P&L $": 87.0
   }
 ]
