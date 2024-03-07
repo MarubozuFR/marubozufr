@@ -2,7 +2,7 @@
   {
     "Session": "LONDON",
     "Trades": 22,
-    "P&L": 1.41,
+    "P&L": 1.44,
     "Win": 5,
     "Loss": 13,
     "Breakeven": 4,
@@ -13,7 +13,7 @@
   {
     "Session": "NEW YORK",
     "Trades": 33,
-    "P&L": 3.44,
+    "P&L": 3.47,
     "Win": 9,
     "Loss": 20,
     "Breakeven": 4,
@@ -24,7 +24,7 @@
   {
     "Session": "FIXING",
     "Trades": 54,
-    "P&L": -1.01,
+    "P&L": -0.98,
     "Win": 15,
     "Loss": 33,
     "Breakeven": 6,
