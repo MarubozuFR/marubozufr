@@ -1235,5 +1235,27 @@
     "Month": "2024, 03-MAR",
     "Trade P&L Reward": 0.491525423729,
     "Trade P&L $": 87.0
+  },
+  {
+    "ID": "0d676497-62ef-473c-8431-984b6f609427",
+    "Trade": "EUR-2403070930",
+    "Type": "DEMO",
+    "Date": "2024-03-07T09:30:00.000+01:00",
+    "Date PN": "2024-03-07",
+    "Day": "Thursday",
+    "Status": "BE",
+    "Confluences": [
+      "VWAP",
+      "LONDON",
+      "ORDER FLOW M15",
+      "RETEST NEW YORK"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- London open took out VWAP while coming back in the previous OB done by previous New York\n- Price has shown bullish momentum",
+    "Cons": "- We are high in the market and price should probably come back down",
+    "Year": "2024",
+    "Month": "2024, 03-MAR",
+    "Trade P&L Reward": 0.0,
+    "Trade P&L $": 0.0
   }
 ]
