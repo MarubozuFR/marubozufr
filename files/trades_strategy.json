@@ -2265,5 +2265,24 @@
     "Cons": "- We are high in the market and price should probably come back down",
     "Year": "2024",
     "Month": "2024, 03-MAR"
+  },
+  {
+    "ID": "10ac2ee8-c1aa-4792-9bca-81dd491812d0",
+    "Trade": "EUR-2403081503",
+    "Type": "DEMO",
+    "Date": "2024-03-08T15:03:00.000+01:00",
+    "Date PN": "2024-03-08",
+    "Day": "Friday",
+    "Status": "BE",
+    "Confluences": [
+      "VWAP",
+      "NEW YORK",
+      "NEWS"
+    ],
+    "Theory P&L Reward": 0.0,
+    "Pros": "- Just exit the VWAP\n- Formed a valid high after news\n- Left a wick unmitigated\n- Price is expensive\n- NFP did not take liquidity before, it\u2019s the 6th consecutive up day",
+    "Cons": "- Against the current trend that is bullish",
+    "Year": "2024",
+    "Month": "2024, 03-MAR"
   }
 ]
