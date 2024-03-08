@@ -2280,8 +2280,8 @@
       "NEWS"
     ],
     "Theory P&L Reward": 0.0,
-    "Pros": "- Just exit the VWAP\n- Formed a valid high after news\n- Left a wick unmitigated\n- Price is expensive\n- NFP did not take liquidity before, it\u2019s the 6th consecutive up day",
-    "Cons": "- Against the current trend that is bullish",
+    "Pros": "- Just exit the VWAP\n- Formed a valid high after news\n- Left a wick unmitigated\n- Price is expensive\n- NFP did not take liquidity before, it\u2019s the 6th consecutive up day\n- H4 is inefficient\n- NFP is bullish USD",
+    "Cons": "- Against the current trend that is bullish\n- Employment rate is bearish USD",
     "Year": "2024",
     "Month": "2024, 03-MAR"
   }
